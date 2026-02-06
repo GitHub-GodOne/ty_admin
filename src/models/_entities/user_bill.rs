@@ -8,7 +8,7 @@ use rust_decimal::Decimal;
 #[sea_orm(table_name = "ty_user_bill")]
 pub struct Model {
     #[sea_orm(primary_key)]
-    pub id: u32,
+    pub id: i32,
     pub uid: u32,
     pub link_id: String,
     pub pm: u32,

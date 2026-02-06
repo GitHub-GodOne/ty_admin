@@ -7,8 +7,8 @@
   discount: 100
   icon: crmebimage/public/product/2025/05/30/5e59dfa3263b4236af27c452ad8d2f73ebymt8fegc.png
   is_del: 0
-  create_time: '2021-12-25 12:36:23'
-  update_time: '2025-05-30 14:56:42'
+  create_time: '2021-12-25T12:36:23'
+  update_time: '2025-05-30T14:56:42'
 - id: 2
   name: 青铜会员
   experience: 500
@@ -17,8 +17,8 @@
   discount: 90
   icon: crmebimage/public/product/2025/05/30/7d0d57f00e54415fa1eab20f6704415frwu3t11i5y.png
   is_del: 0
-  create_time: '2021-12-25 12:36:56'
-  update_time: '2025-05-30 14:56:50'
+  create_time: '2021-12-25T12:36:56'
+  update_time: '2025-05-30T14:56:50'
 - id: 3
   name: 白银会员
   experience: 999
@@ -27,8 +27,8 @@
   discount: 85
   icon: crmebimage/public/product/2025/05/30/a50002a908c245b086755d80371743333glh6cfjzl.png
   is_del: 0
-  create_time: '2021-12-25 12:38:19'
-  update_time: '2025-05-30 14:56:57'
+  create_time: '2021-12-25T12:38:19'
+  update_time: '2025-05-30T14:56:57'
 - id: 4
   name: 黄金会员
   experience: 5000
@@ -37,8 +37,8 @@
   discount: 80
   icon: crmebimage/public/product/2025/05/30/6f23684a773b46dcb6626b012551ff8cm8ygqkrl56.png
   is_del: 0
-  create_time: '2021-12-25 12:38:49'
-  update_time: '2025-06-21 10:49:44'
+  create_time: '2021-12-25T12:38:49'
+  update_time: '2025-06-21T10:49:44'
 - id: 5
   name: 钻石会员
   experience: 12000
@@ -47,8 +47,8 @@
   discount: 70
   icon: crmebimage/public/user/2025/05/30/4acd024b82a141649cd440a2b2eaadc44un1zxh7l7.png
   is_del: 1
-  create_time: '2021-12-25 12:39:22'
-  update_time: '2025-06-21 11:21:21'
+  create_time: '2021-12-25T12:39:22'
+  update_time: '2025-06-21T11:21:21'
 - id: 6
   name: '6'
   experience: 99999999
@@ -57,8 +57,8 @@
   discount: 1
   icon: crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png
   is_del: 1
-  create_time: '2025-06-21 10:50:19'
-  update_time: '2025-06-21 10:53:33'
+  create_time: '2025-06-21T10:50:19'
+  update_time: '2025-06-21T10:53:33'
 - id: 7
   name: 铂金会员
   experience: 10000
@@ -67,5 +67,5 @@
   discount: 70
   icon: crmebimage/public/user/2025/06/21/081ec48562f44fb785bb7a4afb3771a661nsq57tx7.png
   is_del: 0
-  create_time: '2025-06-21 11:22:52'
-  update_time: '2025-06-21 11:23:30'
+  create_time: '2025-06-21T11:22:52'
+  update_time: '2025-06-21T11:23:30'

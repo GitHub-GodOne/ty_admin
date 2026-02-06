@@ -6,7 +6,7 @@
   balance: 10
   type: 1
   create_day: '2025-06-16'
-  create_time: '2025-06-16 16:08:50'
+  create_time: '2025-06-16T16:08:50'
 - id: 2
   uid: 41
   title: 签到积分奖励
@@ -14,4 +14,4 @@
   balance: 110
   type: 1
   create_day: '2025-06-21'
-  create_time: '2025-06-21 10:47:49'
+  create_time: '2025-06-21T10:47:49'

@@ -7,7 +7,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】您购买的商品已支付成功，支付金额{$pay_price}元，订单号{$order_id},感谢您的光临！
-  create_time: '2021-12-09 19:31:13'
+  create_time: '2021-12-09T19:31:13'
 - id: 561
   temp_id: '440405'
   temp_type: 2
@@ -16,7 +16,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】{$admin_name}管理员，您有一笔已支付的订单待处理，订单号为{$order_id}！
-  create_time: '2021-12-09 20:49:44'
+  create_time: '2021-12-09T20:49:44'
 - id: 562
   temp_id: '440406'
   temp_type: 2
@@ -25,7 +25,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】{$admin_name}管理员,您有一笔支付成功的订单待处理，订单号{$order_id}!
-  create_time: '2021-12-09 19:33:38'
+  create_time: '2021-12-09T19:33:38'
 - id: 563
   temp_id: '440407'
   temp_type: 2
@@ -34,7 +34,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】{$admin_name}管理员,您有一笔退款订单待处理，订单号{$order_id}!
-  create_time: '2021-12-09 21:07:49'
+  create_time: '2021-12-09T21:07:49'
 - id: 564
   temp_id: '440408'
   temp_type: 2
@@ -43,7 +43,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】{$admin_name}管理员,您有一笔订单已经确认收货，订单号{$order_id}!
-  create_time: '2021-12-09 20:33:31'
+  create_time: '2021-12-09T20:33:31'
 - id: 566
   temp_id: '440410'
   temp_type: 2
@@ -52,7 +52,7 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】您的订单{$order_id}，实际支付金额已被修改为{$pay_price}。
-  create_time: '2021-12-09 21:12:05'
+  create_time: '2021-12-09T21:12:05'
 - id: 572
   temp_id: '441596'
   temp_type: 2
@@ -61,4 +61,4 @@
   temp_key: ''
   status: 1
   content: 【CRMEB】亲爱的用户{$nickname}您的商品{$store_name}，订单号{$order_id}已发货，请注意查收！
-  create_time: '2021-12-09 20:03:34'
+  create_time: '2021-12-09T20:03:34'

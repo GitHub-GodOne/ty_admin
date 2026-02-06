@@ -11,7 +11,7 @@ pub struct Model {
     #[sea_orm(column_name = "type")]
     pub r#type: i32,
     #[sea_orm(primary_key)]
-    pub id: u32,
+    pub id: i32,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

@@ -5,88 +5,88 @@
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 195
   name: store_postage
   title: ''
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 202
   name: main_business
   title: ''
   form_id: 0
-  value: ' IT\u79d1\u6280 \u4e92\u8054\u7f51|\u7535\u5b50\u5546\u52a1'
+  value: ' IT科技 互联网|电子商务'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 203
   name: vice_business
   title: ''
   form_id: 0
-  value: 'IT\u79d1\u6280 IT\u8f6f\u4ef6\u4e0e\u670d\u52a1 '
+  value: 'IT科技 IT软件与服务 '
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 204
   name: store_brokerage_rate_1
   title: ''
   form_id: 0
   value: '80'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-07-14 16:44:50'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-07-14T16:44:50'
 - id: 205
   name: user_extract_min_price
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2025-05-30T15:38:50'
 - id: 206
   name: sx_sign_min_int
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 207
   name: sx_sign_max_int
   title: ''
   form_id: 0
   value: '5'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 208
   name: about_us
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 218
   name: store_brokerage_rate_2
   title: ''
   form_id: 0
   value: '60'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-07-14 16:44:54'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-07-14T16:44:54'
 - id: 219
   name: store_brokerage_status
   title: store_brokerage_status
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-08-05 17:42:38'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-08-05T17:42:38'
 - id: 227
   name: user_extract_bank
   title: ''
@@ -99,176 +99,176 @@
 
     工商银行'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2025-05-30T15:38:50'
 - id: 228
   name: fast_number
   title: ''
   form_id: 0
   value: '10'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 229
   name: bast_number
   title: ''
   form_id: 0
   value: '10'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 230
   name: first_number
   title: ''
   form_id: 0
   value: '10'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 234
   name: access_key
   title: ''
   form_id: 0
   value: '11111'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2025-06-24 14:52:06'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2025-06-24T14:52:06'
 - id: 235
   name: secret_key
   title: ''
   form_id: 0
   value: '11111'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2025-06-24 14:52:08'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2025-06-24T14:52:08'
 - id: 236
   name: storage_name
   title: ''
   form_id: 0
   value: xxxx
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-06-03 17:21:18'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-06-03T17:21:18'
 - id: 239
   name: order_bargain_time
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 240
   name: order_seckill_time
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 241
   name: order_pink_time
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 242
   name: storage_region
   title: ''
   form_id: 0
   value: xxxx
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-06-03 17:37:19'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-06-03T17:37:19'
 - id: 245
   name: system_delivery_time
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 254
   name: cache_config
   title: ''
   form_id: 0
   value: '86400'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 256
   name: develop_id
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 257
   name: printing_api_key
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 258
   name: printing_client_id
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 259
   name: terminal_number
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 262
   name: confirmTakeOverSwitch
   title: ''
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-06-17 09:34:31'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-06-17T09:34:31'
 - id: 267
   name: new_goods_bananr
   title: ''
   form_id: 0
   value: ''
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 269
   name: extract_time
   title: ''
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2025-05-30T15:38:50'
 - id: 270
   name: store_brokerage_price
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 272
   name: promotion_number
   title: ''
   form_id: 0
   value: '3'
   status: 0
-  create_time: '2020-05-14 15:20:25'
-  update_time: '2020-05-14 16:37:47'
+  create_time: '2020-05-14T15:20:25'
+  update_time: '2020-05-14T16:37:47'
 - id: 278
   name: form-1
   title: ''
@@ -278,944 +278,944 @@
     \n        },\n        {\n            \\\"name\\\": \\\"form-1-name1\\\",\n   \
     \         \\\"value\\\": \\\"form-1-value1\\\"\n        }\n    ]\n}"
   status: 0
-  create_time: '2020-05-14 16:57:27'
-  update_time: '2020-05-14 17:07:04'
+  create_time: '2020-05-14T16:57:27'
+  update_time: '2020-05-14T17:07:04'
 - id: 645
   name: importProductTB
   title: ''
   form_id: 0
   value: http://xxxx
   status: 0
-  create_time: '2020-06-05 14:35:08'
-  update_time: '2020-09-08 12:15:01'
+  create_time: '2020-06-05T14:35:08'
+  update_time: '2020-09-08T12:15:01'
 - id: 646
   name: importProductJD
   title: ''
   form_id: 0
   value: http://xxxx
   status: 0
-  create_time: '2020-06-05 14:35:34'
-  update_time: '2020-09-08 12:15:08'
+  create_time: '2020-06-05T14:35:34'
+  update_time: '2020-09-08T12:15:08'
 - id: 647
   name: importProductSN
   title: ''
   form_id: 0
   value: http://xxx
   status: 0
-  create_time: '2020-06-05 14:35:41'
-  update_time: '2020-09-08 12:14:59'
+  create_time: '2020-06-05T14:35:41'
+  update_time: '2020-09-08T12:14:59'
 - id: 648
   name: importProductPDD
   title: ''
   form_id: 0
   value: http://xxx
   status: 0
-  create_time: '2020-06-05 14:36:20'
-  update_time: '2020-09-08 12:15:04'
+  create_time: '2020-06-05T14:36:20'
+  update_time: '2020-09-08T12:15:04'
 - id: 649
   name: importProductTM
   title: ''
   form_id: 0
   value: http://xxx
   status: 0
-  create_time: '2020-06-09 14:24:32'
-  update_time: '2020-09-08 12:14:57'
+  create_time: '2020-06-09T14:24:32'
+  update_time: '2020-09-08T12:14:57'
 - id: 657
   name: sms_account
   title: ''
   form_id: 0
   value: '11111'
   status: 0
-  create_time: '2020-06-16 12:17:29'
-  update_time: '2020-12-23 17:16:10'
+  create_time: '2020-06-16T12:17:29'
+  update_time: '2020-12-23T17:16:10'
 - id: 658
   name: sms_token
   title: ''
   form_id: 0
   value: '11111'
   status: 0
-  create_time: '2020-06-16 12:17:35'
-  update_time: '2020-12-23 17:16:09'
+  create_time: '2020-06-16T12:17:35'
+  update_time: '2020-12-23T17:16:09'
 - id: 988
   name: integralRatio
   title: integralRatio
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-07-08 15:21:59'
-  update_time: '2020-08-10 21:27:45'
+  create_time: '2020-07-08T15:21:59'
+  update_time: '2020-08-10T21:27:45'
 - id: 989
   name: balance_func_status
   title: balance_func_status
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-07-09 10:09:33'
-  update_time: '2020-07-14 19:02:16'
+  create_time: '2020-07-09T10:09:33'
+  update_time: '2020-07-14T19:02:16'
 - id: 991
   name: brokerage_func_status
   title: brokerage_func_status
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2020-07-21 10:42:36'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-07-21T10:42:36'
+  update_time: '2025-05-30T15:38:50'
 - id: 992
   name: store_brokerage_ratio
   title: store_brokerage_ratio
   form_id: 0
   value: '10'
   status: 0
-  create_time: '2020-07-21 10:45:10'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-07-21T10:45:10'
+  update_time: '2025-05-30T15:38:50'
 - id: 993
   name: store_brokerage_two
   title: store_brokerage_two
   form_id: 0
   value: '5'
   status: 0
-  create_time: '2020-07-21 10:45:41'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-07-21T10:45:41'
+  update_time: '2025-05-30T15:38:50'
 - id: 994
   name: brokerage_bindind
   title: brokerage_bindind
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2020-07-21 15:29:25'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2020-07-21T15:29:25'
+  update_time: '2025-05-30T15:38:50'
 - id: 2193
   name: yunzhifu_appId
   title: yunzhifu_appId
   form_id: 121
   value: xxxx
   status: 0
-  create_time: '2020-09-09 15:03:17'
-  update_time: '2020-09-09 15:03:17'
+  create_time: '2020-09-09T15:03:17'
+  update_time: '2020-09-09T15:03:17'
 - id: 2194
   name: yunzhifu_sign
   title: yunzhifu_sign
   form_id: 121
   value: xxxxxx
   status: 0
-  create_time: '2020-09-09 15:03:17'
-  update_time: '2020-09-09 15:03:17'
+  create_time: '2020-09-09T15:03:17'
+  update_time: '2020-09-09T15:03:17'
 - id: 3172
   name: config_export_temp_id
   title: config_export_temp_id
   form_id: 0
   value: '111111'
   status: 0
-  create_time: '2020-12-10 14:50:34'
-  update_time: '2025-05-28 10:20:48'
+  create_time: '2020-12-10T14:50:34'
+  update_time: '2025-05-28T10:20:48'
 - id: 3173
   name: config_export_id
   title: config_export_id
   form_id: 0
   value: '23'
   status: 0
-  create_time: '2020-12-10 14:50:45'
-  update_time: '2020-12-17 14:49:31'
+  create_time: '2020-12-10T14:50:45'
+  update_time: '2020-12-17T14:49:31'
 - id: 3174
   name: config_export_com
   title: config_export_com
   form_id: 0
   value: yuantongkuaiyun
   status: 0
-  create_time: '2020-12-10 14:52:57'
-  update_time: '2020-12-17 14:49:31'
+  create_time: '2020-12-10T14:52:57'
+  update_time: '2020-12-17T14:49:31'
 - id: 3396
   name: importProductToken
   title: importProductToken
   form_id: 122
   value: '1111'
   status: 0
-  create_time: '2020-12-22 16:11:25'
-  update_time: '2020-12-22 16:11:25'
+  create_time: '2020-12-22T16:11:25'
+  update_time: '2020-12-22T16:11:25'
 - id: 4053
   name: config_export_open
   title: config_export_open
   form_id: 129
   value: '1'
   status: 0
-  create_time: '2021-02-04 11:21:21'
-  update_time: '2021-02-04 11:21:21'
+  create_time: '2021-02-04T11:21:21'
+  update_time: '2021-02-04T11:21:21'
 - id: 4054
   name: config_export_to_name
   title: config_export_to_name
   form_id: 129
   value: 曲江旺座
   status: 0
-  create_time: '2021-02-04 11:21:21'
-  update_time: '2021-02-04 11:21:21'
+  create_time: '2021-02-04T11:21:21'
+  update_time: '2021-02-04T11:21:21'
 - id: 4055
   name: config_export_to_tel
   title: config_export_to_tel
   form_id: 129
   value: '111111'
   status: 0
-  create_time: '2021-02-04 11:21:21'
-  update_time: '2025-05-28 10:07:31'
+  create_time: '2021-02-04T11:21:21'
+  update_time: '2025-05-28T10:07:31'
 - id: 4056
   name: config_export_to_address
   title: config_export_to_address
   form_id: 129
   value: 陕西省西安市曲江新区
   status: 0
-  create_time: '2021-02-04 11:21:21'
-  update_time: '2021-02-04 11:21:21'
+  create_time: '2021-02-04T11:21:21'
+  update_time: '2021-02-04T11:21:21'
 - id: 4057
   name: config_export_siid
   title: config_export_siid
   form_id: 129
   value: '1111'
   status: 0
-  create_time: '2021-02-04 11:21:21'
-  update_time: '2021-02-04 11:21:21'
+  create_time: '2021-02-04T11:21:21'
+  update_time: '2021-02-04T11:21:21'
 - id: 4410
   name: bastInfo
   title: bastInfo
   form_id: 133
   value: asda sd
   status: 0
-  create_time: '2021-02-23 14:58:53'
-  update_time: '2021-02-23 14:58:53'
+  create_time: '2021-02-23T14:58:53'
+  update_time: '2021-02-23T14:58:53'
 - id: 4411
   name: firstInfo
   title: firstInfo
   form_id: 133
   value: '1'
   status: 0
-  create_time: '2021-02-23 14:58:53'
-  update_time: '2021-02-23 14:58:53'
+  create_time: '2021-02-23T14:58:53'
+  update_time: '2021-02-23T14:58:53'
 - id: 4412
   name: salesInfo
   title: salesInfo
   form_id: 133
   value: '1'
   status: 0
-  create_time: '2021-02-23 14:58:53'
-  update_time: '2021-02-23 14:58:53'
+  create_time: '2021-02-23T14:58:53'
+  update_time: '2021-02-23T14:58:53'
 - id: 4413
   name: hotInfo
   title: hotInfo
   form_id: 133
   value: '1'
   status: 0
-  create_time: '2021-02-23 14:58:53'
-  update_time: '2021-02-23 14:58:53'
+  create_time: '2021-02-23T14:58:53'
+  update_time: '2021-02-23T14:58:53'
 - id: 4432
   name: offline_pay_status
   title: offline_pay_status
   form_id: 79
   value: '0'
   status: 0
-  create_time: '2021-02-24 11:13:52'
-  update_time: '2021-02-24 11:13:52'
+  create_time: '2021-02-24T11:13:52'
+  update_time: '2021-02-24T11:13:52'
 - id: 5904
   name: lowerOrderSwitch
   title: lowerOrderSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5905
   name: deliverGoodsSwitch
   title: deliverGoodsSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5906
   name: priceRevisionSwitch
   title: priceRevisionSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5907
   name: sms_code_expire
   title: sms_code_expire
   form_id: 111
   value: '3'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5908
   name: adminLowerOrderSwitch
   title: adminLowerOrderSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5909
   name: adminPaySuccessSwitch
   title: adminPaySuccessSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5910
   name: adminConfirmTakeOverSwitch
   title: adminConfirmTakeOverSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5911
   name: adminRefundSwitch
   title: adminRefundSwitch
   form_id: 111
   value: '0'
   status: 0
-  create_time: '2021-07-16 09:47:20'
-  update_time: '2021-07-16 09:47:20'
+  create_time: '2021-07-16T09:47:20'
+  update_time: '2021-07-16T09:47:20'
 - id: 5916
   name: change_color_config
   title: change_color_config
   form_id: 0
   value: '3'
   status: 0
-  create_time: '2021-07-16 09:55:24'
-  update_time: '2025-06-21 15:03:16'
+  create_time: '2021-07-16T09:55:24'
+  update_time: '2025-06-21T15:03:16'
 - id: 6081
   name: category_page_config
   title: category_page_config
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2021-08-12 15:57:49'
-  update_time: '2025-06-18 15:06:52'
+  create_time: '2021-08-12T15:57:49'
+  update_time: '2025-06-18T15:06:52'
 - id: 6082
   name: is_show_category
   title: is_show_category
   form_id: 0
   value: 'true'
   status: 0
-  create_time: '2021-08-12 15:59:56'
-  update_time: '2025-05-21 16:38:26'
+  create_time: '2021-08-12T15:59:56'
+  update_time: '2025-05-21T16:38:26'
 - id: 6216
   name: store_brokerage_quota
   title: store_brokerage_quota
   form_id: 0
   value: '10'
   status: 0
-  create_time: '2021-07-16 09:55:24'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2021-07-16T09:55:24'
+  update_time: '2025-05-30T15:38:50'
 - id: 6217
   name: store_brokerage_is_bubble
   title: store_brokerage_is_bubble
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2021-08-18 11:57:17'
-  update_time: '2025-05-30 15:38:50'
+  create_time: '2021-08-18T11:57:17'
+  update_time: '2025-05-30T15:38:50'
 - id: 6417
   name: APP_ID
   title: 应用id
   form_id: 1
   value: '111111'
   status: 0
-  create_time: '2021-08-20 11:29:27'
-  update_time: '2025-05-28 10:07:44'
+  create_time: '2021-08-20T11:29:27'
+  update_time: '2025-05-28T10:07:44'
 - id: 6418
   name: APP_PRIVATE_KEY
   title: 应用私钥
   form_id: 1
   value: '111111'
   status: 0
-  create_time: '2021-08-20 11:29:55'
-  update_time: '2021-08-20 11:34:12'
+  create_time: '2021-08-20T11:29:55'
+  update_time: '2021-08-20T11:34:12'
 - id: 6419
   name: CHARSET
   title: 编码
   form_id: 1
   value: UTF-8
   status: 0
-  create_time: '2021-08-20 11:30:13'
-  update_time: '2021-08-20 11:34:13'
+  create_time: '2021-08-20T11:30:13'
+  update_time: '2021-08-20T11:34:13'
 - id: 6421
   name: GETEWAY_URL
   title: 网关
   form_id: 1
   value: https://111111
   status: 0
-  create_time: '2021-08-20 11:31:03'
-  update_time: '2025-05-28 10:08:14'
+  create_time: '2021-08-20T11:31:03'
+  update_time: '2025-05-28T10:08:14'
 - id: 6422
   name: FORMAT
   title: 格式化
   form_id: 1
   value: json
   status: 0
-  create_time: '2021-08-20 11:31:20'
-  update_time: '2021-08-20 11:34:13'
+  create_time: '2021-08-20T11:31:20'
+  update_time: '2021-08-20T11:34:13'
 - id: 6423
   name: SIGN_TYPE
   title: 签名类型
   form_id: 1
   value: RSA2
   status: 0
-  create_time: '2021-08-20 11:31:34'
-  update_time: '2021-08-20 11:34:14'
+  create_time: '2021-08-20T11:31:34'
+  update_time: '2021-08-20T11:34:14'
 - id: 6424
   name: NOTIFY
   title: 回调地址
   form_id: 1
   value: http://localhost:8080/api/alipay/aliPayNotify
   status: 0
-  create_time: '2021-08-20 11:39:54'
-  update_time: '2021-08-20 11:40:11'
+  create_time: '2021-08-20T11:39:54'
+  update_time: '2021-08-20T11:40:11'
 - id: 6582
   name: txUploadUrl
   title: txUploadUrl
   form_id: 83
   value: http://111111
   status: 0
-  create_time: '2021-08-23 14:54:05'
-  update_time: '2021-08-23 14:54:05'
+  create_time: '2021-08-23T14:54:05'
+  update_time: '2021-08-23T14:54:05'
 - id: 6583
   name: txAccessKey
   title: txAccessKey
   form_id: 83
   value: '1111'
   status: 0
-  create_time: '2021-08-23 14:54:05'
-  update_time: '2021-08-23 14:54:05'
+  create_time: '2021-08-23T14:54:05'
+  update_time: '2021-08-23T14:54:05'
 - id: 6584
   name: txSecretKey
   title: txSecretKey
   form_id: 83
   value: '1111'
   status: 0
-  create_time: '2021-08-23 14:54:06'
-  update_time: '2021-08-23 14:54:06'
+  create_time: '2021-08-23T14:54:06'
+  update_time: '2021-08-23T14:54:06'
 - id: 6585
   name: txStorageName
   title: txStorageName
   form_id: 83
   value: '111111'
   status: 0
-  create_time: '2021-08-23 14:54:06'
-  update_time: '2021-08-23 14:54:06'
+  create_time: '2021-08-23T14:54:06'
+  update_time: '2021-08-23T14:54:06'
 - id: 6586
   name: txStorageRegion
   title: txStorageRegion
   form_id: 83
   value: ap-chengdu
   status: 0
-  create_time: '2021-08-23 14:54:06'
-  update_time: '2021-08-23 14:54:06'
+  create_time: '2021-08-23T14:54:06'
+  update_time: '2021-08-23T14:54:06'
 - id: 6670
   name: qnUploadUrl
   title: qnUploadUrl
   form_id: 82
   value: http://111111
   status: 0
-  create_time: '2021-08-23 18:01:03'
-  update_time: '2021-08-23 18:01:03'
+  create_time: '2021-08-23T18:01:03'
+  update_time: '2021-08-23T18:01:03'
 - id: 6671
   name: qnAccessKey
   title: qnAccessKey
   form_id: 82
   value: '1111'
   status: 0
-  create_time: '2021-08-23 18:01:03'
-  update_time: '2021-08-23 18:01:03'
+  create_time: '2021-08-23T18:01:03'
+  update_time: '2021-08-23T18:01:03'
 - id: 6672
   name: qnSecretKey
   title: qnSecretKey
   form_id: 82
   value: '1111'
   status: 0
-  create_time: '2021-08-23 18:01:03'
-  update_time: '2021-08-23 18:01:03'
+  create_time: '2021-08-23T18:01:03'
+  update_time: '2021-08-23T18:01:03'
 - id: 6673
   name: qnStorageName
   title: qnStorageName
   form_id: 82
   value: '111111'
   status: 0
-  create_time: '2021-08-23 18:01:03'
-  update_time: '2021-08-23 18:01:03'
+  create_time: '2021-08-23T18:01:03'
+  update_time: '2021-08-23T18:01:03'
 - id: 6674
   name: qnStorageRegion
   title: qnStorageRegion
   form_id: 82
   value: huabei
   status: 0
-  create_time: '2021-08-23 18:01:03'
-  update_time: '2021-08-23 18:01:03'
+  create_time: '2021-08-23T18:01:03'
+  update_time: '2021-08-23T18:01:03'
 - id: 7178
   name: homePageSaleListStyle
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2021-10-28 09:27:31'
-  update_time: '2021-10-28 09:27:31'
+  create_time: '2021-10-28T09:27:31'
+  update_time: '2021-10-28T09:27:31'
 - id: 7369
   name: step
   title: ''
   form_id: 0
   value: '4'
   status: 0
-  create_time: '2021-12-03 14:12:20'
-  update_time: '2021-12-03 14:12:20'
+  create_time: '2021-12-03T14:12:20'
+  update_time: '2021-12-03T14:12:20'
 - id: 7376
   name: wechat_app_appid
   title: wechat_app_appid
   form_id: 134
   value: '1111'
   status: 0
-  create_time: '2021-12-07 15:29:17'
-  update_time: '2021-12-07 15:29:17'
+  create_time: '2021-12-07T15:29:17'
+  update_time: '2021-12-07T15:29:17'
 - id: 7377
   name: wechat_app_appsecret
   title: wechat_app_appsecret
   form_id: 134
   value: '1111'
   status: 0
-  create_time: '2021-12-07 15:29:17'
-  update_time: '2021-12-07 15:29:17'
+  create_time: '2021-12-07T15:29:17'
+  update_time: '2021-12-07T15:29:17'
 - id: 7627
   name: pay_weixin_app_appid
   title: pay_weixin_app_appid
   form_id: 135
   value: '1111'
   status: 0
-  create_time: '2021-12-10 18:12:16'
-  update_time: '2021-12-10 18:12:16'
+  create_time: '2021-12-10T18:12:16'
+  update_time: '2021-12-10T18:12:16'
 - id: 7628
   name: pay_weixin_app_key
   title: pay_weixin_app_key
   form_id: 135
   value: 1111old
   status: 0
-  create_time: '2021-12-10 18:12:16'
-  update_time: '2021-12-10 18:12:16'
+  create_time: '2021-12-10T18:12:16'
+  update_time: '2021-12-10T18:12:16'
 - id: 7629
   name: pay_weixin_app_mchid
   title: pay_weixin_app_mchid
   form_id: 135
   value: '1111'
   status: 0
-  create_time: '2021-12-10 18:12:16'
-  update_time: '2021-12-10 18:12:16'
+  create_time: '2021-12-10T18:12:16'
+  update_time: '2021-12-10T18:12:16'
 - id: 7630
   name: pay_mini_app_client_p12
   title: pay_mini_app_client_p12
   form_id: 135
   value: file/operation/2020/12/02/42c13d0a0f8b4cac985ea8dfc5e8ed17jkjkc8fn9c.p12
   status: 0
-  create_time: '2021-12-10 18:12:16'
-  update_time: '2021-12-10 18:12:16'
+  create_time: '2021-12-10T18:12:16'
+  update_time: '2021-12-10T18:12:16'
 - id: 7631
   name: pay_weixin_app_certificate_path
   title: pay_weixin_app_certificate_path
   form_id: 135
   value: '1111'
   status: 0
-  create_time: '2021-12-10 18:12:16'
-  update_time: '2021-12-10 18:12:16'
+  create_time: '2021-12-10T18:12:16'
+  update_time: '2021-12-10T18:12:16'
 - id: 7689
   name: authHost
   title: authHost
   form_id: 0
   value: '111111'
   status: 1
-  create_time: '2021-12-14 16:21:32'
-  update_time: '2025-05-28 14:41:16'
+  create_time: '2021-12-14T16:21:32'
+  update_time: '2025-05-28T14:41:16'
 - id: 7853
   name: copyright_label
   title: copyright_label
   form_id: 0
   value: '22'
   status: 0
-  create_time: '2022-11-30 15:00:38'
-  update_time: '2022-11-30 15:00:38'
+  create_time: '2022-11-30T15:00:38'
+  update_time: '2022-11-30T15:00:38'
 - id: 7854
   name: copyright_company_name
   title: copyright_company_name
   form_id: 0
   value: 西安众邦网络科技
   status: 0
-  create_time: '2022-11-30 15:00:38'
-  update_time: '2024-05-17 17:58:36'
+  create_time: '2022-11-30T15:00:38'
+  update_time: '2024-05-17T17:58:36'
 - id: 7855
   name: copyright_company_image
   title: copyright_company_image
   form_id: 0
   value: crmebimage/perset/copyright/copyright.png
   status: 0
-  create_time: '2022-11-30 15:00:38'
-  update_time: '2025-06-18 10:54:59'
+  create_time: '2022-11-30T15:00:38'
+  update_time: '2025-06-18T10:54:59'
 - id: 7892
   name: bottom_navigation_is_custom
   title: ''
   form_id: 0
   value: '1'
   status: 0
-  create_time: '2024-05-10 15:45:29'
-  update_time: '2025-06-20 17:32:04'
+  create_time: '2024-05-10T15:45:29'
+  update_time: '2025-06-20T17:32:04'
 - id: 8731
   name: jdUploadUrl
   title: jdUploadUrl
   form_id: 145
   value: http://1111
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2024-07-22 17:28:12'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2024-07-22T17:28:12'
 - id: 8732
   name: jdAccessKey
   title: jdAccessKey
   form_id: 145
   value: '111111'
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2025-05-28 10:09:38'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2025-05-28T10:09:38'
 - id: 8733
   name: jdSecretKey
   title: jdSecretKey
   form_id: 145
   value: '111111'
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2025-05-28 10:09:40'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2025-05-28T10:09:40'
 - id: 8734
   name: jdEndpoint
   title: jdEndpoint
   form_id: 145
   value: '333'
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2024-07-22 17:28:12'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2024-07-22T17:28:12'
 - id: 8735
   name: jdSigningRegion
   title: jdSigningRegion
   form_id: 145
   value: '444'
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2024-07-22 17:28:12'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2024-07-22T17:28:12'
 - id: 8736
   name: jdBucketName
   title: jdBucketName
   form_id: 145
   value: '555'
   status: 0
-  create_time: '2024-07-22 17:28:12'
-  update_time: '2024-07-22 17:28:12'
+  create_time: '2024-07-22T17:28:12'
+  update_time: '2024-07-22T17:28:12'
 - id: 8816
   name: wechat_routine_shipping_switch
   title: ''
   form_id: 0
   value: '0'
   status: 0
-  create_time: '2024-08-27 10:38:49'
-  update_time: '2024-08-27 10:38:49'
+  create_time: '2024-08-27T10:38:49'
+  update_time: '2024-08-27T10:38:49'
 - id: 8930
   name: alUploadUrl
   title: alUploadUrl
   form_id: 81
   value: https://111111
   status: 0
-  create_time: '2024-11-21 09:53:18'
-  update_time: '2025-05-28 10:09:58'
+  create_time: '2024-11-21T09:53:18'
+  update_time: '2025-05-28T10:09:58'
 - id: 8931
   name: alAccessKey
   title: alAccessKey
   form_id: 81
   value: '111111'
   status: 0
-  create_time: '2024-11-21 09:53:18'
-  update_time: '2025-05-28 10:10:02'
+  create_time: '2024-11-21T09:53:18'
+  update_time: '2025-05-28T10:10:02'
 - id: 8932
   name: alSecretKey
   title: alSecretKey
   form_id: 81
   value: '111111'
   status: 0
-  create_time: '2024-11-21 09:53:18'
-  update_time: '2025-05-28 10:10:09'
+  create_time: '2024-11-21T09:53:18'
+  update_time: '2025-05-28T10:10:09'
 - id: 8933
   name: alStorageName
   title: alStorageName
   form_id: 81
   value: crmebjavasingle
   status: 0
-  create_time: '2024-11-21 09:53:18'
-  update_time: '2024-11-21 09:53:18'
+  create_time: '2024-11-21T09:53:18'
+  update_time: '2024-11-21T09:53:18'
 - id: 8934
   name: alStorageRegion
   title: alStorageRegion
   form_id: 81
   value: '111111'
   status: 0
-  create_time: '2024-11-21 09:53:18'
-  update_time: '2025-05-28 10:10:15'
+  create_time: '2024-11-21T09:53:18'
+  update_time: '2025-05-28T10:10:15'
 - id: 9044
   name: ali_pay_status
   title: ali_pay_status
   form_id: 137
   value: '''1'''
   status: 0
-  create_time: '2024-11-21 18:01:31'
-  update_time: '2024-11-21 18:01:31'
+  create_time: '2024-11-21T18:01:31'
+  update_time: '2024-11-21T18:01:31'
 - id: 9615
   name: yzf_h5_url
   title: yzf_h5_url
   form_id: 76
   value: https://111111
   status: 0
-  create_time: '2025-04-24 14:39:52'
-  update_time: '2025-05-28 10:15:16'
+  create_time: '2025-04-24T14:39:52'
+  update_time: '2025-05-28T10:15:16'
 - id: 9616
   name: consumer_hotline
   title: consumer_hotline
   form_id: 76
   value: '111111111'
   status: 0
-  create_time: '2025-04-24 14:39:52'
-  update_time: '2025-04-24 14:39:52'
+  create_time: '2025-04-24T14:39:52'
+  update_time: '2025-04-24T14:39:52'
 - id: 9617
   name: telephone_service_switch
   title: telephone_service_switch
   form_id: 76
   value: open
   status: 0
-  create_time: '2025-04-24 14:39:52'
-  update_time: '2025-04-24 14:39:52'
+  create_time: '2025-04-24T14:39:52'
+  update_time: '2025-04-24T14:39:52'
 - id: 9618
   name: wx_chat_independent
   title: wx_chat_independent
   form_id: 76
   value: close
   status: 0
-  create_time: '2025-04-24 14:39:52'
-  update_time: '2025-04-24 14:39:52'
+  create_time: '2025-04-24T14:39:52'
+  update_time: '2025-04-24T14:39:52'
 - id: 9805
   name: ylyprint_app_id
   title: ylyprint_app_id
   form_id: 143
   value: '111111'
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-05-28 10:15:26'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-05-28T10:15:26'
 - id: 9806
   name: ylyprint_app_secret
   title: ylyprint_app_secret
   form_id: 143
   value: '111111'
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-05-28 10:15:30'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-05-28T10:15:30'
 - id: 9807
   name: ylyprint_app_machine_code
   title: ylyprint_app_machine_code
   form_id: 143
   value: '111111'
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-05-28 10:15:41'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-05-28T10:15:41'
 - id: 9808
   name: ylyprint_app_machine_msign
   title: ylyprint_app_machine_msign
   form_id: 143
   value: '111111'
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-05-28 10:15:45'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-05-28T10:15:45'
 - id: 9809
   name: ylyprint_auto_status
   title: ylyprint_auto_status
   form_id: 143
   value: '''1'''
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-04-28 11:06:42'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-04-28T11:06:42'
 - id: 9810
   name: ylyprint_status
   title: ylyprint_status
   form_id: 143
   value: '''0'''
   status: 0
-  create_time: '2025-04-28 11:06:42'
-  update_time: '2025-04-28 11:06:42'
+  create_time: '2025-04-28T11:06:42'
+  update_time: '2025-04-28T11:06:42'
 - id: 9860
   name: logistics_type
   title: logistics_type
   form_id: 128
   value: '1'
   status: 0
-  create_time: '2025-04-30 11:17:02'
-  update_time: '2025-04-30 11:17:02'
+  create_time: '2025-04-30T11:17:02'
+  update_time: '2025-04-30T11:17:02'
 - id: 9861
   name: system_express_app_code
   title: system_express_app_code
   form_id: 128
   value: '1111111111'
   status: 0
-  create_time: '2025-04-30 11:17:02'
-  update_time: '2025-04-30 11:17:02'
+  create_time: '2025-04-30T11:17:02'
+  update_time: '2025-04-30T11:17:02'
 - id: 9897
   name: integral_ratio
   title: integral_ratio
   form_id: 109
   value: '1'
   status: 0
-  create_time: '2025-05-07 14:03:46'
-  update_time: '2025-05-07 14:03:46'
+  create_time: '2025-05-07T14:03:46'
+  update_time: '2025-05-07T14:03:46'
 - id: 9898
   name: order_give_integral
   title: order_give_integral
   form_id: 109
   value: '1'
   status: 0
-  create_time: '2025-05-07 14:03:46'
-  update_time: '2025-05-07 14:03:46'
+  create_time: '2025-05-07T14:03:46'
+  update_time: '2025-05-07T14:03:46'
 - id: 9899
   name: freeze_integral_day
   title: freeze_integral_day
   form_id: 109
   value: '0'
   status: 0
-  create_time: '2025-05-07 14:03:46'
-  update_time: '2025-05-07 14:03:46'
+  create_time: '2025-05-07T14:03:46'
+  update_time: '2025-05-07T14:03:46'
 - id: 10031
   name: system_product_copy_type
   title: system_product_copy_type
   form_id: 127
   value: '1'
   status: 0
-  create_time: '2025-05-15 15:19:35'
-  update_time: '2025-05-15 15:19:35'
+  create_time: '2025-05-15T15:19:35'
+  update_time: '2025-05-15T15:19:35'
 - id: 10032
   name: copy_product_apikey
   title: copy_product_apikey
   form_id: 127
   value: '1111'
   status: 0
-  create_time: '2025-05-15 15:19:35'
-  update_time: '2025-05-15 15:19:35'
+  create_time: '2025-05-15T15:19:35'
+  update_time: '2025-05-15T15:19:35'
 - id: 10496
   name: pay_weixin_appid
   title: pay_weixin_appid
   form_id: 67
   value: '111'
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10497
   name: pay_weixin_appsecret
   title: pay_weixin_appsecret
   form_id: 67
   value: '111'
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10498
   name: pay_weixin_mchid
   title: pay_weixin_mchid
   form_id: 67
   value: '111'
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10499
   name: pay_routine_client_p12
   title: pay_routine_client_p12
   form_id: 67
   value: file/operation/2020/12/02/04161bfbad984c6490f61b1cb64db8f1qwy6gqdoov.p12
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10500
   name: pay_weixin_certificate_path
   title: pay_weixin_certificate_path
   form_id: 67
   value: '111'
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10501
   name: pay_weixin_key
   title: pay_weixin_key
   form_id: 67
   value: '111'
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10502
   name: pay_weixin_open
   title: pay_weixin_open
   form_id: 67
   value: '''1'''
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10503
   name: paydir
   title: paydir
   form_id: 67
   value: ''
   status: 0
-  create_time: '2025-05-19 18:06:05'
-  update_time: '2025-05-19 18:06:05'
+  create_time: '2025-05-19T18:06:05'
+  update_time: '2025-05-19T18:06:05'
 - id: 10558
   name: routine_appid
   title: routine_appid
   form_id: 66
   value: '111111'
   status: 0
-  create_time: '2025-05-23 10:03:57'
-  update_time: '2025-05-28 10:17:31'
+  create_time: '2025-05-23T10:03:57'
+  update_time: '2025-05-28T10:17:31'
 - id: 10559
   name: routine_appsecret
   title: routine_appsecret
   form_id: 66
   value: '111111'
   status: 0
-  create_time: '2025-05-23 10:03:57'
-  update_time: '2025-05-28 10:17:34'
+  create_time: '2025-05-23T10:03:57'
+  update_time: '2025-05-28T10:17:34'
 - id: 10560
   name: routine_name
   title: routine_name
   form_id: 66
   value: 西安众邦网络科技
   status: 0
-  create_time: '2025-05-23 10:03:57'
-  update_time: '2025-05-23 10:03:57'
+  create_time: '2025-05-23T10:03:57'
+  update_time: '2025-05-23T10:03:57'
 - id: 10561
   name: routine_phone_verification
   title: routine_phone_verification
   form_id: 66
   value: 1,2
   status: 0
-  create_time: '2025-05-23 10:03:57'
-  update_time: '2025-05-23 10:03:57'
+  create_time: '2025-05-23T10:03:57'
+  update_time: '2025-05-23T10:03:57'
 - id: 10626
   name: store_user_min_recharge
   title: store_user_min_recharge
   form_id: 78
   value: '1'
   status: 0
-  create_time: '2025-05-30 16:06:38'
-  update_time: '2025-05-30 16:06:38'
+  create_time: '2025-05-30T16:06:38'
+  update_time: '2025-05-30T16:06:38'
 - id: 10627
   name: recharge_switch
   title: recharge_switch
   form_id: 78
   value: 'true'
   status: 0
-  create_time: '2025-05-30 16:06:38'
-  update_time: '2025-05-30 16:06:38'
+  create_time: '2025-05-30T16:06:38'
+  update_time: '2025-05-30T16:06:38'
 - id: 10628
   name: recharge_attention
   title: recharge_attention
@@ -1228,445 +1228,445 @@
 
     4、提现到账需要2~3天时间'
   status: 0
-  create_time: '2025-05-30 16:06:38'
-  update_time: '2025-05-30 16:06:38'
+  create_time: '2025-05-30T16:06:38'
+  update_time: '2025-05-30T16:06:38'
 - id: 10634
   name: store_free_postage_switch
   title: store_free_postage_switch
   form_id: 74
   value: '''1'''
   status: 0
-  create_time: '2025-05-30 16:09:33'
-  update_time: '2025-05-30 16:09:33'
+  create_time: '2025-05-30T16:09:33'
+  update_time: '2025-05-30T16:09:33'
 - id: 10635
   name: store_free_postage
   title: store_free_postage
   form_id: 74
   value: '999999'
   status: 0
-  create_time: '2025-05-30 16:09:33'
-  update_time: '2025-05-30 16:09:33'
+  create_time: '2025-05-30T16:09:33'
+  update_time: '2025-05-30T16:09:33'
 - id: 10636
   name: tengxun_map_key
   title: tengxun_map_key
   form_id: 74
   value: '111111'
   status: 0
-  create_time: '2025-05-30 16:09:33'
-  update_time: '2025-05-30 16:09:33'
+  create_time: '2025-05-30T16:09:33'
+  update_time: '2025-05-30T16:09:33'
 - id: 10637
   name: store_self_mention
   title: store_self_mention
   form_id: 74
   value: '1'
   status: 0
-  create_time: '2025-05-30 16:09:33'
-  update_time: '2025-05-30 16:09:33'
+  create_time: '2025-05-30T16:09:33'
+  update_time: '2025-05-30T16:09:33'
 - id: 10649
   name: wechat_appid
   title: wechat_appid
   form_id: 65
   value: '111111'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10650
   name: wechat_appsecret
   title: wechat_appsecret
   form_id: 65
   value: '111111'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10651
   name: field101
   title: field101
   form_id: 65
   value: '111111'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10652
   name: field103
   title: field103
   form_id: 65
   value: '111111'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10653
   name: field104
   title: field104
   form_id: 65
   value: '1'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10654
   name: wechat_share_img
   title: wechat_share_img
   form_id: 65
   value: crmebimage/public/product/2025/05/30/5dcc7a0ce6c146859b2926b0c182a34b28iqzx5i5h.png
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10655
   name: wechat_qrcode
   title: wechat_qrcode
   form_id: 65
   value: crmebimage/public/product/2025/05/30/58ab1f922beb4b149f1b6d66cb69803d66drjq47vj.png
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10656
   name: wechat_share_title
   title: wechat_share_title
   form_id: 65
   value: CRMEB
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10657
   name: wechat_share_synopsis
   title: wechat_share_synopsis
   form_id: 65
   value: CRMEB
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10658
   name: h5_avatar
   title: h5_avatar
   form_id: 65
   value: crmebimage/public/product/2025/05/30/3d1816f22c45457aa4429f6af9c55c65b2jpkr7ycx.png
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10659
   name: wechat_public_login_type
   title: wechat_public_login_type
   form_id: 65
   value: '2'
   status: 0
-  create_time: '2025-05-30 16:11:52'
-  update_time: '2025-05-30 16:11:52'
+  create_time: '2025-05-30T16:11:52'
+  update_time: '2025-05-30T16:11:52'
 - id: 10701
   name: copyright_icp_number
   title: copyright_icp_number
   form_id: 146
   value: Copyright@2025
   status: 0
-  create_time: '2025-06-04 10:39:16'
-  update_time: '2025-06-04 10:39:16'
+  create_time: '2025-06-04T10:39:16'
+  update_time: '2025-06-04T10:39:16'
 - id: 10702
   name: copyright_icp_number_url
   title: copyright_icp_number_url
   form_id: 146
   value: https://www.crmeb.com/
   status: 0
-  create_time: '2025-06-04 10:39:16'
-  update_time: '2025-06-04 10:39:16'
+  create_time: '2025-06-04T10:39:16'
+  update_time: '2025-06-04T10:39:16'
 - id: 10703
   name: copyright_internet_record
   title: copyright_internet_record
   form_id: 146
   value: Copyright@2025 西安众邦网络科技有限公司
   status: 0
-  create_time: '2025-06-04 10:39:16'
-  update_time: '2025-06-04 10:39:16'
+  create_time: '2025-06-04T10:39:16'
+  update_time: '2025-06-04T10:39:16'
 - id: 10704
   name: copyright_internet_record_url
   title: copyright_internet_record_url
   form_id: 146
   value: https://www.crmeb.com/
   status: 0
-  create_time: '2025-06-04 10:39:16'
-  update_time: '2025-06-04 10:39:16'
+  create_time: '2025-06-04T10:39:16'
+  update_time: '2025-06-04T10:39:16'
 - id: 10705
   name: pay_routine_appid
   title: pay_routine_appid
   form_id: 68
   value: '111111'
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10706
   name: pay_routine_appsecret
   title: pay_routine_appsecret
   form_id: 68
   value: '111111'
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10707
   name: pay_routine_mchid
   title: pay_routine_mchid
   form_id: 68
   value: '1288093001'
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10708
   name: pay_routine_key
   title: pay_routine_key
   form_id: 68
   value: '111111'
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10709
   name: pay_mini_client_p12
   title: pay_mini_client_p12
   form_id: 68
   value: crmebimage/public/operation/2024/12/06/5fdf9a3b08064969bd2e5774a0631a264senbshhgk.pem
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10710
   name: pay_routine_certificate_path
   title: pay_routine_certificate_path
   form_id: 68
   value: /www/wwwroot
   status: 0
-  create_time: '2025-06-04 11:06:06'
-  update_time: '2025-06-04 11:06:06'
+  create_time: '2025-06-04T11:06:06'
+  update_time: '2025-06-04T11:06:06'
 - id: 10718
   name: localUploadUrl
   title: localUploadUrl
   form_id: 108
   value: http://1111
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-24 14:52:50'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-24T14:52:50'
 - id: 10719
   name: image_ext_str
   title: image_ext_str
   form_id: 108
   value: jpg,jpeg,gif,png,bmp,zip,doc,docx,xls,xlsx,pdf,mp3,wma,wav,amr,mp4,pem,p12
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10720
   name: image_max_size
   title: image_max_size
   form_id: 108
   value: '10'
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10721
   name: file_ext_str
   title: file_ext_str
   form_id: 108
   value: zip,doc,docx,xls,xlsx,pdf,mp3,wma,wav,amr,mp4,pem,p12
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10722
   name: file_max_size
   title: file_max_size
   form_id: 108
   value: '20'
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10723
   name: uploadType
   title: uploadType
   form_id: 108
   value: '1'
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10724
   name: file_is_save
   title: file_is_save
   form_id: 108
   value: '1'
   status: 0
-  create_time: '2025-06-16 14:45:26'
-  update_time: '2025-06-16 14:45:26'
+  create_time: '2025-06-16T14:45:26'
+  update_time: '2025-06-16T14:45:26'
 - id: 10742
   name: api_url
   title: api_url
   form_id: 64
   value: http://1111
   status: 0
-  create_time: '2025-06-16 15:20:53'
-  update_time: '2025-06-24 14:53:07'
+  create_time: '2025-06-16T15:20:53'
+  update_time: '2025-06-24T14:53:07'
 - id: 10743
   name: site_logo_lefttop
   title: site_logo_lefttop
   form_id: 64
   value: crmebimage/public/product/2025/05/30/80463f2c08f942c7919ffdb1508aaefcadw8s5mfey.jpeg
   status: 0
-  create_time: '2025-06-16 15:20:53'
-  update_time: '2025-06-16 15:20:53'
+  create_time: '2025-06-16T15:20:53'
+  update_time: '2025-06-16T15:20:53'
 - id: 10744
   name: site_logo_square
   title: site_logo_square
   form_id: 64
   value: crmebimage/public/product/2025/05/30/d9668baa15d04179aff2ccddf985e92e83dqxh6y9x.png
   status: 0
-  create_time: '2025-06-16 15:20:53'
-  update_time: '2025-06-16 15:20:53'
+  create_time: '2025-06-16T15:20:53'
+  update_time: '2025-06-16T15:20:53'
 - id: 10745
   name: site_logo_login
   title: site_logo_login
   form_id: 64
   value: crmebimage/public/product/2025/05/30/081a002d92894a74ad498c825c29aa26or4ycyd3cy.png
   status: 0
-  create_time: '2025-06-16 15:20:53'
-  update_time: '2025-06-16 15:20:53'
+  create_time: '2025-06-16T15:20:53'
+  update_time: '2025-06-16T15:20:53'
 - id: 10746
   name: admin_login_bg_pic
   title: admin_login_bg_pic
   form_id: 64
   value: crmebimage/public/product/2025/05/30/29d46610497542198f20ba8a334ee79aix1xrprgdz.jpg
   status: 0
-  create_time: '2025-06-16 15:20:53'
-  update_time: '2025-06-16 15:20:53'
+  create_time: '2025-06-16T15:20:53'
+  update_time: '2025-06-16T15:20:53'
 - id: 10757
   name: app_update_url
   title: app_update_url
   form_id: 138
   value: https://www.kancloud.cn/crmeb/crmeb_java/2392251
   status: 0
-  create_time: '2025-06-20 09:32:26'
-  update_time: '2025-06-20 09:32:26'
+  create_time: '2025-06-20T09:32:26'
+  update_time: '2025-06-20T09:32:26'
 - id: 10758
   name: ios_address
   title: ios_address
   form_id: 138
   value: https://apps.apple.com/cn/app/id1558260648
   status: 0
-  create_time: '2025-06-20 09:32:26'
-  update_time: '2025-06-20 09:32:26'
+  create_time: '2025-06-20T09:32:26'
+  update_time: '2025-06-20T09:32:26'
 - id: 10759
   name: android_address
   title: android_address
   form_id: 138
   value: '2'
   status: 0
-  create_time: '2025-06-20 09:32:26'
-  update_time: '2025-06-20 09:32:26'
+  create_time: '2025-06-20T09:32:26'
+  update_time: '2025-06-20T09:32:26'
 - id: 10760
   name: app_version
   title: app_version
   form_id: 138
   value: 1.4.1
   status: 0
-  create_time: '2025-06-20 09:32:26'
-  update_time: '2025-06-20 09:32:26'
+  create_time: '2025-06-20T09:32:26'
+  update_time: '2025-06-20T09:32:26'
 - id: 10761
   name: open_upgrade
   title: open_upgrade
   form_id: 138
   value: '''0'''
   status: 0
-  create_time: '2025-06-20 09:32:26'
-  update_time: '2025-06-20 09:32:26'
+  create_time: '2025-06-20T09:32:26'
+  update_time: '2025-06-20T09:32:26'
 - id: 10763
   name: yue_pay_status
   title: yue_pay_status
   form_id: 80
   value: '''1'''
   status: 0
-  create_time: '2025-06-20 15:15:51'
-  update_time: '2025-06-20 15:15:51'
+  create_time: '2025-06-20T15:15:51'
+  update_time: '2025-06-20T15:15:51'
 - id: 10812
   name: store_stock
   title: store_stock
   form_id: 77
   value: '20'
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10813
   name: stor_reason
   title: stor_reason
   form_id: 77
   value: "收货地址填错了\n与描述不符 \n信息填错了，重新拍 \n收到商品损坏了 \n未按预定时间发货 \n其它原因"
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10814
   name: mobile_top_logo
   title: mobile_top_logo
   form_id: 77
   value: crmebimage/public/product/2025/06/04/10d1e53b4f6b484e960003571684df5828zwdt5hdj.png
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10815
   name: mobile_login_logo
   title: mobile_login_logo
   form_id: 77
   value: crmebimage/public/product/2025/05/30/31919ceca46d409f9a3d4af3c0ff0337y2jhe3less.png
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10816
   name: order_cancel_time
   title: order_cancel_time
   form_id: 77
   value: '1'
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10817
   name: order_activity_time
   title: order_activity_time
   form_id: 77
   value: '1'
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10818
   name: site_name
   title: site_name
   form_id: 77
   value: CRMEB-Java
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10819
   name: site_url
   title: site_url
   form_id: 77
   value: http://1111
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-24 14:53:31'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-24T14:53:31'
 - id: 10820
   name: seo_title
   title: seo_title
   form_id: 77
   value: CRMEB
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10821
   name: news_slides_limit
   title: news_slides_limit
   form_id: 77
   value: '2'
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'
 - id: 10822
   name: front_api_url
   title: front_api_url
   form_id: 77
   value: http://1111
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-24 14:53:37'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-24T14:53:37'
 - id: 10823
   name: auto_take_delivery_day
   title: auto_take_delivery_day
   form_id: 77
   value: '1'
   status: 0
-  create_time: '2025-06-21 17:44:36'
-  update_time: '2025-06-21 17:44:36'
+  create_time: '2025-06-21T17:44:36'
+  update_time: '2025-06-21T17:44:36'

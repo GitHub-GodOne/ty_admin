@@ -7,7 +7,7 @@ use serde::{Deserialize, Serialize};
 #[sea_orm(table_name = "ty_wechat_program_public_temp")]
 pub struct Model {
     #[sea_orm(primary_key)]
-    pub id: u32,
+    pub id: i32,
     pub tid: i32,
     pub title: String,
     #[sea_orm(column_name = "type")]

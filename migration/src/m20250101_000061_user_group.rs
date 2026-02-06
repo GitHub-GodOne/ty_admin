@@ -13,7 +13,7 @@ impl MigrationTrait for Migration {
                     .if_not_exists()
                     .col(
                         ColumnDef::new(TyUserGroup::Id)
-                            .small_unsigned()
+                            .small_integer()
                             .not_null()
                             .auto_increment()
                             .primary_key(),

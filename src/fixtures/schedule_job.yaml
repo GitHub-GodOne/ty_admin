@@ -7,7 +7,7 @@
   status: 0
   remark: 砍价活动结束状态变化
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 2
   bean_name: BrokerageFrozenTask
   method_name: brokerageFrozen
@@ -16,7 +16,7 @@
   status: 0
   remark: 佣金冻结期解冻处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 3
   bean_name: CouponOverdueTask
   method_name: couponOverdue
@@ -25,7 +25,7 @@
   status: 0
   remark: 优惠券过期处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 4
   bean_name: IntegralFrozenTask
   method_name: integralFrozen
@@ -34,7 +34,7 @@
   status: 0
   remark: 积分冻结期解冻处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 5
   bean_name: OrderAutoCancelTask
   method_name: autoCancel
@@ -43,7 +43,7 @@
   status: 0
   remark: 系统自动取消未支付订单
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 6
   bean_name: OrderAutoCompleteTask
   method_name: autoComplete
@@ -52,7 +52,7 @@
   status: 0
   remark: 订单自动完成处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 7
   bean_name: OrderCancelTask
   method_name: userCancel
@@ -61,7 +61,7 @@
   status: 0
   remark: 用户取消订单处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 8
   bean_name: OrderCompleteTask
   method_name: orderComplete
@@ -70,7 +70,7 @@
   status: 0
   remark: 用户订单完成处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:06'
+  create_time: '2021-12-01T10:55:06'
 - job_id: 9
   bean_name: OrderPaySuccessTask
   method_name: orderPayAfter
@@ -79,7 +79,7 @@
   status: 0
   remark: 订单支付成功后置处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 10
   bean_name: OrderReceiptTask
   method_name: orderReceipt
@@ -88,7 +88,7 @@
   status: 0
   remark: 用户确认收货后置处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 11
   bean_name: OrderRefundTask
   method_name: orderRefund
@@ -97,7 +97,7 @@
   status: 0
   remark: 订单退款处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 12
   bean_name: AutoUpdateCatTask
   method_name: autoUpdateCat
@@ -106,7 +106,7 @@
   status: 1
   remark: 自动更新自定义交易组件类目
   is_delte: 1
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 13
   bean_name: PinkStatusChangeTask
   method_name: pinkStatusChage
@@ -115,7 +115,7 @@
   status: 0
   remark: 拼团状态变化处理
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 14
   bean_name: ProductStockTask
   method_name: stockOperation
@@ -124,7 +124,7 @@
   status: 0
   remark: 操作商品库存
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 15
   bean_name: StatisticsTask
   method_name: statistics
@@ -133,7 +133,7 @@
   status: 1
   remark: 统计定时任务
   is_delte: 1
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 16
   bean_name: AsyncWeChatProgramTempMessage
   method_name: init
@@ -142,7 +142,7 @@
   status: 0
   remark: 小程序消费队列消费
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 17
   bean_name: AsyncWeChatPublicTempMessage
   method_name: init
@@ -151,7 +151,7 @@
   status: 0
   remark: 公众号消费队列消费
   is_delte: 0
-  create_time: '2021-12-01 10:55:07'
+  create_time: '2021-12-01T10:55:07'
 - job_id: 18
   bean_name: AutoDeleteLogTask
   method_name: autoDeleteLog
@@ -160,7 +160,7 @@
   status: 0
   remark: 自动删除不需要的历史日志
   is_delte: 0
-  create_time: '2022-01-05 15:03:18'
+  create_time: '2022-01-05T15:03:18'
 - job_id: 19
   bean_name: OrderAutoReceiptTask
   method_name: autoTakeDelivery
@@ -169,4 +169,4 @@
   status: 0
   remark: 系统自动确认收货Task
   is_delte: 0
-  create_time: '2022-06-25 10:48:48'
+  create_time: '2022-06-25T10:48:48'

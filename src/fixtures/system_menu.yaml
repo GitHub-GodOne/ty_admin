@@ -9,8 +9,8 @@
   sort: 200
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:17'
-  update_time: '2024-07-04 17:34:56'
+  create_time: '2021-11-16T12:11:17'
+  update_time: '2024-07-04T17:34:56'
 - id: 2
   pid: 0
   name: 商品
@@ -21,8 +21,8 @@
   sort: 180
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:17'
-  update_time: '2024-07-04 17:35:03'
+  create_time: '2021-11-16T12:11:17'
+  update_time: '2024-07-04T17:35:03'
 - id: 3
   pid: 0
   name: 订单
@@ -33,8 +33,8 @@
   sort: 160
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:17'
-  update_time: '2024-07-04 17:35:14'
+  create_time: '2021-11-16T12:11:17'
+  update_time: '2024-07-04T17:35:14'
 - id: 4
   pid: 0
   name: 用户
@@ -45,8 +45,8 @@
   sort: 140
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:17'
-  update_time: '2024-07-04 17:35:23'
+  create_time: '2021-11-16T12:11:17'
+  update_time: '2024-07-04T17:35:23'
 - id: 5
   pid: 0
   name: 内容
@@ -57,8 +57,8 @@
   sort: 130
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:35:40'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:35:40'
 - id: 6
   pid: 0
   name: 应用
@@ -69,8 +69,8 @@
   sort: 120
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:35:49'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:35:49'
 - id: 7
   pid: 0
   name: 营销
@@ -81,8 +81,8 @@
   sort: 110
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:35:56'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:35:56'
 - id: 8
   pid: 0
   name: 分销
@@ -93,8 +93,8 @@
   sort: 100
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:36:05'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:36:05'
 - id: 9
   pid: 0
   name: 财务
@@ -105,8 +105,8 @@
   sort: 90
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:36:11'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:36:11'
 - id: 10
   pid: 0
   name: 移动端管理
@@ -117,8 +117,8 @@
   sort: 80
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:36:18'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:36:18'
 - id: 12
   pid: 0
   name: 设置
@@ -129,8 +129,8 @@
   sort: 70
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:36:24'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:36:24'
 - id: 13
   pid: 0
   name: 维护
@@ -141,8 +141,8 @@
   sort: 60
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:11:18'
-  update_time: '2024-07-04 17:36:31'
+  create_time: '2021-11-16T12:11:18'
+  update_time: '2024-07-04T17:36:31'
 - id: 14
   pid: 2
   name: 商品管理
@@ -153,8 +153,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:19:02'
-  update_time: '2021-11-22 18:11:26'
+  create_time: '2021-11-16T12:19:02'
+  update_time: '2021-11-22T18:11:26'
 - id: 15
   pid: 2
   name: 商品分类
@@ -165,8 +165,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:19:02'
-  update_time: '2021-12-03 15:55:15'
+  create_time: '2021-11-16T12:19:02'
+  update_time: '2021-12-03T15:55:15'
 - id: 16
   pid: 2
   name: 商品规格
@@ -177,8 +177,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:19:02'
-  update_time: '2021-11-22 18:09:19'
+  create_time: '2021-11-16T12:19:02'
+  update_time: '2021-11-22T18:09:19'
 - id: 17
   pid: 2
   name: 商品评论
@@ -189,8 +189,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 12:19:02'
-  update_time: '2021-11-22 18:09:47'
+  create_time: '2021-11-16T12:19:02'
+  update_time: '2021-11-22T18:09:47'
 - id: 18
   pid: 14
   name: 商品添加
@@ -201,8 +201,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-22 18:06:26'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-22T18:06:26'
 - id: 19
   pid: 14
   name: 商品修改
@@ -213,8 +213,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-22 17:40:30'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-22T17:40:30'
 - id: 20
   pid: 14
   name: 商品删除
@@ -225,8 +225,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-22 17:41:41'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-22T17:41:41'
 - id: 21
   pid: 14
   name: 商品上架
@@ -237,8 +237,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-22 17:41:33'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-22T17:41:33'
 - id: 22
   pid: 14
   name: 商品下架
@@ -249,8 +249,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-22 17:42:03'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-22T17:42:03'
 - id: 23
   pid: 14
   name: 库存变动
@@ -261,8 +261,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-16 15:55:00'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-16T15:55:00'
 - id: 24
   pid: 14
   name: 虚拟销量
@@ -273,8 +273,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-16 15:55:00'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-16T15:55:00'
 - id: 25
   pid: 16
   name: 规格添加
@@ -285,8 +285,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:03:23'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:03:23'
 - id: 26
   pid: 16
   name: 规格修改
@@ -297,8 +297,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:04:16'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:04:16'
 - id: 27
   pid: 16
   name: 规格删除
@@ -309,8 +309,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:04:41'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:04:41'
 - id: 28
   pid: 17
   name: 商品评论添加
@@ -321,8 +321,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:05:52'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:05:52'
 - id: 29
   pid: 17
   name: 商品评论详情
@@ -333,8 +333,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:07:47'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:07:47'
 - id: 30
   pid: 17
   name: 商品评论删除
@@ -345,8 +345,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:08:09'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:08:09'
 - id: 31
   pid: 17
   name: 商品评论回复
@@ -357,8 +357,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:00'
-  update_time: '2021-11-23 16:08:46'
+  create_time: '2021-11-16T15:55:00'
+  update_time: '2021-11-23T16:08:46'
 - id: 32
   pid: 3
   name: 订单管理
@@ -369,8 +369,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:55:15'
-  update_time: '2025-05-22 16:39:30'
+  create_time: '2021-11-16T15:55:15'
+  update_time: '2025-05-22T16:39:30'
 - id: 33
   pid: 32
   name: 订单删除
@@ -381,8 +381,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-23 16:11:59'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-23T16:11:59'
 - id: 34
   pid: 32
   name: 订单备注
@@ -393,8 +393,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-23 16:24:00'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-23T16:24:00'
 - id: 35
   pid: 32
   name: 订单退款
@@ -405,8 +405,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-23 16:12:39'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-23T16:12:39'
 - id: 36
   pid: 32
   name: 订单拒绝退款
@@ -417,8 +417,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-23 16:13:08'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-23T16:13:08'
 - id: 37
   pid: 32
   name: 订单发货
@@ -429,8 +429,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-23 16:14:04'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-23T16:14:04'
 - id: 38
   pid: 32
   name: 订单更新
@@ -441,8 +441,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 15:58:16'
-  update_time: '2021-11-16 15:58:16'
+  create_time: '2021-11-16T15:58:16'
+  update_time: '2021-11-16T15:58:16'
 - id: 39
   pid: 4
   name: '用户管理 '
@@ -453,8 +453,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:05:50'
-  update_time: '2021-11-23 16:41:21'
+  create_time: '2021-11-16T16:05:50'
+  update_time: '2021-11-23T16:41:21'
 - id: 40
   pid: 4
   name: 用户标签
@@ -465,8 +465,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:05:50'
-  update_time: '2021-11-23 17:19:48'
+  create_time: '2021-11-16T16:05:50'
+  update_time: '2021-11-23T17:19:48'
 - id: 41
   pid: 4
   name: 用户等级
@@ -477,8 +477,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:05:50'
-  update_time: '2021-11-23 17:22:35'
+  create_time: '2021-11-16T16:05:50'
+  update_time: '2021-11-23T17:22:35'
 - id: 42
   pid: 4
   name: 用户分组
@@ -489,8 +489,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:05:50'
-  update_time: '2021-11-23 17:29:42'
+  create_time: '2021-11-16T16:05:50'
+  update_time: '2021-11-23T17:29:42'
 - id: 43
   pid: 39
   name: 用户修改
@@ -501,8 +501,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:46'
-  update_time: '2021-11-23 16:28:58'
+  create_time: '2021-11-16T16:12:46'
+  update_time: '2021-11-23T16:28:58'
 - id: 44
   pid: 39
   name: 用户详情
@@ -513,8 +513,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:46'
-  update_time: '2021-11-23 16:29:23'
+  create_time: '2021-11-16T16:12:46'
+  update_time: '2021-11-23T16:29:23'
 - id: 47
   pid: 39
   name: 用户打标签
@@ -525,8 +525,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:46'
-  update_time: '2021-11-23 16:31:01'
+  create_time: '2021-11-16T16:12:46'
+  update_time: '2021-11-23T16:31:01'
 - id: 48
   pid: 39
   name: 修改积分余额
@@ -537,8 +537,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 16:31:47'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T16:31:47'
 - id: 49
   pid: 40
   name: 用户标签添加
@@ -549,8 +549,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:20:16'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:20:16'
 - id: 50
   pid: 40
   name: 用户标签修改
@@ -561,8 +561,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:20:49'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:20:49'
 - id: 51
   pid: 40
   name: 用户标签删除
@@ -573,8 +573,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:21:20'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:21:20'
 - id: 52
   pid: 41
   name: 用户等级添加
@@ -585,8 +585,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:24:36'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:24:36'
 - id: 53
   pid: 41
   name: 用户等级修改
@@ -597,8 +597,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:25:04'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:25:04'
 - id: 54
   pid: 41
   name: 用户等级删除
@@ -609,8 +609,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:25:23'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:25:23'
 - id: 55
   pid: 41
   name: 使用/禁用等级
@@ -621,8 +621,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 17:25:58'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T17:25:58'
 - id: 56
   pid: 42
   name: 用户分组修改
@@ -633,8 +633,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 16:35:26'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T16:35:26'
 - id: 57
   pid: 42
   name: 用户分组删除
@@ -645,8 +645,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 16:37:05'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T16:37:05'
 - id: 59
   pid: 42
   name: 用户分组新增
@@ -657,8 +657,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:12:47'
-  update_time: '2021-11-23 16:37:46'
+  create_time: '2021-11-16T16:12:47'
+  update_time: '2021-11-23T16:37:46'
 - id: 60
   pid: 5
   name: 文章管理
@@ -669,8 +669,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:22:32'
-  update_time: '2021-11-23 17:31:11'
+  create_time: '2021-11-16T16:22:32'
+  update_time: '2021-11-23T17:31:11'
 - id: 61
   pid: 5
   name: 文章分类
@@ -681,8 +681,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:22:32'
-  update_time: '2021-11-16 16:22:32'
+  create_time: '2021-11-16T16:22:32'
+  update_time: '2021-11-16T16:22:32'
 - id: 62
   pid: 60
   name: 文章添加
@@ -693,8 +693,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:24:52'
-  update_time: '2021-11-23 17:33:03'
+  create_time: '2021-11-16T16:24:52'
+  update_time: '2021-11-23T17:33:03'
 - id: 63
   pid: 60
   name: 文章删除
@@ -705,8 +705,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:24:52'
-  update_time: '2021-11-23 17:33:08'
+  create_time: '2021-11-16T16:24:52'
+  update_time: '2021-11-23T17:33:08'
 - id: 64
   pid: 60
   name: 文章修改
@@ -717,8 +717,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:24:52'
-  update_time: '2021-11-23 17:33:31'
+  create_time: '2021-11-16T16:24:52'
+  update_time: '2021-11-23T17:33:31'
 - id: 67
   pid: 6
   name: 公众号
@@ -729,8 +729,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:27:56'
-  update_time: '2021-11-16 16:27:56'
+  create_time: '2021-11-16T16:27:56'
+  update_time: '2021-11-16T16:27:56'
 - id: 69
   pid: 67
   name: 微信菜单
@@ -741,8 +741,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:31:04'
-  update_time: '2025-03-17 16:12:17'
+  create_time: '2021-11-16T16:31:04'
+  update_time: '2025-03-17T16:12:17'
 - id: 70
   pid: 67
   name: 自动回复
@@ -753,8 +753,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:31:04'
-  update_time: '2021-11-23 17:52:08'
+  create_time: '2021-11-16T16:31:04'
+  update_time: '2021-11-23T17:52:08'
 - id: 73
   pid: 69
   name: 微信菜单保存
@@ -765,8 +765,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:38:07'
-  update_time: '2021-11-23 17:47:16'
+  create_time: '2021-11-16T16:38:07'
+  update_time: '2021-11-23T17:47:16'
 - id: 74
   pid: 69
   name: 微信菜单删除
@@ -777,8 +777,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:38:07'
-  update_time: '2021-11-23 17:47:42'
+  create_time: '2021-11-16T16:38:07'
+  update_time: '2021-11-23T17:47:42'
 - id: 75
   pid: 70
   name: 微信关注回复
@@ -789,8 +789,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:38:07'
-  update_time: '2021-12-06 15:16:51'
+  create_time: '2021-11-16T16:38:07'
+  update_time: '2021-12-06T15:16:51'
 - id: 76
   pid: 70
   name: 关键字回复
@@ -801,8 +801,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:38:07'
-  update_time: '2021-12-06 15:18:06'
+  create_time: '2021-11-16T16:38:07'
+  update_time: '2021-12-06T15:18:06'
 - id: 77
   pid: 70
   name: 无效关键词回复
@@ -813,8 +813,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:38:07'
-  update_time: '2021-11-16 16:38:07'
+  create_time: '2021-11-16T16:38:07'
+  update_time: '2021-11-16T16:38:07'
 - id: 83
   pid: 7
   name: 优惠券
@@ -825,8 +825,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:43:33'
-  update_time: '2021-11-24 09:58:12'
+  create_time: '2021-11-16T16:43:33'
+  update_time: '2021-11-24T09:58:12'
 - id: 84
   pid: 7
   name: 积分
@@ -837,8 +837,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:43:33'
-  update_time: '2021-11-16 16:43:33'
+  create_time: '2021-11-16T16:43:33'
+  update_time: '2021-11-16T16:43:33'
 - id: 85
   pid: 7
   name: 秒杀管理
@@ -849,8 +849,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:43:33'
-  update_time: '2021-11-16 16:43:33'
+  create_time: '2021-11-16T16:43:33'
+  update_time: '2021-11-16T16:43:33'
 - id: 86
   pid: 7
   name: 砍价管理
@@ -861,8 +861,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:43:33'
-  update_time: '2021-11-16 16:43:33'
+  create_time: '2021-11-16T16:43:33'
+  update_time: '2021-11-16T16:43:33'
 - id: 87
   pid: 7
   name: 拼团管理
@@ -873,8 +873,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:43:34'
-  update_time: '2021-11-16 16:43:34'
+  create_time: '2021-11-16T16:43:34'
+  update_time: '2021-11-16T16:43:34'
 - id: 89
   pid: 83
   name: 优惠券
@@ -885,8 +885,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 09:58:47'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T09:58:47'
 - id: 90
   pid: 83
   name: 领取记录
@@ -897,8 +897,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:07:24'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:07:24'
 - id: 91
   pid: 84
   name: 积分配置
@@ -909,8 +909,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-16 16:48:47'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-16T16:48:47'
 - id: 92
   pid: 84
   name: 积分日志
@@ -921,8 +921,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:12:27'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:12:27'
 - id: 93
   pid: 85
   name: 秒杀配置
@@ -933,8 +933,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:14:46'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:14:46'
 - id: 94
   pid: 85
   name: 秒杀商品
@@ -945,8 +945,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:14:23'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:14:23'
 - id: 95
   pid: 86
   name: 砍价商品
@@ -957,8 +957,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:21:47'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:21:47'
 - id: 96
   pid: 86
   name: 砍价列表
@@ -969,8 +969,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:28:10'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:28:10'
 - id: 97
   pid: 87
   name: 拼团商品
@@ -981,8 +981,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:31:41'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:31:41'
 - id: 98
   pid: 87
   name: 拼团列表
@@ -993,8 +993,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:48:47'
-  update_time: '2021-11-24 10:36:24'
+  create_time: '2021-11-16T16:48:47'
+  update_time: '2021-11-24T10:36:24'
 - id: 101
   pid: 89
   name: 优惠券添加
@@ -1005,8 +1005,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:50:01'
-  update_time: '2021-11-24 09:59:33'
+  create_time: '2021-11-16T16:50:01'
+  update_time: '2021-11-24T09:59:33'
 - id: 102
   pid: 89
   name: 优惠券状态更新
@@ -1017,8 +1017,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:50:02'
-  update_time: '2021-11-24 10:02:10'
+  create_time: '2021-11-16T16:50:02'
+  update_time: '2021-11-24T10:02:10'
 - id: 103
   pid: 90
   name: 领取优惠券
@@ -1029,8 +1029,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:50:02'
-  update_time: '2021-11-16 16:50:02'
+  create_time: '2021-11-16T16:50:02'
+  update_time: '2021-11-16T16:50:02'
 - id: 104
   pid: 8
   name: 分销员管理
@@ -1041,8 +1041,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:52:00'
-  update_time: '2021-12-02 09:33:34'
+  create_time: '2021-11-16T16:52:00'
+  update_time: '2021-12-02T09:33:34'
 - id: 105
   pid: 8
   name: 分销配置
@@ -1053,8 +1053,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:52:00'
-  update_time: '2021-12-02 09:33:17'
+  create_time: '2021-11-16T16:52:00'
+  update_time: '2021-12-02T09:33:17'
 - id: 106
   pid: 9
   name: 财务操作
@@ -1065,8 +1065,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:59:00'
-  update_time: '2021-11-16 16:59:00'
+  create_time: '2021-11-16T16:59:00'
+  update_time: '2021-11-16T16:59:00'
 - id: 107
   pid: 9
   name: 财务记录
@@ -1077,8 +1077,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:59:00'
-  update_time: '2021-11-16 16:59:00'
+  create_time: '2021-11-16T16:59:00'
+  update_time: '2021-11-16T16:59:00'
 - id: 108
   pid: 9
   name: 佣金记录
@@ -1089,8 +1089,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 16:59:00'
-  update_time: '2021-12-02 09:45:09'
+  create_time: '2021-11-16T16:59:00'
+  update_time: '2021-12-02T09:45:09'
 - id: 109
   pid: 106
   name: 申请提现
@@ -1101,8 +1101,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:01:41'
-  update_time: '2021-12-02 09:44:29'
+  create_time: '2021-11-16T17:01:41'
+  update_time: '2021-12-02T09:44:29'
 - id: 110
   pid: 107
   name: 充值记录
@@ -1113,8 +1113,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:01:41'
-  update_time: '2021-12-02 09:43:01'
+  create_time: '2021-11-16T17:01:41'
+  update_time: '2021-12-02T09:43:01'
 - id: 111
   pid: 107
   name: 资金监控
@@ -1125,8 +1125,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:01:41'
-  update_time: '2021-12-02 09:43:34'
+  create_time: '2021-11-16T17:01:41'
+  update_time: '2021-12-02T09:43:34'
 - id: 114
   pid: 10
   name: 订单核销
@@ -1137,8 +1137,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:06:20'
-  update_time: '2021-11-16 17:06:20'
+  create_time: '2021-11-16T17:06:20'
+  update_time: '2021-11-16T17:06:20'
 - id: 115
   pid: 10
   name: 订单统计
@@ -1149,8 +1149,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:06:20'
-  update_time: '2021-11-16 17:06:20'
+  create_time: '2021-11-16T17:06:20'
+  update_time: '2021-11-16T17:06:20'
 - id: 121
   pid: 12
   name: 系统设置
@@ -1161,8 +1161,8 @@
   sort: 10
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:23:37'
-  update_time: '2023-08-26 17:44:16'
+  create_time: '2021-11-16T17:23:37'
+  update_time: '2023-08-26T17:44:16'
 - id: 123
   pid: 12
   name: 管理权限
@@ -1173,8 +1173,8 @@
   sort: 7
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:23:37'
-  update_time: '2023-08-26 17:44:58'
+  create_time: '2021-11-16T17:23:37'
+  update_time: '2023-08-26T17:44:58'
 - id: 124
   pid: 12
   name: 发货设置
@@ -1185,8 +1185,8 @@
   sort: 6
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:23:37'
-  update_time: '2021-12-17 14:17:37'
+  create_time: '2021-11-16T17:23:37'
+  update_time: '2021-12-17T14:17:37'
 - id: 136
   pid: 123
   name: 角色管理
@@ -1197,8 +1197,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:30:23'
-  update_time: '2025-03-17 15:45:54'
+  create_time: '2021-11-16T17:30:23'
+  update_time: '2025-03-17T15:45:54'
 - id: 137
   pid: 123
   name: 管理员列表
@@ -1209,8 +1209,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:30:23'
-  update_time: '2025-03-17 15:45:44'
+  create_time: '2021-11-16T17:30:23'
+  update_time: '2025-03-17T15:45:44'
 - id: 138
   pid: 123
   name: 权限规则
@@ -1221,8 +1221,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:30:23'
-  update_time: '2025-03-17 15:45:38'
+  create_time: '2021-11-16T17:30:23'
+  update_time: '2025-03-17T15:45:38'
 - id: 139
   pid: 124
   name: 提货设置
@@ -1233,8 +1233,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:30:23'
-  update_time: '2021-11-16 17:30:23'
+  create_time: '2021-11-16T17:30:23'
+  update_time: '2021-11-16T17:30:23'
 - id: 140
   pid: 124
   name: 运费模板
@@ -1245,8 +1245,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:30:23'
-  update_time: '2021-12-02 11:44:01'
+  create_time: '2021-11-16T17:30:23'
+  update_time: '2021-12-02T11:44:01'
 - id: 143
   pid: 136
   name: 身份添加
@@ -1257,8 +1257,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:42'
-  update_time: '2021-12-06 10:49:22'
+  create_time: '2021-11-16T17:35:42'
+  update_time: '2021-12-06T10:49:22'
 - id: 144
   pid: 136
   name: 身份删除
@@ -1269,8 +1269,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:42'
-  update_time: '2021-12-06 10:49:41'
+  create_time: '2021-11-16T17:35:42'
+  update_time: '2021-12-06T10:49:41'
 - id: 145
   pid: 136
   name: 身份修改
@@ -1281,8 +1281,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-07 19:04:41'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-07T19:04:41'
 - id: 146
   pid: 137
   name: 管理员添加
@@ -1293,8 +1293,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-06 11:02:33'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-06T11:02:33'
 - id: 147
   pid: 137
   name: 管理员修改
@@ -1305,8 +1305,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-06 11:02:52'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-06T11:02:52'
 - id: 148
   pid: 137
   name: 管理员删除
@@ -1317,8 +1317,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-06 11:03:14'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-06T11:03:14'
 - id: 149
   pid: 137
   name: 管理员状态更新
@@ -1329,8 +1329,8 @@
   sort: 5
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-06 11:03:51'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-06T11:03:51'
 - id: 151
   pid: 138
   name: 权限新增
@@ -1341,8 +1341,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-03 16:39:59'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-03T16:39:59'
 - id: 152
   pid: 138
   name: 权限删除
@@ -1353,8 +1353,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-03 16:39:59'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-03T16:39:59'
 - id: 153
   pid: 138
   name: 权限更新
@@ -1365,8 +1365,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-03 16:39:59'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-03T16:39:59'
 - id: 154
   pid: 138
   name: 更新权限状态
@@ -1377,8 +1377,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-03 16:39:59'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-03T16:39:59'
 - id: 155
   pid: 139
   name: 提货点
@@ -1389,8 +1389,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-02 10:25:56'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-02T10:25:56'
 - id: 156
   pid: 139
   name: 核销订单
@@ -1401,8 +1401,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-02 11:11:01'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-02T11:11:01'
 - id: 157
   pid: 139
   name: 核销员
@@ -1413,8 +1413,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:35:43'
-  update_time: '2021-12-02 11:11:37'
+  create_time: '2021-11-16T17:35:43'
+  update_time: '2021-12-02T11:11:37'
 - id: 158
   pid: 13
   name: 素材管理
@@ -1425,8 +1425,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:38:38'
-  update_time: '2021-12-02 11:24:34'
+  create_time: '2021-11-16T17:38:38'
+  update_time: '2021-12-02T11:24:34'
 - id: 159
   pid: 13
   name: 开发配置
@@ -1437,8 +1437,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:38:38'
-  update_time: '2021-11-16 17:38:38'
+  create_time: '2021-11-16T17:38:38'
+  update_time: '2021-11-16T17:38:38'
 - id: 161
   pid: 13
   name: 物流设置
@@ -1449,8 +1449,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:38:38'
-  update_time: '2021-11-16 17:38:38'
+  create_time: '2021-11-16T17:38:38'
+  update_time: '2021-11-16T17:38:38'
 - id: 162
   pid: 158
   name: 删除素材
@@ -1461,8 +1461,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-12-02 11:25:04'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-12-02T11:25:04'
 - id: 163
   pid: 159
   name: 配置分类
@@ -1473,8 +1473,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-11-16 17:41:33'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-11-16T17:41:33'
 - id: 164
   pid: 159
   name: 组合数据
@@ -1485,8 +1485,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-12-02 11:28:57'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-12-02T11:28:57'
 - id: 165
   pid: 159
   name: 表单配置
@@ -1497,8 +1497,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-12-02 11:36:57'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-12-02T11:36:57'
 - id: 166
   pid: 161
   name: 城市数据
@@ -1509,8 +1509,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-12-02 11:55:18'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-12-02T11:55:18'
 - id: 167
   pid: 161
   name: 物流公司
@@ -1521,8 +1521,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:41:33'
-  update_time: '2021-12-09 15:32:05'
+  create_time: '2021-11-16T17:41:33'
+  update_time: '2021-12-09T15:32:05'
 - id: 168
   pid: 164
   name: 数据组添加
@@ -1533,8 +1533,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:29:18'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:29:18'
 - id: 169
   pid: 164
   name: 数据组修改
@@ -1545,8 +1545,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:29:46'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:29:46'
 - id: 170
   pid: 164
   name: 数据组删除
@@ -1557,8 +1557,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:30:07'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:30:07'
 - id: 171
   pid: 164
   name: 组合数据添加
@@ -1569,8 +1569,8 @@
   sort: 5
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:34:10'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:34:10'
 - id: 172
   pid: 164
   name: 组合数据修改
@@ -1581,8 +1581,8 @@
   sort: 6
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:34:33'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:34:33'
 - id: 173
   pid: 164
   name: 组合数据删除
@@ -1593,8 +1593,8 @@
   sort: 7
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:35:08'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:35:08'
 - id: 174
   pid: 165
   name: 表单添加
@@ -1605,8 +1605,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:38:28'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:38:28'
 - id: 176
   pid: 165
   name: 表单修改
@@ -1617,8 +1617,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-16 17:44:35'
-  update_time: '2021-12-02 11:39:09'
+  create_time: '2021-11-16T17:44:35'
+  update_time: '2021-12-02T11:39:09'
 - id: 179
   pid: 32
   name: 订单导出
@@ -1629,8 +1629,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 16:11:27'
-  update_time: '2021-11-23 16:11:27'
+  create_time: '2021-11-23T16:11:27'
+  update_time: '2021-11-23T16:11:27'
 - id: 180
   pid: 32
   name: 订单改价
@@ -1641,8 +1641,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 16:24:42'
-  update_time: '2021-11-23 16:24:42'
+  create_time: '2021-11-23T16:24:42'
+  update_time: '2021-11-23T16:24:42'
 - id: 181
   pid: 32
   name: 物流查询
@@ -1653,8 +1653,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 16:26:43'
-  update_time: '2021-11-23 16:26:43'
+  create_time: '2021-11-23T16:26:43'
+  update_time: '2021-11-23T16:26:43'
 - id: 182
   pid: 32
   name: 订单各状态数量
@@ -1665,8 +1665,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 16:27:40'
-  update_time: '2021-11-23 16:27:40'
+  create_time: '2021-11-23T16:27:40'
+  update_time: '2021-11-23T16:27:40'
 - id: 184
   pid: 76
   name: 新增关键字回复
@@ -1677,8 +1677,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 17:53:54'
-  update_time: '2021-12-06 15:29:55'
+  create_time: '2021-11-23T17:53:54'
+  update_time: '2021-12-06T15:29:55'
 - id: 185
   pid: 76
   name: 删除关键字回复
@@ -1689,8 +1689,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 17:54:55'
-  update_time: '2021-12-06 15:29:46'
+  create_time: '2021-11-23T17:54:55'
+  update_time: '2021-12-06T15:29:46'
 - id: 186
   pid: 75
   name: 修改关键字回复
@@ -1701,8 +1701,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 17:55:32'
-  update_time: '2021-12-06 15:27:00'
+  create_time: '2021-11-23T17:55:32'
+  update_time: '2021-12-06T15:27:00'
 - id: 187
   pid: 76
   name: 修改关键字状态
@@ -1713,8 +1713,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 17:56:01'
-  update_time: '2021-12-06 15:29:30'
+  create_time: '2021-11-23T17:56:01'
+  update_time: '2021-12-06T15:29:30'
 - id: 188
   pid: 76
   name: 微信关键字详情
@@ -1725,8 +1725,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-23 17:57:04'
-  update_time: '2021-12-06 15:28:26'
+  create_time: '2021-11-23T17:57:04'
+  update_time: '2021-12-06T15:28:26'
 - id: 189
   pid: 89
   name: 复制
@@ -1737,8 +1737,8 @@
   sort: 1
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:05:04'
-  update_time: '2021-11-24 10:05:04'
+  create_time: '2021-11-24T10:05:04'
+  update_time: '2021-11-24T10:05:04'
 - id: 191
   pid: 94
   name: 添加秒杀商品
@@ -1749,8 +1749,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:15:57'
-  update_time: '2021-11-24 10:15:57'
+  create_time: '2021-11-24T10:15:57'
+  update_time: '2021-11-24T10:15:57'
 - id: 192
   pid: 94
   name: 删除秒杀商品
@@ -1761,8 +1761,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:16:20'
-  update_time: '2021-11-24 10:16:20'
+  create_time: '2021-11-24T10:16:20'
+  update_time: '2021-11-24T10:16:20'
 - id: 193
   pid: 94
   name: 修改秒杀商品
@@ -1773,8 +1773,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:16:49'
-  update_time: '2021-11-24 10:16:49'
+  create_time: '2021-11-24T10:16:49'
+  update_time: '2021-11-24T10:16:49'
 - id: 194
   pid: 94
   name: 修改秒杀商品状态
@@ -1785,8 +1785,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:17:24'
-  update_time: '2021-11-24 10:17:24'
+  create_time: '2021-11-24T10:17:24'
+  update_time: '2021-11-24T10:17:24'
 - id: 195
   pid: 94
   name: 秒杀商品详情
@@ -1797,8 +1797,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:17:52'
-  update_time: '2021-11-24 10:17:52'
+  create_time: '2021-11-24T10:17:52'
+  update_time: '2021-11-24T10:17:52'
 - id: 196
   pid: 93
   name: 秒杀配置新增
@@ -1809,8 +1809,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:18:29'
-  update_time: '2021-11-24 10:18:29'
+  create_time: '2021-11-24T10:18:29'
+  update_time: '2021-11-24T10:18:29'
 - id: 197
   pid: 93
   name: 秒杀配置删除
@@ -1821,8 +1821,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:18:54'
-  update_time: '2021-11-24 10:18:54'
+  create_time: '2021-11-24T10:18:54'
+  update_time: '2021-11-24T10:18:54'
 - id: 198
   pid: 93
   name: 秒杀配置修改
@@ -1833,8 +1833,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:19:28'
-  update_time: '2021-11-24 10:19:28'
+  create_time: '2021-11-24T10:19:28'
+  update_time: '2021-11-24T10:19:28'
 - id: 199
   pid: 93
   name: 秒杀配置详情
@@ -1845,8 +1845,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:20:02'
-  update_time: '2021-11-24 10:20:02'
+  create_time: '2021-11-24T10:20:02'
+  update_time: '2021-11-24T10:20:02'
 - id: 200
   pid: 93
   name: 秒杀配置状态修改
@@ -1857,8 +1857,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:20:37'
-  update_time: '2021-11-24 10:20:37'
+  create_time: '2021-11-24T10:20:37'
+  update_time: '2021-11-24T10:20:37'
 - id: 201
   pid: 95
   name: 新增砍价商品
@@ -1869,8 +1869,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:22:48'
-  update_time: '2021-11-24 10:22:48'
+  create_time: '2021-11-24T10:22:48'
+  update_time: '2021-11-24T10:22:48'
 - id: 202
   pid: 95
   name: 删除砍价商品
@@ -1881,8 +1881,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:23:15'
-  update_time: '2021-11-24 10:23:15'
+  create_time: '2021-11-24T10:23:15'
+  update_time: '2021-11-24T10:23:15'
 - id: 203
   pid: 95
   name: 修改砍价商品
@@ -1893,8 +1893,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:23:42'
-  update_time: '2021-11-24 10:23:42'
+  create_time: '2021-11-24T10:23:42'
+  update_time: '2021-11-24T10:23:42'
 - id: 204
   pid: 95
   name: 砍价商品详情
@@ -1905,8 +1905,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:25:19'
-  update_time: '2021-11-24 10:25:19'
+  create_time: '2021-11-24T10:25:19'
+  update_time: '2021-11-24T10:25:19'
 - id: 205
   pid: 95
   name: 修改砍价商品状态
@@ -1917,8 +1917,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:26:05'
-  update_time: '2021-11-24 10:26:05'
+  create_time: '2021-11-24T10:26:05'
+  update_time: '2021-11-24T10:26:05'
 - id: 207
   pid: 95
   name: 砍价商品导出
@@ -1929,8 +1929,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:29:11'
-  update_time: '2021-11-24 10:29:11'
+  create_time: '2021-11-24T10:29:11'
+  update_time: '2021-11-24T10:29:11'
 - id: 208
   pid: 14
   name: 商品导出
@@ -1941,8 +1941,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:30:11'
-  update_time: '2021-11-24 10:30:11'
+  create_time: '2021-11-24T10:30:11'
+  update_time: '2021-11-24T10:30:11'
 - id: 209
   pid: 97
   name: 新增拼团商品
@@ -1953,8 +1953,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:32:11'
-  update_time: '2021-11-24 10:32:11'
+  create_time: '2021-11-24T10:32:11'
+  update_time: '2021-11-24T10:32:11'
 - id: 210
   pid: 97
   name: 拼团商品删除
@@ -1965,8 +1965,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:32:46'
-  update_time: '2021-11-24 10:32:46'
+  create_time: '2021-11-24T10:32:46'
+  update_time: '2021-11-24T10:32:46'
 - id: 211
   pid: 97
   name: 拼团商品修改
@@ -1977,8 +1977,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:33:12'
-  update_time: '2021-11-24 10:33:12'
+  create_time: '2021-11-24T10:33:12'
+  update_time: '2021-11-24T10:33:12'
 - id: 212
   pid: 97
   name: 拼团商品详情
@@ -1989,8 +1989,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:33:38'
-  update_time: '2021-11-24 10:33:38'
+  create_time: '2021-11-24T10:33:38'
+  update_time: '2021-11-24T10:33:38'
 - id: 213
   pid: 97
   name: 修改拼团商品状态
@@ -2001,8 +2001,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:34:13'
-  update_time: '2021-12-09 16:31:00'
+  create_time: '2021-11-24T10:34:13'
+  update_time: '2021-12-09T16:31:00'
 - id: 214
   pid: 97
   name: 拼团商品导出
@@ -2013,8 +2013,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:35:22'
-  update_time: '2021-11-24 10:35:22'
+  create_time: '2021-11-24T10:35:22'
+  update_time: '2021-11-24T10:35:22'
 - id: 215
   pid: 98
   name: 拼团统计
@@ -2025,8 +2025,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-24 10:36:55'
-  update_time: '2021-11-24 10:36:55'
+  create_time: '2021-11-24T10:36:55'
+  update_time: '2021-11-24T10:36:55'
 - id: 224
   pid: 32
   name: 易联云小票打印
@@ -2037,8 +2037,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-27 17:50:26'
-  update_time: '2021-11-27 17:53:04'
+  create_time: '2021-11-27T17:50:26'
+  update_time: '2021-11-27T17:53:04'
 - id: 226
   pid: 1
   name: 控制台
@@ -2049,8 +2049,8 @@
   sort: 9
   is_show: 1
   is_delte: 0
-  create_time: '2021-11-30 14:13:37'
-  update_time: '2021-12-27 16:11:34'
+  create_time: '2021-11-30T14:13:37'
+  update_time: '2021-12-27T16:11:34'
 - id: 231
   pid: 105
   name: 分销配置信息保存
@@ -2061,8 +2061,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 09:35:28'
-  update_time: '2021-12-02 09:35:28'
+  create_time: '2021-12-02T09:35:28'
+  update_time: '2021-12-02T09:35:28'
 - id: 237
   pid: 155
   name: 提货点数量
@@ -2073,8 +2073,8 @@
   sort: 2
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:29:22'
-  update_time: '2021-12-02 10:29:22'
+  create_time: '2021-12-02T10:29:22'
+  update_time: '2021-12-02T10:29:22'
 - id: 238
   pid: 155
   name: 新增提货点
@@ -2085,8 +2085,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:29:53'
-  update_time: '2021-12-02 10:29:53'
+  create_time: '2021-12-02T10:29:53'
+  update_time: '2021-12-02T10:29:53'
 - id: 239
   pid: 155
   name: 提货点详情
@@ -2097,8 +2097,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:30:20'
-  update_time: '2021-12-02 10:30:20'
+  create_time: '2021-12-02T10:30:20'
+  update_time: '2021-12-02T10:30:20'
 - id: 240
   pid: 155
   name: 提货点显示状态
@@ -2109,8 +2109,8 @@
   sort: 5
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:30:45'
-  update_time: '2021-12-02 10:30:45'
+  create_time: '2021-12-02T10:30:45'
+  update_time: '2021-12-02T10:30:45'
 - id: 241
   pid: 155
   name: 修改提货点
@@ -2121,8 +2121,8 @@
   sort: 6
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:31:11'
-  update_time: '2021-12-02 10:31:11'
+  create_time: '2021-12-02T10:31:11'
+  update_time: '2021-12-02T10:31:11'
 - id: 242
   pid: 155
   name: 删除提货点
@@ -2133,8 +2133,8 @@
   sort: 7
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:31:33'
-  update_time: '2021-12-02 10:31:33'
+  create_time: '2021-12-02T10:31:33'
+  update_time: '2021-12-02T10:31:33'
 - id: 243
   pid: 155
   name: 恢复提货点
@@ -2145,8 +2145,8 @@
   sort: 8
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:32:42'
-  update_time: '2021-12-02 10:32:42'
+  create_time: '2021-12-02T10:32:42'
+  update_time: '2021-12-02T10:32:42'
 - id: 244
   pid: 155
   name: 彻底删除提货点
@@ -2157,8 +2157,8 @@
   sort: 9
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 10:33:18'
-  update_time: '2021-12-02 10:33:18'
+  create_time: '2021-12-02T10:33:18'
+  update_time: '2021-12-02T10:33:18'
 - id: 245
   pid: 157
   name: 新增核销员
@@ -2169,8 +2169,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:12:19'
-  update_time: '2021-12-02 11:12:19'
+  create_time: '2021-12-02T11:12:19'
+  update_time: '2021-12-02T11:12:19'
 - id: 246
   pid: 157
   name: 删除核销员
@@ -2181,8 +2181,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:12:40'
-  update_time: '2021-12-02 11:12:40'
+  create_time: '2021-12-02T11:12:40'
+  update_time: '2021-12-02T11:12:40'
 - id: 247
   pid: 157
   name: 核销员详情
@@ -2193,8 +2193,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:13:09'
-  update_time: '2021-12-02 11:13:09'
+  create_time: '2021-12-02T11:13:09'
+  update_time: '2021-12-02T11:13:09'
 - id: 248
   pid: 157
   name: 核销员修改
@@ -2205,8 +2205,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:13:37'
-  update_time: '2021-12-02 11:13:37'
+  create_time: '2021-12-02T11:13:37'
+  update_time: '2021-12-02T11:13:37'
 - id: 250
   pid: 164
   name: 组合数据详情
@@ -2217,8 +2217,8 @@
   sort: 8
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:35:48'
-  update_time: '2021-12-02 11:35:48'
+  create_time: '2021-12-02T11:35:48'
+  update_time: '2021-12-02T11:35:48'
 - id: 251
   pid: 167
   name: 同步物流公司
@@ -2229,8 +2229,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:43:01'
-  update_time: '2021-12-02 11:43:01'
+  create_time: '2021-12-02T11:43:01'
+  update_time: '2021-12-02T11:43:01'
 - id: 252
   pid: 140
   name: 物流模板新增
@@ -2241,8 +2241,8 @@
   sort: 3
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:44:27'
-  update_time: '2021-12-02 11:44:27'
+  create_time: '2021-12-02T11:44:27'
+  update_time: '2021-12-02T11:44:27'
 - id: 253
   pid: 140
   name: 物流模板删除
@@ -2253,8 +2253,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:44:54'
-  update_time: '2021-12-02 11:44:54'
+  create_time: '2021-12-02T11:44:54'
+  update_time: '2021-12-02T11:44:54'
 - id: 254
   pid: 140
   name: 物流模板详情
@@ -2265,8 +2265,8 @@
   sort: 5
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:45:23'
-  update_time: '2021-12-02 11:45:23'
+  create_time: '2021-12-02T11:45:23'
+  update_time: '2021-12-02T11:45:23'
 - id: 255
   pid: 140
   name: 物流模板修改
@@ -2277,8 +2277,8 @@
   sort: 6
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:45:47'
-  update_time: '2021-12-02 11:45:47'
+  create_time: '2021-12-02T11:45:47'
+  update_time: '2021-12-02T11:45:47'
 - id: 256
   pid: 140
   name: 物流免费模板
@@ -2289,8 +2289,8 @@
   sort: 7
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:46:54'
-  update_time: '2021-12-02 11:46:54'
+  create_time: '2021-12-02T11:46:54'
+  update_time: '2021-12-02T11:46:54'
 - id: 257
   pid: 140
   name: 物流付费模板
@@ -2301,8 +2301,8 @@
   sort: 8
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:47:21'
-  update_time: '2021-12-02 11:47:21'
+  create_time: '2021-12-02T11:47:21'
+  update_time: '2021-12-02T11:47:21'
 - id: 258
   pid: 166
   name: 城市详情
@@ -2313,8 +2313,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:55:47'
-  update_time: '2021-12-02 11:55:47'
+  create_time: '2021-12-02T11:55:47'
+  update_time: '2021-12-02T11:55:47'
 - id: 259
   pid: 166
   name: 修改城市
@@ -2325,8 +2325,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-02 11:57:04'
-  update_time: '2021-12-02 11:57:04'
+  create_time: '2021-12-02T11:57:04'
+  update_time: '2021-12-02T11:57:04'
 - id: 269
   pid: 12
   name: 消息通知
@@ -2337,8 +2337,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:13:08'
-  update_time: '2021-12-17 14:18:16'
+  create_time: '2021-12-03T15:13:08'
+  update_time: '2021-12-17T14:18:16'
 - id: 273
   pid: 14
   name: 商品表头数量
@@ -2349,8 +2349,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:48:18'
-  update_time: '2021-12-03 15:48:18'
+  create_time: '2021-12-03T15:48:18'
+  update_time: '2021-12-03T15:48:18'
 - id: 274
   pid: 14
   name: 导入99Api商品
@@ -2361,8 +2361,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:50:18'
-  update_time: '2021-12-03 15:50:18'
+  create_time: '2021-12-03T15:50:18'
+  update_time: '2021-12-03T15:50:18'
 - id: 275
   pid: 14
   name: 获取复制商品配置
@@ -2373,8 +2373,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:51:00'
-  update_time: '2021-12-03 15:51:00'
+  create_time: '2021-12-03T15:51:00'
+  update_time: '2021-12-03T15:51:00'
 - id: 276
   pid: 14
   name: 复制平台商品
@@ -2385,8 +2385,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:51:16'
-  update_time: '2021-12-03 15:51:16'
+  create_time: '2021-12-03T15:51:16'
+  update_time: '2021-12-03T15:51:16'
 - id: 277
   pid: 14
   name: 商品详情
@@ -2397,8 +2397,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:52:22'
-  update_time: '2021-12-03 15:52:22'
+  create_time: '2021-12-03T15:52:22'
+  update_time: '2021-12-03T15:52:22'
 - id: 278
   pid: 14
   name: 恢复商品
@@ -2409,8 +2409,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 15:53:24'
-  update_time: '2021-12-03 15:53:24'
+  create_time: '2021-12-03T15:53:24'
+  update_time: '2021-12-03T15:53:24'
 - id: 280
   pid: 0
   name: 登录管理
@@ -2421,8 +2421,8 @@
   sort: 1
   is_show: 0
   is_delte: 0
-  create_time: '2021-12-03 16:31:43'
-  update_time: '2025-03-12 09:41:01'
+  create_time: '2021-12-03T16:31:43'
+  update_time: '2025-03-12T09:41:01'
 - id: 281
   pid: 280
   name: 登陆用户详情
@@ -2433,8 +2433,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:32:39'
-  update_time: '2021-12-03 16:32:39'
+  create_time: '2021-12-03T16:32:39'
+  update_time: '2021-12-03T16:32:39'
 - id: 282
   pid: 280
   name: 退出登录
@@ -2445,8 +2445,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:33:29'
-  update_time: '2021-12-03 16:33:42'
+  create_time: '2021-12-03T16:33:29'
+  update_time: '2021-12-03T16:33:42'
 - id: 283
   pid: 280
   name: 管理员可访问目录
@@ -2457,8 +2457,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:33:40'
-  update_time: '2021-12-03 16:33:45'
+  create_time: '2021-12-03T16:33:40'
+  update_time: '2021-12-03T16:33:45'
 - id: 284
   pid: 138
   name: 菜单详情
@@ -2469,8 +2469,8 @@
   sort: 99999
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:39:41'
-  update_time: '2021-12-03 16:39:55'
+  create_time: '2021-12-03T16:39:41'
+  update_time: '2021-12-03T16:39:55'
 - id: 285
   pid: 226
   name: 首页数据
@@ -2481,8 +2481,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:51:09'
-  update_time: '2021-12-03 16:51:09'
+  create_time: '2021-12-03T16:51:09'
+  update_time: '2021-12-03T16:51:09'
 - id: 286
   pid: 226
   name: 用户曲线图
@@ -2493,8 +2493,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:51:29'
-  update_time: '2021-12-03 16:51:40'
+  create_time: '2021-12-03T16:51:29'
+  update_time: '2021-12-03T16:51:40'
 - id: 287
   pid: 226
   name: 用户购买统计
@@ -2505,8 +2505,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:51:59'
-  update_time: '2021-12-03 16:51:59'
+  create_time: '2021-12-03T16:51:59'
+  update_time: '2021-12-03T16:51:59'
 - id: 288
   pid: 226
   name: 30天订单量趋势
@@ -2517,8 +2517,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:52:47'
-  update_time: '2021-12-03 16:52:47'
+  create_time: '2021-12-03T16:52:47'
+  update_time: '2021-12-03T16:52:47'
 - id: 289
   pid: 226
   name: 周订单量趋势
@@ -2529,8 +2529,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:53:00'
-  update_time: '2021-12-03 16:53:00'
+  create_time: '2021-12-03T16:53:00'
+  update_time: '2021-12-03T16:53:00'
 - id: 290
   pid: 226
   name: 月订单量趋势
@@ -2541,8 +2541,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:53:16'
-  update_time: '2021-12-03 16:53:16'
+  create_time: '2021-12-03T16:53:16'
+  update_time: '2021-12-03T16:53:16'
 - id: 291
   pid: 226
   name: 年订单量趋势
@@ -2553,8 +2553,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 16:53:36'
-  update_time: '2021-12-03 16:53:36'
+  create_time: '2021-12-03T16:53:36'
+  update_time: '2021-12-03T16:53:36'
 - id: 293
   pid: 110
   name: 提现总金额
@@ -2565,8 +2565,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:05:23'
-  update_time: '2021-12-03 17:05:23'
+  create_time: '2021-12-03T17:05:23'
+  update_time: '2021-12-03T17:05:23'
 - id: 294
   pid: 0
   name: 分类服务
@@ -2577,8 +2577,8 @@
   sort: 0
   is_show: 0
   is_delte: 0
-  create_time: '2021-12-03 17:15:29'
-  update_time: '2025-03-12 09:41:06'
+  create_time: '2021-12-03T17:15:29'
+  update_time: '2025-03-12T09:41:06'
 - id: 295
   pid: 294
   name: 分类列表
@@ -2589,8 +2589,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:16:12'
-  update_time: '2021-12-03 17:16:12'
+  create_time: '2021-12-03T17:16:12'
+  update_time: '2021-12-03T17:16:12'
 - id: 296
   pid: 294
   name: 新增分类
@@ -2601,8 +2601,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:16:35'
-  update_time: '2021-12-03 17:16:35'
+  create_time: '2021-12-03T17:16:35'
+  update_time: '2021-12-03T17:16:35'
 - id: 297
   pid: 294
   name: 删除分类
@@ -2613,8 +2613,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:16:52'
-  update_time: '2021-12-03 17:16:52'
+  create_time: '2021-12-03T17:16:52'
+  update_time: '2021-12-03T17:16:52'
 - id: 298
   pid: 294
   name: 修改分类
@@ -2625,8 +2625,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:17:11'
-  update_time: '2021-12-03 17:17:11'
+  create_time: '2021-12-03T17:17:11'
+  update_time: '2021-12-03T17:17:11'
 - id: 299
   pid: 294
   name: 分类详情
@@ -2637,8 +2637,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:17:35'
-  update_time: '2021-12-03 17:17:35'
+  create_time: '2021-12-03T17:17:35'
+  update_time: '2021-12-03T17:17:35'
 - id: 300
   pid: 294
   name: 分类tree列表
@@ -2649,8 +2649,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:18:06'
-  update_time: '2021-12-03 17:18:06'
+  create_time: '2021-12-03T17:18:06'
+  update_time: '2021-12-03T17:18:06'
 - id: 301
   pid: 294
   name: 根据id集合获取分类列表
@@ -2661,8 +2661,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:18:23'
-  update_time: '2021-12-03 17:18:23'
+  create_time: '2021-12-03T17:18:23'
+  update_time: '2021-12-03T17:18:23'
 - id: 302
   pid: 294
   name: 更改分类状态
@@ -2673,8 +2673,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:18:38'
-  update_time: '2021-12-03 17:18:38'
+  create_time: '2021-12-03T17:18:38'
+  update_time: '2021-12-03T17:18:38'
 - id: 303
   pid: 164
   name: 分页组合数据详情
@@ -2685,8 +2685,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:39:37'
-  update_time: '2021-12-03 17:39:37'
+  create_time: '2021-12-03T17:39:37'
+  update_time: '2021-12-03T17:39:37'
 - id: 304
   pid: 39
   name: 发送优惠券列表
@@ -2697,8 +2697,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-03 17:41:34'
-  update_time: '2021-12-10 19:12:23'
+  create_time: '2021-12-03T17:41:34'
+  update_time: '2021-12-10T19:12:23'
 - id: 306
   pid: 32
   name: 订单列表统计数据
@@ -2709,8 +2709,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 09:40:56'
-  update_time: '2021-12-06 09:40:56'
+  create_time: '2021-12-06T09:40:56'
+  update_time: '2021-12-06T09:40:56'
 - id: 307
   pid: 32
   name: 面单默认配置信息
@@ -2721,8 +2721,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 09:42:51'
-  update_time: '2021-12-06 09:42:51'
+  create_time: '2021-12-06T09:42:51'
+  update_time: '2021-12-06T09:42:51'
 - id: 308
   pid: 32
   name: 订单详情
@@ -2733,8 +2733,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 09:44:00'
-  update_time: '2021-12-06 09:44:00'
+  create_time: '2021-12-06T09:44:00'
+  update_time: '2021-12-06T09:44:00'
 - id: 309
   pid: 32
   name: 订单操作记录列表
@@ -2745,8 +2745,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 09:45:04'
-  update_time: '2021-12-06 09:45:04'
+  create_time: '2021-12-06T09:45:04'
+  update_time: '2021-12-06T09:45:04'
 - id: 310
   pid: 166
   name: 城市树列表
@@ -2757,8 +2757,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 10:30:39'
-  update_time: '2021-12-06 10:30:39'
+  create_time: '2021-12-06T10:30:39'
+  update_time: '2021-12-06T10:30:39'
 - id: 311
   pid: 136
   name: 角色详情
@@ -2769,8 +2769,8 @@
   sort: 4
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 10:50:32'
-  update_time: '2021-12-06 10:50:32'
+  create_time: '2021-12-06T10:50:32'
+  update_time: '2021-12-06T10:50:32'
 - id: 312
   pid: 136
   name: 修改角色状态
@@ -2781,8 +2781,8 @@
   sort: 5
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 10:51:09'
-  update_time: '2021-12-06 10:51:09'
+  create_time: '2021-12-06T10:51:09'
+  update_time: '2021-12-06T10:51:09'
 - id: 313
   pid: 137
   name: 管理员详情
@@ -2793,8 +2793,8 @@
   sort: 6
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 11:04:41'
-  update_time: '2021-12-06 11:04:41'
+  create_time: '2021-12-06T11:04:41'
+  update_time: '2021-12-06T11:04:41'
 - id: 314
   pid: 137
   name: 是否接收状态
@@ -2805,8 +2805,8 @@
   sort: 7
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 11:05:17'
-  update_time: '2021-12-06 11:05:17'
+  create_time: '2021-12-06T11:05:17'
+  update_time: '2021-12-06T11:05:17'
 - id: 315
   pid: 39
   name: 用户详情页Top数据
@@ -2817,8 +2817,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:55:27'
-  update_time: '2021-12-06 14:55:27'
+  create_time: '2021-12-06T14:55:27'
+  update_time: '2021-12-06T14:55:27'
 - id: 316
   pid: 39
   name: 用户信息详情
@@ -2829,8 +2829,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:56:40'
-  update_time: '2021-12-06 14:56:40'
+  create_time: '2021-12-06T14:56:40'
+  update_time: '2021-12-06T14:56:40'
 - id: 317
   pid: 39
   name: 用户分组
@@ -2841,8 +2841,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:58:02'
-  update_time: '2021-12-06 14:58:02'
+  create_time: '2021-12-06T14:58:02'
+  update_time: '2021-12-06T14:58:02'
 - id: 318
   pid: 39
   name: 修改用户手机号
@@ -2853,8 +2853,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:58:49'
-  update_time: '2021-12-06 14:58:49'
+  create_time: '2021-12-06T14:58:49'
+  update_time: '2021-12-06T14:58:49'
 - id: 319
   pid: 39
   name: 更新用户会员等级
@@ -2865,8 +2865,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:59:23'
-  update_time: '2021-12-06 14:59:23'
+  create_time: '2021-12-06T14:59:23'
+  update_time: '2021-12-06T14:59:23'
 - id: 320
   pid: 39
   name: 修改上级推广人
@@ -2877,8 +2877,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 14:59:45'
-  update_time: '2021-12-06 15:01:24'
+  create_time: '2021-12-06T14:59:45'
+  update_time: '2021-12-06T15:01:24'
 - id: 321
   pid: 60
   name: 文章详情
@@ -2889,8 +2889,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 15:11:54'
-  update_time: '2021-12-06 15:11:54'
+  create_time: '2021-12-06T15:11:54'
+  update_time: '2021-12-06T15:11:54'
 - id: 322
   pid: 89
   name: 删除优惠券
@@ -2901,8 +2901,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-06 16:23:26'
-  update_time: '2021-12-06 16:23:26'
+  create_time: '2021-12-06T16:23:26'
+  update_time: '2021-12-06T16:23:26'
 - id: 323
   pid: 344
   name: 表单模板详情
@@ -2913,8 +2913,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 09:33:10'
-  update_time: '2021-12-09 15:38:12'
+  create_time: '2021-12-07T09:33:10'
+  update_time: '2021-12-09T15:38:12'
 - id: 324
   pid: 121
   name: 整体保存表单数据
@@ -2925,8 +2925,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 09:35:50'
-  update_time: '2021-12-07 09:35:50'
+  create_time: '2021-12-07T09:35:50'
+  update_time: '2021-12-07T09:35:50'
 - id: 325
   pid: 96
   name: 砍价参与详情列表
@@ -2937,8 +2937,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 09:39:32'
-  update_time: '2021-12-07 09:39:32'
+  create_time: '2021-12-07T09:39:32'
+  update_time: '2021-12-07T09:39:32'
 - id: 326
   pid: 109
   name: 提现统计
@@ -2949,8 +2949,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 11:26:32'
-  update_time: '2021-12-07 11:26:32'
+  create_time: '2021-12-07T11:26:32'
+  update_time: '2021-12-07T11:26:32'
 - id: 327
   pid: 226
   name: 经营数据
@@ -2961,8 +2961,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 11:41:07'
-  update_time: '2021-12-07 11:41:07'
+  create_time: '2021-12-07T11:41:07'
+  update_time: '2021-12-07T11:41:07'
 - id: 337
   pid: 269
   name: 公众号模板消息同步
@@ -2973,8 +2973,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 18:42:30'
-  update_time: '2021-12-11 15:24:21'
+  create_time: '2021-12-07T18:42:30'
+  update_time: '2021-12-11T15:24:21'
 - id: 340
   pid: 138
   name: 菜单缓存树
@@ -2985,8 +2985,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-07 19:15:32'
-  update_time: '2021-12-07 19:15:32'
+  create_time: '2021-12-07T19:15:32'
+  update_time: '2021-12-07T19:15:32'
 - id: 343
   pid: 39
   name: 发送优惠券
@@ -2997,8 +2997,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-08 18:16:23'
-  update_time: '2021-12-08 18:16:23'
+  create_time: '2021-12-08T18:16:23'
+  update_time: '2021-12-08T18:16:23'
 - id: 344
   pid: 0
   name: 公共服务
@@ -3009,8 +3009,8 @@
   sort: 0
   is_show: 0
   is_delte: 0
-  create_time: '2021-12-08 18:56:36'
-  update_time: '2025-03-12 09:41:11'
+  create_time: '2021-12-08T18:56:36'
+  update_time: '2025-03-12T09:41:11'
 - id: 345
   pid: 344
   name: 根据key存储
@@ -3021,8 +3021,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-08 18:57:26'
-  update_time: '2021-12-08 18:57:26'
+  create_time: '2021-12-08T18:57:26'
+  update_time: '2021-12-08T18:57:26'
 - id: 347
   pid: 344
   name: 根据key获取
@@ -3033,8 +3033,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-08 18:58:55'
-  update_time: '2021-12-08 18:59:18'
+  create_time: '2021-12-08T18:58:55'
+  update_time: '2021-12-08T18:59:18'
 - id: 348
   pid: 98
   name: 拼团订单列表
@@ -3045,8 +3045,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-08 19:08:59'
-  update_time: '2021-12-08 19:08:59'
+  create_time: '2021-12-08T19:08:59'
+  update_time: '2021-12-08T19:08:59'
 - id: 352
   pid: 104
   name: 推广人
@@ -3057,8 +3057,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 14:43:19'
-  update_time: '2021-12-09 14:43:19'
+  create_time: '2021-12-09T14:43:19'
+  update_time: '2021-12-09T14:43:19'
 - id: 353
   pid: 104
   name: 推广订单
@@ -3069,8 +3069,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 14:44:10'
-  update_time: '2021-12-09 14:44:10'
+  create_time: '2021-12-09T14:44:10'
+  update_time: '2021-12-09T14:44:10'
 - id: 354
   pid: 104
   name: 清除上级推广人
@@ -3081,8 +3081,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 14:45:33'
-  update_time: '2021-12-09 14:45:33'
+  create_time: '2021-12-09T14:45:33'
+  update_time: '2021-12-09T14:45:33'
 - id: 355
   pid: 109
   name: 提现编辑
@@ -3093,8 +3093,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 15:06:43'
-  update_time: '2021-12-09 15:06:43'
+  create_time: '2021-12-09T15:06:43'
+  update_time: '2021-12-09T15:06:43'
 - id: 356
   pid: 109
   name: 提现审核
@@ -3105,8 +3105,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 15:09:01'
-  update_time: '2021-12-09 15:09:01'
+  create_time: '2021-12-09T15:09:01'
+  update_time: '2021-12-09T15:09:01'
 - id: 357
   pid: 167
   name: 物流公司
@@ -3117,8 +3117,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 16:14:43'
-  update_time: '2021-12-09 16:14:43'
+  create_time: '2021-12-09T16:14:43'
+  update_time: '2021-12-09T16:14:43'
 - id: 359
   pid: 269
   name: 公众号模板开关
@@ -3129,8 +3129,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 17:15:25'
-  update_time: '2021-12-09 17:15:25'
+  create_time: '2021-12-09T17:15:25'
+  update_time: '2021-12-09T17:15:25'
 - id: 360
   pid: 269
   name: 小程序订阅模板开关
@@ -3141,8 +3141,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 17:15:48'
-  update_time: '2021-12-09 17:15:48'
+  create_time: '2021-12-09T17:15:48'
+  update_time: '2021-12-09T17:15:48'
 - id: 361
   pid: 269
   name: 发送短信开关
@@ -3153,8 +3153,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 17:16:01'
-  update_time: '2021-12-09 17:16:01'
+  create_time: '2021-12-09T17:16:01'
+  update_time: '2021-12-09T17:16:01'
 - id: 362
   pid: 269
   name: 通知详情
@@ -3165,8 +3165,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-09 17:16:19'
-  update_time: '2021-12-09 17:16:19'
+  create_time: '2021-12-09T17:16:19'
+  update_time: '2021-12-09T17:16:19'
 - id: 366
   pid: 269
   name: 小程序订阅消息同步
@@ -3177,8 +3177,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-10 12:15:58'
-  update_time: '2021-12-11 15:24:32'
+  create_time: '2021-12-10T12:15:58'
+  update_time: '2021-12-11T15:24:32'
 - id: 367
   pid: 158
   name: 修改图片分组
@@ -3189,8 +3189,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-10 15:38:24'
-  update_time: '2021-12-10 15:38:24'
+  create_time: '2021-12-10T15:38:24'
+  update_time: '2021-12-10T15:38:24'
 - id: 368
   pid: 32
   name: 订单核销
@@ -3201,8 +3201,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-10 15:39:06'
-  update_time: '2021-12-10 15:39:06'
+  create_time: '2021-12-10T15:39:06'
+  update_time: '2021-12-10T15:39:06'
 - id: 369
   pid: 269
   name: 修改通知
@@ -3213,8 +3213,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-10 15:53:29'
-  update_time: '2021-12-10 15:53:29'
+  create_time: '2021-12-10T15:53:29'
+  update_time: '2021-12-10T15:53:29'
 - id: 370
   pid: 167
   name: 编辑快递公司
@@ -3225,8 +3225,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:04:36'
-  update_time: '2021-12-13 10:04:36'
+  create_time: '2021-12-13T10:04:36'
+  update_time: '2021-12-13T10:04:36'
 - id: 371
   pid: 167
   name: 修改快递公司状态
@@ -3237,8 +3237,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:04:56'
-  update_time: '2021-12-13 10:04:56'
+  create_time: '2021-12-13T10:04:56'
+  update_time: '2021-12-13T10:04:56'
 - id: 372
   pid: 167
   name: 快递公司详情
@@ -3249,8 +3249,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:05:10'
-  update_time: '2021-12-13 10:05:10'
+  create_time: '2021-12-13T10:05:10'
+  update_time: '2021-12-13T10:05:10'
 - id: 373
   pid: 32
   name: 物流公司面单模板
@@ -3261,8 +3261,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:06:30'
-  update_time: '2021-12-13 10:06:30'
+  create_time: '2021-12-13T10:06:30'
+  update_time: '2021-12-13T10:06:30'
 - id: 384
   pid: 156
   name: 核销订单头部数据
@@ -3273,8 +3273,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:20:16'
-  update_time: '2021-12-13 10:20:16'
+  create_time: '2021-12-13T10:20:16'
+  update_time: '2021-12-13T10:20:16'
 - id: 385
   pid: 156
   name: 核销订单月列表数据
@@ -3285,8 +3285,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:20:30'
-  update_time: '2021-12-13 10:20:30'
+  create_time: '2021-12-13T10:20:30'
+  update_time: '2021-12-13T10:20:30'
 - id: 386
   pid: 156
   name: 核销码查询待核销订单
@@ -3297,8 +3297,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:20:42'
-  update_time: '2021-12-13 10:20:42'
+  create_time: '2021-12-13T10:20:42'
+  update_time: '2021-12-13T10:20:42'
 - id: 387
   pid: 344
   name: 订单统计详情
@@ -3309,8 +3309,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:22:47'
-  update_time: '2021-12-13 10:22:47'
+  create_time: '2021-12-13T10:22:47'
+  update_time: '2021-12-13T10:22:47'
 - id: 388
   pid: 32
   name: 视频号订单发送货
@@ -3321,8 +3321,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:23:11'
-  update_time: '2021-12-13 10:23:11'
+  create_time: '2021-12-13T10:23:11'
+  update_time: '2021-12-13T10:23:11'
 - id: 389
   pid: 16
   name: 商品规则值详情
@@ -3333,8 +3333,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:24:50'
-  update_time: '2021-12-13 10:24:50'
+  create_time: '2021-12-13T10:24:50'
+  update_time: '2021-12-13T10:24:50'
 - id: 390
   pid: 344
   name: 新增附件
@@ -3345,8 +3345,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:26:45'
-  update_time: '2021-12-13 10:26:45'
+  create_time: '2021-12-13T10:26:45'
+  update_time: '2021-12-13T10:26:45'
 - id: 391
   pid: 344
   name: 修改附件
@@ -3357,8 +3357,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:28:19'
-  update_time: '2021-12-13 10:28:19'
+  create_time: '2021-12-13T10:28:19'
+  update_time: '2021-12-13T10:28:19'
 - id: 392
   pid: 344
   name: 附件详情
@@ -3369,8 +3369,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:29:08'
-  update_time: '2021-12-13 10:29:08'
+  create_time: '2021-12-13T10:29:08'
+  update_time: '2021-12-13T10:29:08'
 - id: 393
   pid: 166
   name: 修改城市状态
@@ -3381,8 +3381,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:29:55'
-  update_time: '2021-12-13 10:29:55'
+  create_time: '2021-12-13T10:29:55'
+  update_time: '2021-12-13T10:29:55'
 - id: 394
   pid: 344
   name: 检测表单name是否存在
@@ -3393,8 +3393,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:30:58'
-  update_time: '2021-12-13 10:30:58'
+  create_time: '2021-12-13T10:30:58'
+  update_time: '2021-12-13T10:30:58'
 - id: 395
   pid: 344
   name: 根据key获取配置
@@ -3405,8 +3405,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:31:24'
-  update_time: '2021-12-13 10:31:24'
+  create_time: '2021-12-13T10:31:24'
+  update_time: '2021-12-13T10:31:24'
 - id: 396
   pid: 344
   name: 更新配置信息
@@ -3417,8 +3417,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:31:44'
-  update_time: '2021-12-13 10:31:44'
+  create_time: '2021-12-13T10:31:44'
+  update_time: '2021-12-13T10:31:44'
 - id: 397
   pid: 344
   name: 组合数据详情
@@ -3429,8 +3429,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:32:28'
-  update_time: '2021-12-13 10:32:28'
+  create_time: '2021-12-13T10:32:28'
+  update_time: '2021-12-13T10:32:28'
 - id: 398
   pid: 157
   name: 修改核销员状态
@@ -3441,8 +3441,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:33:46'
-  update_time: '2021-12-13 10:33:46'
+  create_time: '2021-12-13T10:33:46'
+  update_time: '2021-12-13T10:33:46'
 - id: 399
   pid: 42
   name: 用户分组详情
@@ -3453,8 +3453,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:34:41'
-  update_time: '2021-12-13 10:34:41'
+  create_time: '2021-12-13T10:34:41'
+  update_time: '2021-12-13T10:34:41'
 - id: 400
   pid: 39
   name: 会员等级列表
@@ -3465,8 +3465,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:36:37'
-  update_time: '2021-12-13 10:36:37'
+  create_time: '2021-12-13T10:36:37'
+  update_time: '2021-12-13T10:36:37'
 - id: 401
   pid: 40
   name: 会员标签详情
@@ -3477,8 +3477,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:37:04'
-  update_time: '2021-12-13 10:37:04'
+  create_time: '2021-12-13T10:37:04'
+  update_time: '2021-12-13T10:37:04'
 - id: 402
   pid: 344
   name: 获取微信公众号js配置
@@ -3489,8 +3489,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:38:24'
-  update_time: '2021-12-13 10:38:24'
+  create_time: '2021-12-13T10:38:24'
+  update_time: '2021-12-13T10:38:24'
 - id: 403
   pid: 344
   name: 微信素材上传
@@ -3501,8 +3501,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 10:38:50'
-  update_time: '2021-12-13 10:38:50'
+  create_time: '2021-12-13T10:38:50'
+  update_time: '2021-12-13T10:38:50'
 - id: 406
   pid: 344
   name: 获取授权信息
@@ -3513,8 +3513,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2021-12-13 17:54:06'
-  update_time: '2021-12-13 18:12:17'
+  create_time: '2021-12-13T17:54:06'
+  update_time: '2021-12-13T18:12:17'
 - id: 407
   pid: 344
   name: 获取文件存储类型
@@ -3525,8 +3525,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-23 15:37:46'
-  update_time: '2023-08-23 15:37:46'
+  create_time: '2023-08-23T15:37:46'
+  update_time: '2023-08-23T15:37:46'
 - id: 409
   pid: 344
   name: 获取腾讯地图key
@@ -3537,8 +3537,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-23 17:37:06'
-  update_time: '2023-08-23 17:37:06'
+  create_time: '2023-08-23T17:37:06'
+  update_time: '2023-08-23T17:37:06'
 - id: 410
   pid: 344
   name: 获取移动端首页列表样式
@@ -3549,8 +3549,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-23 17:37:29'
-  update_time: '2023-08-23 17:37:29'
+  create_time: '2023-08-23T17:37:29'
+  update_time: '2023-08-23T17:37:29'
 - id: 411
   pid: 344
   name: 获取小程序下载地址
@@ -3561,8 +3561,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-23 17:37:48'
-  update_time: '2023-08-23 17:37:48'
+  create_time: '2023-08-23T17:37:48'
+  update_time: '2023-08-23T17:37:48'
 - id: 412
   pid: 344
   name: 保存移动端首页列表样式
@@ -3573,8 +3573,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-24 10:03:34'
-  update_time: '2023-08-24 10:03:34'
+  create_time: '2023-08-24T10:03:34'
+  update_time: '2023-08-24T10:03:34'
 - id: 414
   pid: 344
   name: 获取授权地址
@@ -3585,8 +3585,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-24 11:28:07'
-  update_time: '2023-08-24 11:28:07'
+  create_time: '2023-08-24T11:28:07'
+  update_time: '2023-08-24T11:28:07'
 - id: 415
   pid: 32
   name: 更改订单运单号
@@ -3597,8 +3597,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-24 14:38:02'
-  update_time: '2023-08-24 14:38:02'
+  create_time: '2023-08-24T14:38:02'
+  update_time: '2023-08-24T14:38:02'
 - id: 417
   pid: 344
   name: 获取主题色
@@ -3609,8 +3609,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-25 14:21:09'
-  update_time: '2023-08-25 14:21:09'
+  create_time: '2023-08-25T14:21:09'
+  update_time: '2023-08-25T14:21:09'
 - id: 418
   pid: 344
   name: 保存主题色
@@ -3621,8 +3621,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-25 14:21:30'
-  update_time: '2023-08-25 14:21:30'
+  create_time: '2023-08-25T14:21:30'
+  update_time: '2023-08-25T14:21:30'
 - id: 419
   pid: 420
   name: 一号通应用保存
@@ -3633,8 +3633,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-25 16:30:02'
-  update_time: '2023-08-28 10:11:14'
+  create_time: '2023-08-25T16:30:02'
+  update_time: '2023-08-28T10:11:14'
 - id: 420
   pid: 12
   name: 一号通配置
@@ -3645,8 +3645,8 @@
   sort: 9
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-26 17:39:29'
-  update_time: '2023-08-26 17:45:50'
+  create_time: '2023-08-26T17:39:29'
+  update_time: '2023-08-26T17:45:50'
 - id: 421
   pid: 420
   name: 一号通应用获取
@@ -3657,8 +3657,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-28 10:11:45'
-  update_time: '2023-08-28 10:11:45'
+  create_time: '2023-08-28T10:11:45'
+  update_time: '2023-08-28T10:11:45'
 - id: 422
   pid: 13
   name: 定时任务管理
@@ -3669,8 +3669,8 @@
   sort: 99
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:48:21'
-  update_time: '2023-08-29 15:48:21'
+  create_time: '2023-08-29T15:48:21'
+  update_time: '2023-08-29T15:48:21'
 - id: 423
   pid: 422
   name: 定时任务
@@ -3681,8 +3681,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:48:47'
-  update_time: '2023-08-29 16:36:54'
+  create_time: '2023-08-29T15:48:47'
+  update_time: '2023-08-29T16:36:54'
 - id: 424
   pid: 422
   name: 定时任务日志
@@ -3693,8 +3693,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:49:13'
-  update_time: '2023-08-29 16:36:46'
+  create_time: '2023-08-29T15:49:13'
+  update_time: '2023-08-29T16:36:46'
 - id: 425
   pid: 424
   name: 定时任务日志分页列表
@@ -3705,8 +3705,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:49:50'
-  update_time: '2023-08-29 15:52:49'
+  create_time: '2023-08-29T15:49:50'
+  update_time: '2023-08-29T15:52:49'
 - id: 426
   pid: 423
   name: 定时任务列表
@@ -3717,8 +3717,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:50:14'
-  update_time: '2023-08-29 15:53:43'
+  create_time: '2023-08-29T15:50:14'
+  update_time: '2023-08-29T15:53:43'
 - id: 427
   pid: 423
   name: 添加定时任务
@@ -3729,8 +3729,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:50:32'
-  update_time: '2023-08-29 15:53:35'
+  create_time: '2023-08-29T15:50:32'
+  update_time: '2023-08-29T15:53:35'
 - id: 428
   pid: 423
   name: 定时任务编辑
@@ -3741,8 +3741,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:50:49'
-  update_time: '2023-08-29 15:53:29'
+  create_time: '2023-08-29T15:50:49'
+  update_time: '2023-08-29T15:53:29'
 - id: 429
   pid: 423
   name: 暂停定时任务
@@ -3753,8 +3753,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:51:07'
-  update_time: '2023-08-29 15:53:21'
+  create_time: '2023-08-29T15:51:07'
+  update_time: '2023-08-29T15:53:21'
 - id: 430
   pid: 423
   name: 启动定时任务
@@ -3765,8 +3765,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:51:26'
-  update_time: '2023-08-29 15:53:14'
+  create_time: '2023-08-29T15:51:26'
+  update_time: '2023-08-29T15:53:14'
 - id: 431
   pid: 423
   name: 删除定时任务
@@ -3777,8 +3777,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:51:44'
-  update_time: '2023-08-29 15:53:07'
+  create_time: '2023-08-29T15:51:44'
+  update_time: '2023-08-29T15:53:07'
 - id: 432
   pid: 423
   name: 立即执行定时任务（一次）
@@ -3789,8 +3789,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 15:52:13'
-  update_time: '2023-08-29 15:53:01'
+  create_time: '2023-08-29T15:52:13'
+  update_time: '2023-08-29T15:53:01'
 - id: 433
   pid: 420
   name: 取消商家寄件
@@ -3801,8 +3801,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 16:14:39'
-  update_time: '2023-08-29 16:14:39'
+  create_time: '2023-08-29T16:14:39'
+  update_time: '2023-08-29T16:14:39'
 - id: 434
   pid: 420
   name: 商家寄件-快递列表
@@ -3813,8 +3813,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-29 16:15:05'
-  update_time: '2023-08-29 16:15:05'
+  create_time: '2023-08-29T16:15:05'
+  update_time: '2023-08-29T16:15:05'
 - id: 435
   pid: 12
   name: 一号通
@@ -3825,8 +3825,8 @@
   sort: 9
   is_show: 1
   is_delte: 0
-  create_time: '2023-08-30 16:35:11'
-  update_time: '2023-08-30 16:35:30'
+  create_time: '2023-08-30T16:35:11'
+  update_time: '2023-08-30T16:35:30'
 - id: 439
   pid: 0
   name: 装修
@@ -3837,8 +3837,8 @@
   sort: 85
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 10:54:00'
-  update_time: '2024-07-12 10:55:24'
+  create_time: '2024-07-12T10:54:00'
+  update_time: '2024-07-12T10:55:24'
 - id: 440
   pid: 439
   name: 一键换色
@@ -3849,8 +3849,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 10:56:19'
-  update_time: '2024-07-12 10:56:19'
+  create_time: '2024-07-12T10:56:19'
+  update_time: '2024-07-12T10:56:19'
 - id: 441
   pid: 439
   name: 页面设计
@@ -3861,8 +3861,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 10:57:02'
-  update_time: '2024-07-12 10:57:02'
+  create_time: '2024-07-12T10:57:02'
+  update_time: '2024-07-12T10:57:02'
 - id: 442
   pid: 441
   name: 页面布局首页保存
@@ -3873,8 +3873,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 10:58:47'
-  update_time: '2024-07-12 10:58:47'
+  create_time: '2024-07-12T10:58:47'
+  update_time: '2024-07-12T10:58:47'
 - id: 443
   pid: 441
   name: 页面首页布局banner保存
@@ -3885,8 +3885,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 10:59:31'
-  update_time: '2024-07-12 10:59:31'
+  create_time: '2024-07-12T10:59:31'
+  update_time: '2024-07-12T10:59:31'
 - id: 444
   pid: 441
   name: 页面首页布局menus保存
@@ -3897,8 +3897,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:00:58'
-  update_time: '2024-07-12 11:00:58'
+  create_time: '2024-07-12T11:00:58'
+  update_time: '2024-07-12T11:00:58'
 - id: 445
   pid: 441
   name: 页面首页新闻保存
@@ -3909,8 +3909,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:01:32'
-  update_time: '2024-07-12 11:01:32'
+  create_time: '2024-07-12T11:01:32'
+  update_time: '2024-07-12T11:01:32'
 - id: 446
   pid: 441
   name: 页面用户中心导航保存
@@ -3921,8 +3921,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:02:18'
-  update_time: '2024-07-12 11:02:18'
+  create_time: '2024-07-12T11:02:18'
+  update_time: '2024-07-12T11:02:18'
 - id: 447
   pid: 441
   name: 页面用户中心
@@ -3933,8 +3933,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:03:40'
-  update_time: '2024-07-12 11:03:40'
+  create_time: '2024-07-12T11:03:40'
+  update_time: '2024-07-12T11:03:40'
 - id: 448
   pid: 441
   name: 分类页配置保存
@@ -3945,8 +3945,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:04:13'
-  update_time: '2024-07-12 11:04:13'
+  create_time: '2024-07-12T11:04:13'
+  update_time: '2024-07-12T11:04:13'
 - id: 449
   pid: 441
   name: 获取分类页配置
@@ -3957,8 +3957,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:04:34'
-  update_time: '2024-07-12 11:04:34'
+  create_time: '2024-07-12T11:04:34'
+  update_time: '2024-07-12T11:04:34'
 - id: 450
   pid: 441
   name: 页面底部导航
@@ -3969,8 +3969,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:04:56'
-  update_time: '2024-07-12 11:04:56'
+  create_time: '2024-07-12T11:04:56'
+  update_time: '2024-07-12T11:04:56'
 - id: 451
   pid: 441
   name: 底部导航保存
@@ -3981,8 +3981,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-12 11:05:18'
-  update_time: '2024-07-12 11:05:18'
+  create_time: '2024-07-12T11:05:18'
+  update_time: '2024-07-12T11:05:18'
 - id: 468
   pid: 7
   name: 氛围图
@@ -3993,8 +3993,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-15 11:10:09'
-  update_time: '2024-07-18 09:59:10'
+  create_time: '2024-07-15T11:10:09'
+  update_time: '2024-07-18T09:59:10'
 - id: 469
   pid: 7
   name: 活动边框
@@ -4005,8 +4005,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-15 11:10:29'
-  update_time: '2024-07-18 09:59:22'
+  create_time: '2024-07-15T11:10:29'
+  update_time: '2024-07-18T09:59:22'
 - id: 470
   pid: 469
   name: 分页列表
@@ -4017,8 +4017,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-17 11:29:51'
-  update_time: '2024-07-17 11:29:51'
+  create_time: '2024-07-17T11:29:51'
+  update_time: '2024-07-17T11:29:51'
 - id: 471
   pid: 469
   name: 新增
@@ -4029,8 +4029,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-17 11:30:19'
-  update_time: '2024-07-17 11:30:19'
+  create_time: '2024-07-17T11:30:19'
+  update_time: '2024-07-17T11:30:19'
 - id: 472
   pid: 469
   name: 删除
@@ -4041,8 +4041,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-17 11:30:44'
-  update_time: '2024-07-17 11:30:44'
+  create_time: '2024-07-17T11:30:44'
+  update_time: '2024-07-17T11:30:44'
 - id: 473
   pid: 469
   name: 修改
@@ -4053,8 +4053,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-17 11:31:02'
-  update_time: '2024-07-17 11:31:02'
+  create_time: '2024-07-17T11:31:02'
+  update_time: '2024-07-17T11:31:02'
 - id: 474
   pid: 469
   name: 更新状态
@@ -4065,8 +4065,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-17 11:31:31'
-  update_time: '2024-07-17 11:31:31'
+  create_time: '2024-07-17T11:31:31'
+  update_time: '2024-07-17T11:31:31'
 - id: 475
   pid: 469
   name: id集合查询商品
@@ -4077,8 +4077,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-07-18 14:42:35'
-  update_time: '2024-07-18 14:42:35'
+  create_time: '2024-07-18T14:42:35'
+  update_time: '2024-07-18T14:42:35'
 - id: 479
   pid: 439
   name: 首页装修
@@ -4089,8 +4089,8 @@
   sort: 99
   is_show: 1
   is_delte: 0
-  create_time: '2024-10-25 15:24:44'
-  update_time: '2024-11-20 11:02:43'
+  create_time: '2024-10-25T15:24:44'
+  update_time: '2024-11-20T11:02:43'
 - id: 480
   pid: 479
   name: 分页列表
@@ -4101,8 +4101,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:22:41'
-  update_time: '2024-11-04 11:22:41'
+  create_time: '2024-11-04T11:22:41'
+  update_time: '2024-11-04T11:22:41'
 - id: 481
   pid: 479
   name: 设置商城首页
@@ -4113,8 +4113,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:23:39'
-  update_time: '2024-11-04 11:23:39'
+  create_time: '2024-11-04T11:23:39'
+  update_time: '2024-11-04T11:23:39'
 - id: 482
   pid: 479
   name: 获取商城首页
@@ -4125,8 +4125,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:24:21'
-  update_time: '2024-11-04 11:24:21'
+  create_time: '2024-11-04T11:24:21'
+  update_time: '2024-11-04T11:24:21'
 - id: 483
   pid: 479
   name: 新增
@@ -4137,8 +4137,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:24:44'
-  update_time: '2024-11-04 11:24:44'
+  create_time: '2024-11-04T11:24:44'
+  update_time: '2024-11-04T11:24:44'
 - id: 484
   pid: 479
   name: 删除
@@ -4149,8 +4149,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:25:09'
-  update_time: '2024-11-04 11:25:09'
+  create_time: '2024-11-04T11:25:09'
+  update_time: '2024-11-04T11:25:09'
 - id: 485
   pid: 479
   name: 修改
@@ -4161,8 +4161,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:25:33'
-  update_time: '2024-11-04 11:25:33'
+  create_time: '2024-11-04T11:25:33'
+  update_time: '2024-11-04T11:25:33'
 - id: 486
   pid: 479
   name: 模版名称更新
@@ -4173,8 +4173,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:26:01'
-  update_time: '2024-11-04 11:26:01'
+  create_time: '2024-11-04T11:26:01'
+  update_time: '2024-11-04T11:26:01'
 - id: 487
   pid: 479
   name: 详情
@@ -4185,8 +4185,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-04 11:26:20'
-  update_time: '2024-11-04 11:26:20'
+  create_time: '2024-11-04T11:26:20'
+  update_time: '2024-11-04T11:26:20'
 - id: 488
   pid: 280
   name: 修改登录用户密码
@@ -4197,8 +4197,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-19 14:49:43'
-  update_time: '2024-11-19 14:49:43'
+  create_time: '2024-11-19T14:49:43'
+  update_time: '2024-11-19T14:49:43'
 - id: 489
   pid: 280
   name: 修改管理员名称
@@ -4209,8 +4209,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2024-11-19 14:50:12'
-  update_time: '2024-11-19 14:50:12'
+  create_time: '2024-11-19T14:50:12'
+  update_time: '2024-11-19T14:50:12'
 - id: 491
   pid: 14
   name: 编辑库存
@@ -4221,8 +4221,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2025-05-23 11:16:07'
-  update_time: '2025-05-23 11:16:07'
+  create_time: '2025-05-23T11:16:07'
+  update_time: '2025-05-23T11:16:07'
 - id: 492
   pid: 226
   name: 用户概览
@@ -4233,8 +4233,8 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2025-06-16 14:33:56'
-  update_time: '2025-06-16 14:33:56'
+  create_time: '2025-06-16T14:33:56'
+  update_time: '2025-06-16T14:33:56'
 - id: 493
   pid: 226
   name: 用户渠道数据
@@ -4245,5 +4245,5 @@
   sort: 0
   is_show: 1
   is_delte: 0
-  create_time: '2025-06-16 14:34:17'
-  update_time: '2025-06-16 14:34:17'
+  create_time: '2025-06-16T14:34:17'
+  update_time: '2025-06-16T14:34:17'

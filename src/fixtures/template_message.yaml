@@ -7,8 +7,8 @@
     {{remark.DATA}}"
   temp_id: aCeSv64b4eiZB6qrrtPdj5djNcS9f0nYQGR7UJFdUXo
   status: 0
-  create_time: '2020-06-16 10:44:44'
-  update_time: '2021-12-16 10:56:39'
+  create_time: '2020-06-16T10:44:44'
+  update_time: '2021-12-16T10:56:39'
 - id: 20
   type: 1
   temp_key: OPENTM418033200
@@ -17,8 +17,8 @@
     物流公司：{{keyword3.DATA}}\r\n快递单号：{{keyword4.DATA}}\r\n{{remark.DATA}}"
   temp_id: ZEHnkuInxuElw4es24E7YZy4ePNDXriUxp1v9JD4Rdc
   status: 1
-  create_time: '2020-06-16 10:44:44'
-  update_time: '2021-12-16 10:43:35'
+  create_time: '2020-06-16T10:44:44'
+  update_time: '2021-12-16T10:43:35'
 - id: 23
   type: 1
   temp_key: OPENTM407456411
@@ -32,8 +32,8 @@
     {{remark.DATA}}'
   temp_id: ydStX4R9ds9A89XJhBQpF31OjZKzB-KscfjerySKzfs
   status: 1
-  create_time: '2020-06-16 10:44:44'
-  update_time: '2020-12-03 16:26:04'
+  create_time: '2020-06-16T10:44:44'
+  update_time: '2020-12-03T16:26:04'
 - id: 27
   type: 1
   temp_key: OPENTM410292733
@@ -47,8 +47,8 @@
     {{remark.DATA}}'
   temp_id: GptgO4vGorI2GqKCO21vFozCZAFmrO8Dihan1x6Avxs
   status: 1
-  create_time: '2020-06-16 10:44:44'
-  update_time: '2020-12-03 16:27:27'
+  create_time: '2020-06-16T10:44:44'
+  update_time: '2020-12-03T16:27:27'
 - id: 34
   type: 1
   temp_key: OPENTM418209505
@@ -58,8 +58,8 @@
     {{remark.DATA}}"
   temp_id: QluDjnRnr_Jwrp1M1oAcoqegdOrkWJXE0F_Ka-N6HSc
   status: 1
-  create_time: '2020-12-03 16:03:24'
-  update_time: '2021-12-16 10:49:25'
+  create_time: '2020-12-03T16:03:24'
+  update_time: '2021-12-16T10:49:25'
 - id: 35
   type: 1
   temp_key: OPENTM400231951
@@ -68,8 +68,8 @@
     {{remark.DATA}}"
   temp_id: U8ZXihDXfbaxCfIns9yOIDeVl0pWSgEGg8coveDZ3eQ
   status: 1
-  create_time: '2021-01-28 11:43:51'
-  update_time: '2021-12-16 10:43:45'
+  create_time: '2021-01-28T11:43:51'
+  update_time: '2021-12-16T10:43:45'
 - id: 36
   type: 1
   temp_key: OPENTM413386489
@@ -78,8 +78,8 @@
     收货时间：{{keyword3.DATA}}\r\n商品详情：{{keyword4.DATA}}\r\n{{remark.DATA}}"
   temp_id: RBa57JMpG3bJC6YEtOcG20uEyN3oqzSYAJnwlyOuFvI
   status: 1
-  create_time: '2021-01-28 15:12:15'
-  update_time: '2021-01-28 15:12:15'
+  create_time: '2021-01-28T15:12:15'
+  update_time: '2021-01-28T15:12:15'
 - id: 37
   type: 1
   temp_key: OPENTM410119152
@@ -88,8 +88,8 @@
     下单时间：{{keyword3.DATA}}\r\n{{remark.DATA}}"
   temp_id: null
   status: 0
-  create_time: '2021-01-29 11:43:06'
-  update_time: '2021-01-29 11:43:06'
+  create_time: '2021-01-29T11:43:06'
+  update_time: '2021-01-29T11:43:06'
 - id: 52
   type: 0
   temp_key: '1128'
@@ -98,8 +98,8 @@
     \n配送人\r\n{{name4.DATA}}\r\n\r\n配送员电话\r\n{{phone_number10.DATA}}"
   temp_id: rXqsioqQMycGbEHKLxVvsjFaJhUdRv0sY4Tvfi768f4
   status: 1
-  create_time: '2021-03-05 16:19:50'
-  update_time: '2021-12-16 11:03:27'
+  create_time: '2021-03-05T16:19:50'
+  update_time: '2021-12-16T11:03:27'
 - id: 53
   type: 0
   temp_key: '755'
@@ -108,8 +108,8 @@
     \r\n充值时间\r\n{{date5.DATA}}\r\n\r\n赠送金额\r\n{{amount6.DATA}}\r\n\r\n备注\r\n{{thing7.DATA}}"
   temp_id: tA6rPHjkBYrQGhMoKfXZHwlbnxUUf_e_dQItYGZk184
   status: 1
-  create_time: '2021-03-05 16:21:19'
-  update_time: '2021-12-16 11:03:31'
+  create_time: '2021-03-05T16:21:19'
+  update_time: '2021-12-16T11:03:31'
 - id: 54
   type: 0
   temp_key: '1481'
@@ -118,8 +118,8 @@
     \n订单商品\r\n{{thing2.DATA}}"
   temp_id: gASTuYz7pdM-P3-Im5uOSqrQj5dclCZKlgt2qd8OZbs
   status: 1
-  create_time: '2021-03-05 16:22:03'
-  update_time: '2021-12-16 11:03:35'
+  create_time: '2021-03-05T16:22:03'
+  update_time: '2021-12-16T11:03:35'
 - id: 55
   type: 0
   temp_key: '3578'
@@ -128,8 +128,8 @@
     \r\n备注\r\n{{thing6.DATA}}"
   temp_id: 5Y-DEipwKzJ8JhW4_8idgLoqaGeSx0S5UydusaZ7Ubk
   status: 1
-  create_time: '2021-03-05 16:22:48'
-  update_time: '2021-12-16 11:03:40'
+  create_time: '2021-03-05T16:22:48'
+  update_time: '2021-12-16T11:03:40'
 - id: 56
   type: 0
   temp_key: '2727'
@@ -137,8 +137,8 @@
   content: "商品名称\r\n{{thing1.DATA}}\r\n\r\n底价\r\n{{amount2.DATA}}\r\n\r\n备注\r\n{{thing3.DATA}}"
   temp_id: aqFnO4SXxuoCJr_bfv89Vr8wBp1YznRIUxDxdMyvFys
   status: 1
-  create_time: '2021-03-05 16:23:26'
-  update_time: '2021-12-16 11:03:44'
+  create_time: '2021-03-05T16:23:26'
+  update_time: '2021-12-16T11:03:44'
 - id: 57
   type: 0
   temp_key: '3098'
@@ -147,8 +147,8 @@
     \n备注\r\n{{thing9.DATA}}"
   temp_id: Dein6JKpTHhOXFvjtEhGZ1kICfJ_3VNH5vCY5Tyatwo
   status: 1
-  create_time: '2021-03-05 16:24:13'
-  update_time: '2021-12-16 11:03:47'
+  create_time: '2021-03-05T16:24:13'
+  update_time: '2021-12-16T11:03:47'
 - id: 58
   type: 0
   temp_key: '1128'
@@ -157,5 +157,5 @@
     \n快递单号\r\n{{character_string7.DATA}}\r\n\r\n温馨提示\r\n{{thing11.DATA}}"
   temp_id: rXqsioqQMycGbEHKLxVvshTF4zBNuM26OonOlfs3S-E
   status: 1
-  create_time: '2021-03-05 16:25:05'
-  update_time: '2021-12-16 11:03:52'
+  create_time: '2021-03-05T16:25:05'
+  update_time: '2021-12-16T11:03:52'

@@ -30,7 +30,7 @@ impl MigrationTrait for Migration {
                     )
                     .col(
                         ColumnDef::new(TyStoreProductDescription::Id)
-                            .unsigned()
+                            .integer()
                             .not_null()
                             .auto_increment()
                             .primary_key(),

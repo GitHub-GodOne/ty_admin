@@ -8,8 +8,8 @@
   remind: 0
   is_del: 0
   discount: 85
-  create_time: '2025-06-06 11:03:41'
-  update_time: '2025-06-06 11:03:41'
+  create_time: '2025-06-06T11:03:41'
+  update_time: '2025-06-06T11:03:41'
   expired_time: null
 - id: 2
   uid: 41
@@ -20,8 +20,8 @@
   remind: 0
   is_del: 1
   discount: 80
-  create_time: '2025-06-16 17:03:00'
-  update_time: '2025-06-21 10:49:44'
+  create_time: '2025-06-16T17:03:00'
+  update_time: '2025-06-21T10:49:44'
   expired_time: null
 - id: 3
   uid: 41
@@ -32,8 +32,8 @@
   remind: 0
   is_del: 0
   discount: 90
-  create_time: '2025-06-21 10:51:55'
-  update_time: '2025-06-21 10:51:55'
+  create_time: '2025-06-21T10:51:55'
+  update_time: '2025-06-21T10:51:55'
   expired_time: null
 - id: 4
   uid: 41
@@ -44,8 +44,8 @@
   remind: 0
   is_del: 0
   discount: 80
-  create_time: '2025-06-21 11:57:00'
-  update_time: '2025-06-21 11:57:00'
+  create_time: '2025-06-21T11:57:00'
+  update_time: '2025-06-21T11:57:00'
   expired_time: null
 - id: 5
   uid: 41
@@ -56,6 +56,6 @@
   remind: 0
   is_del: 0
   discount: 70
-  create_time: '2025-06-21 16:31:00'
-  update_time: '2025-06-21 16:31:00'
+  create_time: '2025-06-21T16:31:00'
+  update_time: '2025-06-21T16:31:00'
   expired_time: null

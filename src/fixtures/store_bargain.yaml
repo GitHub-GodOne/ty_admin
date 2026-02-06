@@ -6,7 +6,7 @@
   unit_name: 件
   stock: 50
   sales: 0
-  images: '[\"http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg\",\"http://img.alicdn.com/imgextra/i4/2215862087051/O1CN01Pq5wLu21xPi5EXlQp_!!2215862087051.jpg\",\"http://img.alicdn.com/imgextra/i1/2215862087051/O1CN01cUCDPz21xPg57FIfY_!!2215862087051.jpg\",\"http://img.alicdn.com/imgextra/i1/2215862087051/O1CN01EbBPHj21xPfvc0BlV_!!2215862087051.jpg\",\"http://img.alicdn.com/imgextra/i2/2215862087051/O1CN0161pGea21xPg0fBwKl_!!2215862087051.jpg\"]'
+  images: '["http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg","http://img.alicdn.com/imgextra/i4/2215862087051/O1CN01Pq5wLu21xPi5EXlQp_!!2215862087051.jpg","http://img.alicdn.com/imgextra/i1/2215862087051/O1CN01cUCDPz21xPg57FIfY_!!2215862087051.jpg","http://img.alicdn.com/imgextra/i1/2215862087051/O1CN01EbBPHj21xPfvc0BlV_!!2215862087051.jpg","http://img.alicdn.com/imgextra/i2/2215862087051/O1CN0161pGea21xPg0fBwKl_!!2215862087051.jpg"]'
   start_time: 1748534400000
   stop_time: 1785513599999
   store_name: FOCONIE法蔻尼茉莉花香水女持久留香淡香学生官方旗舰店正品大牌
@@ -42,7 +42,7 @@
   unit_name: 件
   stock: 50
   sales: 0
-  images: '[\"http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg\",\"http://img.alicdn.com/imgextra/i2/3626596873/O1CN01F0hSwX20dtD6YXRF6_!!3626596873.jpg\",\"http://img.alicdn.com/imgextra/i4/3626596873/O1CN01hrpdwt20dtD6ipGGH_!!3626596873.jpg\",\"http://img.alicdn.com/imgextra/i1/3626596873/O1CN01K8iOlN20dtDVkGheI_!!3626596873.jpg\",\"http://img.alicdn.com/imgextra/i2/3626596873/O1CN01uoq0B320dtD4xDyyn_!!3626596873.jpg\"]'
+  images: '["http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg","http://img.alicdn.com/imgextra/i2/3626596873/O1CN01F0hSwX20dtD6YXRF6_!!3626596873.jpg","http://img.alicdn.com/imgextra/i4/3626596873/O1CN01hrpdwt20dtD6ipGGH_!!3626596873.jpg","http://img.alicdn.com/imgextra/i1/3626596873/O1CN01K8iOlN20dtDVkGheI_!!3626596873.jpg","http://img.alicdn.com/imgextra/i2/3626596873/O1CN01uoq0B320dtD4xDyyn_!!3626596873.jpg"]'
   start_time: 1748534400000
   stop_time: 1785513599999
   store_name: 【618现货】YSL圣罗兰LIBRE自由之水 持久女士香水生日礼物送女友
@@ -78,7 +78,7 @@
   unit_name: 件
   stock: 50
   sales: 0
-  images: '[\"http://img.alicdn.com/imgextra/i1/1818112088/O1CN011szfgV1RIM2lW0E6w_!!4611686018427383896-2-item_pic.png\",\"http://img.alicdn.com/imgextra/i1/1818112088/O1CN01OsWfre1RIM2iucEur_!!1818112088.png\",\"http://img.alicdn.com/imgextra/i2/1818112088/O1CN01tgsnoH1RIM1bDglx6_!!1818112088.png\",\"http://img.alicdn.com/imgextra/i1/1818112088/O1CN018bkoJE1RIM1cgrz2M_!!1818112088.png\",\"http://img.alicdn.com/imgextra/i2/1818112088/O1CN01a2GQmc1RILj8G9hiu_!!1818112088.jpg\"]'
+  images: '["http://img.alicdn.com/imgextra/i1/1818112088/O1CN011szfgV1RIM2lW0E6w_!!4611686018427383896-2-item_pic.png","http://img.alicdn.com/imgextra/i1/1818112088/O1CN01OsWfre1RIM2iucEur_!!1818112088.png","http://img.alicdn.com/imgextra/i2/1818112088/O1CN01tgsnoH1RIM1bDglx6_!!1818112088.png","http://img.alicdn.com/imgextra/i1/1818112088/O1CN018bkoJE1RIM1cgrz2M_!!1818112088.png","http://img.alicdn.com/imgextra/i2/1818112088/O1CN01a2GQmc1RILj8G9hiu_!!1818112088.jpg"]'
   start_time: 1748534400000
   stop_time: 1785513599999
   store_name: 【百亿补贴】雅顿白茶沁心香水 柑橘花果香 淡雅清新 留香
@@ -114,7 +114,7 @@
   unit_name: 件
   stock: 0
   sales: 0
-  images: '[\"crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4\",\"crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png\",\"crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png\",\"crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png\"]'
+  images: '["crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4","crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png","crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png","crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png"]'
   start_time: 1750435200000
   stop_time: 1751299199999
   store_name: 谜秀100棉渐变蓝吊染A字连衣裙女2025夏季新款女度假风褶皱仙女裙
@@ -150,7 +150,7 @@
   unit_name: 件
   stock: 29
   sales: 0
-  images: '[\"crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4\",\"crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png\",\"crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png\",\"crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png\"]'
+  images: '["crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4","crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png","crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png","crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png"]'
   start_time: 1750435200000
   stop_time: 1751299199999
   store_name: 谜秀100棉渐变蓝吊染A字连衣裙女2025夏季新款女度假风褶皱仙女裙
@@ -186,7 +186,7 @@
   unit_name: 件
   stock: 9
   sales: 0
-  images: '[\"crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4\",\"crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png\",\"crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png\",\"crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png\"]'
+  images: '["crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4","crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png","crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png","crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png"]'
   start_time: 1750608000000
   stop_time: 1751299199999
   store_name: 谜秀100棉渐变蓝吊染A字连衣裙女2025夏季新款女度假风褶皱仙女裙

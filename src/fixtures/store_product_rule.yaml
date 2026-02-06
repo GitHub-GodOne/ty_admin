@@ -1,4 +1,4 @@
 ---
 - id: 9
   rule_name: 尺码与颜色
-  rule_value: '[{\"value\":\"尺码\",\"detail\":[\"S\",\"M\"],\"inputVisible\":false},{\"value\":\"颜色\",\"detail\":[\"红色\",\"白色\",\"黑色\"],\"inputVisible\":false}]'
+  rule_value: '[{"value":"尺码","detail":["S","M"],"inputVisible":false},{"value":"颜色","detail":["红色","白色","黑色"],"inputVisible":false}]'

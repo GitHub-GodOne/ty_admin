@@ -13,8 +13,8 @@
   latitude: '0'
   is_default: 0
   is_del: 0
-  create_time: '2025-06-16 15:37:47'
-  update_time: '2025-06-21 11:05:05'
+  create_time: '2025-06-16T15:37:47'
+  update_time: '2025-06-21T11:05:05'
 - id: 2
   uid: 41
   real_name: 月月
@@ -29,5 +29,5 @@
   latitude: '0'
   is_default: 1
   is_del: 0
-  create_time: '2025-06-21 11:05:05'
-  update_time: '2025-06-21 11:05:05'
+  create_time: '2025-06-21T11:05:05'
+  update_time: '2025-06-21T11:05:05'

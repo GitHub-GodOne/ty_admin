@@ -10,7 +10,7 @@
   is_sms: 2
   sms_id: 559
   send_type: 1
-  create_time: '2021-12-09 17:19:17'
+  create_time: '2021-12-09T17:19:17'
 - id: 2
   mark: deliverGoods
   type: 订单发货通知
@@ -22,7 +22,7 @@
   is_sms: 2
   sms_id: 572
   send_type: 1
-  create_time: '2021-12-09 17:20:32'
+  create_time: '2021-12-09T17:20:32'
 - id: 3
   mark: bargainingSuccess
   type: 砍价成功通知
@@ -34,7 +34,7 @@
   is_sms: 0
   sms_id: 0
   send_type: 1
-  create_time: '2021-12-09 17:20:35'
+  create_time: '2021-12-09T17:20:35'
 - id: 4
   mark: groupSuccess
   type: 拼团成功通知
@@ -46,7 +46,7 @@
   is_sms: 0
   sms_id: 0
   send_type: 1
-  create_time: '2021-12-09 17:20:46'
+  create_time: '2021-12-09T17:20:46'
 - id: 5
   mark: fulfillmentOrder
   type: 订单配送通知
@@ -58,7 +58,7 @@
   is_sms: 0
   sms_id: 0
   send_type: 1
-  create_time: '2021-12-09 17:20:54'
+  create_time: '2021-12-09T17:20:54'
 - id: 6
   mark: rechargeSuccess
   type: 充值成功通知
@@ -70,7 +70,7 @@
   is_sms: 0
   sms_id: 0
   send_type: 1
-  create_time: '2021-12-09 17:21:07'
+  create_time: '2021-12-09T17:21:07'
 - id: 7
   mark: receiptGoods
   type: 确认收货通知
@@ -82,7 +82,7 @@
   is_sms: 0
   sms_id: 0
   send_type: 1
-  create_time: '2021-12-09 17:24:22'
+  create_time: '2021-12-09T17:24:22'
 - id: 8
   mark: adminPaySuccess
   type: 支付成功(管理员短信)通知
@@ -94,7 +94,7 @@
   is_sms: 1
   sms_id: 562
   send_type: 2
-  create_time: '2021-12-09 19:06:03'
+  create_time: '2021-12-09T19:06:03'
 - id: 9
   mark: adminReceiptGoods
   type: 用户收货(管理员)通知
@@ -106,7 +106,7 @@
   is_sms: 1
   sms_id: 564
   send_type: 2
-  create_time: '2021-12-09 20:28:41'
+  create_time: '2021-12-09T20:28:41'
 - id: 10
   mark: adminPlaceAnOrder
   type: 用户下单(管理员)通知
@@ -118,7 +118,7 @@
   is_sms: 1
   sms_id: 561
   send_type: 2
-  create_time: '2021-12-09 20:47:35'
+  create_time: '2021-12-09T20:47:35'
 - id: 11
   mark: adminApplyOrderRefund
   type: 用户发起退款(管理员)通知
@@ -130,7 +130,7 @@
   is_sms: 1
   sms_id: 563
   send_type: 2
-  create_time: '2021-12-09 21:04:24'
+  create_time: '2021-12-09T21:04:24'
 - id: 12
   mark: modifyOrderPrice
   type: 改价通知
@@ -142,4 +142,4 @@
   is_sms: 2
   sms_id: 566
   send_type: 1
-  create_time: '2021-12-09 21:10:50'
+  create_time: '2021-12-09T21:10:50'

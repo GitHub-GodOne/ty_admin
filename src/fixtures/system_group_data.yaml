@@ -1,519 +1,519 @@
 ---
 - id: 39
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第一天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"1\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"10\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"10\"}],\"id\":87,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第一天"},{"name":"day","title":"day","value":"1"},{"name":"integral","title":"integral","value":"10"},{"name":"experience","title":"experience","value":"10"}],"id":87,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-05-28 14:34:00'
-  update_time: '2020-05-28 15:08:02'
+  create_time: '2020-05-28T14:34:00'
+  update_time: '2020-05-28T15:08:02'
 - id: 40
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第二天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"2\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"20\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"20\"}],\"id\":87,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第二天"},{"name":"day","title":"day","value":"2"},{"name":"integral","title":"integral","value":"20"},{"name":"experience","title":"experience","value":"20"}],"id":87,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2020-05-28 14:34:09'
-  update_time: '2020-05-28 15:08:08'
+  create_time: '2020-05-28T14:34:09'
+  update_time: '2020-05-28T15:08:08'
 - id: 41
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第三天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"3\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"30\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"30\"}],\"id\":87,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第三天"},{"name":"day","title":"day","value":"3"},{"name":"integral","title":"integral","value":"30"},{"name":"experience","title":"experience","value":"30"}],"id":87,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2020-05-28 14:34:14'
-  update_time: '2020-05-28 15:08:14'
+  create_time: '2020-05-28T14:34:14'
+  update_time: '2020-05-28T15:08:14'
 - id: 42
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第四天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"4\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"40\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"40\"}],\"id\":87,\"sort\":4,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第四天"},{"name":"day","title":"day","value":"4"},{"name":"integral","title":"integral","value":"40"},{"name":"experience","title":"experience","value":"40"}],"id":87,"sort":4,"status":true}'
   sort: 4
   status: 1
-  create_time: '2020-05-28 14:34:19'
-  update_time: '2020-05-28 15:08:20'
+  create_time: '2020-05-28T14:34:19'
+  update_time: '2020-05-28T15:08:20'
 - id: 43
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第五天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"5\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"50\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"50\"}],\"id\":87,\"sort\":5,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第五天"},{"name":"day","title":"day","value":"5"},{"name":"integral","title":"integral","value":"50"},{"name":"experience","title":"experience","value":"50"}],"id":87,"sort":5,"status":true}'
   sort: 5
   status: 1
-  create_time: '2020-05-28 14:34:34'
-  update_time: '2020-05-28 15:08:26'
+  create_time: '2020-05-28T14:34:34'
+  update_time: '2020-05-28T15:08:26'
 - id: 44
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第六天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"6\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"60\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"60\"}],\"id\":87,\"sort\":6,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第六天"},{"name":"day","title":"day","value":"6"},{"name":"integral","title":"integral","value":"60"},{"name":"experience","title":"experience","value":"60"}],"id":87,"sort":6,"status":true}'
   sort: 6
   status: 1
-  create_time: '2020-05-28 14:34:39'
-  update_time: '2020-05-28 15:08:33'
+  create_time: '2020-05-28T14:34:39'
+  update_time: '2020-05-28T15:08:33'
 - id: 71
   gid: 52
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"pro\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png\"}],\"id\":91,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"pro"},{"name":"url","title":"url","value":"/pages/users/user_vip/index"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png"}],"id":91,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2020-06-02 10:43:33'
-  update_time: '2025-05-30 16:46:01'
+  create_time: '2020-06-02T10:43:33'
+  update_time: '2025-05-30T16:46:01'
 - id: 91
   gid: 71
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"衣服\"}],\"id\":102,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"衣服"}],"id":102,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-06-03 11:34:54'
-  update_time: '2020-06-03 11:34:54'
+  create_time: '2020-06-03T11:34:54'
+  update_time: '2020-06-03T11:34:54'
 - id: 92
   gid: 71
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"鞋子\"}],\"id\":102,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"鞋子"}],"id":102,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2020-06-03 11:35:00'
-  update_time: '2020-06-03 11:35:00'
+  create_time: '2020-06-03T11:35:00'
+  update_time: '2020-06-03T11:35:00'
 - id: 93
   gid: 71
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"香水\"}],\"id\":102,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"香水"}],"id":102,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2020-06-03 11:35:07'
-  update_time: '2025-05-30 16:23:09'
+  create_time: '2020-06-03T11:35:07'
+  update_time: '2025-05-30T16:23:09'
 - id: 95
   gid: 62
-  value: '{\"fields\":[{\"name\":\"price\",\"title\":\"price\",\"value\":\"0.01\"},{\"name\":\"give_money\",\"title\":\"give_money\",\"value\":\"0.10\"}],\"id\":103,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"price","title":"price","value":"0.01"},{"name":"give_money","title":"give_money","value":"0.10"}],"id":103,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-06-10 15:13:01'
-  update_time: '2021-03-01 11:26:48'
+  create_time: '2020-06-10T15:13:01'
+  update_time: '2021-03-01T11:26:48'
 - id: 96
   gid: 62
-  value: '{\"fields\":[{\"name\":\"price\",\"title\":\"price\",\"value\":\"30.00\"},{\"name\":\"give_money\",\"title\":\"give_money\",\"value\":\"3.00\"}],\"id\":103,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"price","title":"price","value":"30.00"},{"name":"give_money","title":"give_money","value":"3.00"}],"id":103,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2020-06-10 15:13:15'
-  update_time: '2020-06-10 15:13:15'
+  create_time: '2020-06-10T15:13:15'
+  update_time: '2020-06-10T15:13:15'
 - id: 97
   gid: 62
-  value: '{\"fields\":[{\"name\":\"price\",\"title\":\"price\",\"value\":\"50.00\"},{\"name\":\"give_money\",\"title\":\"give_money\",\"value\":\"5.00\"}],\"id\":103,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"price","title":"price","value":"50.00"},{"name":"give_money","title":"give_money","value":"5.00"}],"id":103,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2020-06-10 15:13:39'
-  update_time: '2020-06-10 15:13:39'
+  create_time: '2020-06-10T15:13:39'
+  update_time: '2020-06-10T15:13:39'
 - id: 98
   gid: 62
-  value: '{\"fields\":[{\"name\":\"price\",\"title\":\"price\",\"value\":\"500.00\"},{\"name\":\"give_money\",\"title\":\"give_money\",\"value\":\"50.00\"}],\"id\":103,\"sort\":4,\"status\":true}'
+  value: '{"fields":[{"name":"price","title":"price","value":"500.00"},{"name":"give_money","title":"give_money","value":"50.00"}],"id":103,"sort":4,"status":true}'
   sort: 4
   status: 1
-  create_time: '2020-06-10 15:13:49'
-  update_time: '2020-06-10 15:13:49'
+  create_time: '2020-06-10T15:13:49'
+  update_time: '2020-06-10T15:13:49'
 - id: 99
   gid: 62
-  value: '{\"fields\":[{\"name\":\"price\",\"title\":\"price\",\"value\":\"800.00\"},{\"name\":\"give_money\",\"title\":\"give_money\",\"value\":\"100.00\"}],\"id\":103,\"sort\":5}'
+  value: '{"fields":[{"name":"price","title":"price","value":"800.00"},{"name":"give_money","title":"give_money","value":"100.00"}],"id":103,"sort":5}'
   sort: 5
   status: 1
-  create_time: '2020-06-10 15:13:58'
-  update_time: '2020-06-10 15:13:58'
+  create_time: '2020-06-10T15:13:58'
+  update_time: '2020-06-10T15:13:58'
 - id: 100
   gid: 60
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"海报1\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/2e371b4168b44eea9046fb53dcebac73k5bkkw9qj9.jpg\"}],\"id\":113,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"海报1"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/2e371b4168b44eea9046fb53dcebac73k5bkkw9qj9.jpg"}],"id":113,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 15:08:28'
-  update_time: '2025-05-30 16:43:14'
+  create_time: '2020-07-29T15:08:28'
+  update_time: '2025-05-30T16:43:14'
 - id: 101
   gid: 60
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"海报2\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/7301c05381ce4b6d9d394d4fd9d1ad6az1qfca546r.jpg\"}],\"id\":113,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"海报2"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/7301c05381ce4b6d9d394d4fd9d1ad6az1qfca546r.jpg"}],"id":113,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2020-07-29 15:08:41'
-  update_time: '2025-05-30 16:43:22'
+  create_time: '2020-07-29T15:08:41'
+  update_time: '2025-05-30T16:43:22'
 - id: 102
   gid: 60
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"海报3\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/e0cb5810492e46eebb40fab3db3b641bhb03rv91h0.jpg\"}],\"id\":113,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"海报3"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/e0cb5810492e46eebb40fab3db3b641bhb03rv91h0.jpg"}],"id":113,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2020-07-29 15:09:02'
-  update_time: '2025-05-30 16:43:28'
+  create_time: '2020-07-29T15:09:02'
+  update_time: '2025-05-30T16:43:28'
 - id: 111
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"0\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/04a605cd01b04cc5861876d1c011feb0omivwpk6r9.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"0"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/04a605cd01b04cc5861876d1c011feb0omivwpk6r9.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 19:59:14'
-  update_time: '2025-05-30 17:06:26'
+  create_time: '2020-07-29T19:59:14'
+  update_time: '2025-05-30T17:06:26'
 - id: 112
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"1\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/fa6de4dcf1f04a77bb02703b39a092fdiv0uu0yy7s.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"1"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/fa6de4dcf1f04a77bb02703b39a092fdiv0uu0yy7s.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 19:59:29'
-  update_time: '2025-05-30 17:06:42'
+  create_time: '2020-07-29T19:59:29'
+  update_time: '2025-05-30T17:06:42'
 - id: 113
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"2\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/c7cb04bd8eac40af8d3eb89ca25b6d81jxfryyzv6o.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"2"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/c7cb04bd8eac40af8d3eb89ca25b6d81jxfryyzv6o.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 19:59:47'
-  update_time: '2025-05-30 17:06:52'
+  create_time: '2020-07-29T19:59:47'
+  update_time: '2025-05-30T17:06:52'
 - id: 114
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"3\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/08e981bb7f9e452f9fcc5bd7c1714963d1nxmsofm5.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"3"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/08e981bb7f9e452f9fcc5bd7c1714963d1nxmsofm5.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 20:00:02'
-  update_time: '2025-05-30 17:08:19'
+  create_time: '2020-07-29T20:00:02'
+  update_time: '2025-05-30T17:08:19'
 - id: 115
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"4\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/08e981bb7f9e452f9fcc5bd7c1714963d1nxmsofm5.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"4"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/08e981bb7f9e452f9fcc5bd7c1714963d1nxmsofm5.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 20:00:14'
-  update_time: '2025-05-30 17:08:53'
+  create_time: '2020-07-29T20:00:14'
+  update_time: '2025-05-30T17:08:53'
 - id: 116
   gid: 53
-  value: '{\"fields\":[{\"name\":\"orderStatus\",\"title\":\"orderStatus\",\"value\":\"9\"},{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/public/product/2025/05/30/fa6de4dcf1f04a77bb02703b39a092fdiv0uu0yy7s.gif\"}],\"id\":115,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"orderStatus","title":"orderStatus","value":"9"},{"name":"image","title":"image","value":"crmebimage/public/product/2025/05/30/fa6de4dcf1f04a77bb02703b39a092fdiv0uu0yy7s.gif"}],"id":115,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-07-29 20:00:30'
-  update_time: '2025-05-30 17:09:03'
+  create_time: '2020-07-29T20:00:30'
+  update_time: '2025-05-30T17:09:03'
 - id: 117
   gid: 37
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"精品推荐\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/goods_details/index?id=9\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/faa414614f6845198a3adfea2256077b1titt2vgsf.png\"}],\"id\":95,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"精品推荐"},{"name":"url","title":"url","value":"/pages/goods_details/index?id=9"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/faa414614f6845198a3adfea2256077b1titt2vgsf.png"}],"id":95,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-08-13 12:34:52'
-  update_time: '2025-05-30 16:48:50'
+  create_time: '2020-08-13T12:34:52'
+  update_time: '2025-05-30T16:48:50'
 - id: 118
   gid: 37
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"BANNER\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/goods_details/index?id=24\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/77e30c1e50884d36bd06fc43529e28227y9e4nkq9j.png\"}],\"id\":95,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"BANNER"},{"name":"url","title":"url","value":"/pages/goods_details/index?id=24"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/77e30c1e50884d36bd06fc43529e28227y9e4nkq9j.png"}],"id":95,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2020-08-13 12:41:15'
-  update_time: '2025-05-30 16:49:06'
+  create_time: '2020-08-13T12:41:15'
+  update_time: '2025-05-30T16:49:06'
 - id: 120
   gid: 59
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"1\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"1\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/af3f96d931ef4314aa31242ba8910921y7aqtfkiw0.png\"}],\"id\":93,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"1"},{"name":"url","title":"url","value":"1"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/af3f96d931ef4314aa31242ba8910921y7aqtfkiw0.png"}],"id":93,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2020-08-13 13:04:36'
-  update_time: '2025-05-30 16:44:02'
+  create_time: '2020-08-13T13:04:36'
+  update_time: '2025-05-30T16:44:02'
 - id: 122
   gid: 55
-  value: '{\"fields\":[{\"name\":\"title\",\"title\":\"title\",\"value\":\"第七天\"},{\"name\":\"day\",\"title\":\"day\",\"value\":\"7\"},{\"name\":\"integral\",\"title\":\"integral\",\"value\":\"70\"},{\"name\":\"experience\",\"title\":\"experience\",\"value\":\"70\"}],\"id\":87,\"sort\":7,\"status\":true}'
+  value: '{"fields":[{"name":"title","title":"title","value":"第七天"},{"name":"day","title":"day","value":"7"},{"name":"integral","title":"integral","value":"70"},{"name":"experience","title":"experience","value":"70"}],"id":87,"sort":7,"status":true}'
   sort: 7
   status: 1
-  create_time: '2020-12-21 16:18:20'
-  update_time: '2024-12-07 14:21:39'
+  create_time: '2020-12-21T16:18:20'
+  update_time: '2024-12-07T14:21:39'
 - id: 126
   gid: 58
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"1111\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"1111\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png\"}],\"id\":92,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"1111"},{"name":"url","title":"url","value":"1111"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png"}],"id":92,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2021-02-22 10:58:27'
-  update_time: '2025-05-30 16:44:18'
+  create_time: '2021-02-22T10:58:27'
+  update_time: '2025-05-30T16:44:18'
 - id: 127
   gid: 69
-  value: '{\"fields\":[{\"name\":\"image\",\"title\":\"image\",\"value\":\"crmebimage/maintain/2021/02/24/23ab5b9968aa4e29a245ea8b8a4804cbkscfppxkwq.png\"},{\"name\":\"title\",\"title\":\"title\",\"value\":\"stivepeim\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"stivepeim\"},{\"name\":\"link\",\"title\":\"link\",\"value\":\"/pages/activity/goods_seckill/index\"}],\"id\":98,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"image","title":"image","value":"crmebimage/maintain/2021/02/24/23ab5b9968aa4e29a245ea8b8a4804cbkscfppxkwq.png"},{"name":"title","title":"title","value":"stivepeim"},{"name":"info","title":"info","value":"stivepeim"},{"name":"link","title":"link","value":"/pages/activity/goods_seckill/index"}],"id":98,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2021-02-24 10:07:52'
-  update_time: '2021-02-24 10:07:52'
+  create_time: '2021-02-24T10:07:52'
+  update_time: '2021-02-24T10:07:52'
 - id: 128
   gid: 57
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"21212\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"https://crmeb.com\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png\"}],\"id\":94,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"21212"},{"name":"url","title":"url","value":"https://crmeb.com"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png"}],"id":94,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2021-02-24 16:15:46'
-  update_time: '2025-05-30 16:44:38'
+  create_time: '2021-02-24T16:15:46'
+  update_time: '2025-05-30T16:44:38'
 - id: 129
   gid: 37
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"1\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"1\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/c575c57aae8b419eb539afb5d45b92d9sm8xsmdu8a.png\"}],\"id\":95,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"1"},{"name":"url","title":"url","value":"1"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/c575c57aae8b419eb539afb5d45b92d9sm8xsmdu8a.png"}],"id":95,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2021-06-03 18:17:03'
-  update_time: '2025-05-30 16:48:59'
+  create_time: '2021-06-03T18:17:03'
+  update_time: '2025-05-30T16:48:59'
 - id: 1015
   gid: 70
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/af3f96d931ef4314aa31242ba8910921y7aqtfkiw0.png\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"精品推荐\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"精品推荐\"},{\"name\":\"type\",\"title\":\"type\",\"value\":\"1\"}],\"id\":99,\"sort\":0,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/af3f96d931ef4314aa31242ba8910921y7aqtfkiw0.png"},{"name":"name","title":"name","value":"精品推荐"},{"name":"info","title":"info","value":"精品推荐"},{"name":"type","title":"type","value":"1"}],"id":99,"sort":0,"status":true}'
   sort: 0
   status: 1
-  create_time: '2022-01-26 14:26:49'
-  update_time: '2025-05-30 16:25:44'
+  create_time: '2022-01-26T14:26:49'
+  update_time: '2025-05-30T16:25:44'
 - id: 1016
   gid: 70
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"热门榜单\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"热门榜单\"},{\"name\":\"type\",\"title\":\"type\",\"value\":\"2\"}],\"id\":99,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png"},{"name":"name","title":"name","value":"热门榜单"},{"name":"info","title":"info","value":"热门榜单"},{"name":"type","title":"type","value":"2"}],"id":99,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2022-01-26 14:26:49'
-  update_time: '2025-05-30 16:25:56'
+  create_time: '2022-01-26T14:26:49'
+  update_time: '2025-05-30T16:25:56'
 - id: 1017
   gid: 70
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"首发新品\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"首发新品\"},{\"name\":\"type\",\"title\":\"type\",\"value\":\"3\"}],\"id\":99,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png"},{"name":"name","title":"name","value":"首发新品"},{"name":"info","title":"info","value":"首发新品"},{"name":"type","title":"type","value":"3"}],"id":99,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2022-01-26 14:26:49'
-  update_time: '2025-05-30 16:26:05'
+  create_time: '2022-01-26T14:26:49'
+  update_time: '2025-05-30T16:26:05'
 - id: 1018
   gid: 70
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"促销单品\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"促销单品\"},{\"name\":\"type\",\"title\":\"type\",\"value\":\"4\"}],\"id\":99,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png"},{"name":"name","title":"name","value":"促销单品"},{"name":"info","title":"info","value":"促销单品"},{"name":"type","title":"type","value":"4"}],"id":99,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2022-01-26 14:26:49'
-  update_time: '2025-05-30 16:26:15'
+  create_time: '2022-01-26T14:26:49'
+  update_time: '2025-05-30T16:26:15'
 - id: 1586
   gid: 68
-  value: '{\"id\":97,\"sort\":0,\"fields\":[{\"name\":\"show\",\"title\":\"show\",\"value\":\"1\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/news_details/index?id=24\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"要你好看\"}],\"status\":true}'
+  value: '{"id":97,"sort":0,"fields":[{"name":"show","title":"show","value":"1"},{"name":"url","title":"url","value":"/pages/news_details/index?id=24"},{"name":"info","title":"info","value":"要你好看"}],"status":true}'
   sort: 0
   status: 1
-  create_time: '2023-08-24 11:01:45'
-  update_time: '2023-08-24 11:01:45'
+  create_time: '2023-08-24T11:01:45'
+  update_time: '2023-08-24T11:01:45'
 - id: 1587
   gid: 68
-  value: '{\"id\":97,\"sort\":1,\"fields\":[{\"name\":\"show\",\"title\":\"show\",\"value\":\"1\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/news_details/index?id=23\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"手指尖美妙的跳跃\"}],\"status\":true}'
+  value: '{"id":97,"sort":1,"fields":[{"name":"show","title":"show","value":"1"},{"name":"name","title":"name","value":""},{"name":"pic","title":"pic","value":""},{"name":"url","title":"url","value":"/pages/news_details/index?id=23"},{"name":"info","title":"info","value":"手指尖美妙的跳跃"}],"status":true}'
   sort: 1
   status: 1
-  create_time: '2023-08-24 11:01:45'
-  update_time: '2023-08-24 11:01:45'
+  create_time: '2023-08-24T11:01:45'
+  update_time: '2023-08-24T11:01:45'
 - id: 1588
   gid: 68
-  value: '{\"id\":97,\"sort\":2,\"fields\":[{\"name\":\"show\",\"title\":\"show\",\"value\":\"1\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/news_list/index\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"2022冬奥带动全民上冰雪心得及启迪（7篇）\"}],\"status\":true}'
+  value: '{"id":97,"sort":2,"fields":[{"name":"show","title":"show","value":"1"},{"name":"name","title":"name","value":""},{"name":"pic","title":"pic","value":""},{"name":"url","title":"url","value":"/pages/news_list/index"},{"name":"info","title":"info","value":"2022冬奥带动全民上冰雪心得及启迪（7篇）"}],"status":true}'
   sort: 2
   status: 1
-  create_time: '2023-08-24 11:01:45'
-  update_time: '2023-08-24 11:01:45'
+  create_time: '2023-08-24T11:01:45'
+  update_time: '2023-08-24T11:01:45'
 - id: 1792
   gid: 48
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"春节快乐\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/news_details/index?id=17\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/58bde6dca3814cd085fa95e4a02c415dbfvihmv3s0.png\"}],\"id\":95,\"sort\":0,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"春节快乐"},{"name":"url","title":"url","value":"/pages/news_details/index?id=17"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/58bde6dca3814cd085fa95e4a02c415dbfvihmv3s0.png"}],"id":95,"sort":0,"status":true}'
   sort: 0
   status: 1
-  create_time: '2024-05-13 11:34:48'
-  update_time: '2025-05-30 16:47:40'
+  create_time: '2024-05-13T11:34:48'
+  update_time: '2025-05-30T16:47:40'
 - id: 1793
   gid: 48
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"开心\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/goods_list/index?cid=245&title=热门推荐\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/1ff119cd8ba7423ead3c10c502fa7d30m4e9mhmg5i.png\"}],\"id\":95,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"开心"},{"name":"url","title":"url","value":"/pages/goods_list/index?cid=245&title=热门推荐"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/1ff119cd8ba7423ead3c10c502fa7d30m4e9mhmg5i.png"}],"id":95,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2024-05-13 11:34:48'
-  update_time: '2025-05-30 16:47:47'
+  create_time: '2024-05-13T11:34:48'
+  update_time: '2025-05-30T16:47:47'
 - id: 1794
   gid: 48
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"快乐\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/goods_details/index?id=8\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/ffab698f137943deb0b6706d1f1554a3e2ow1bkexu.png\"}],\"id\":95,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"快乐"},{"name":"url","title":"url","value":"/pages/goods_details/index?id=8"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/ffab698f137943deb0b6706d1f1554a3e2ow1bkexu.png"}],"id":95,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2024-05-13 11:34:48'
-  update_time: '2025-05-30 16:47:58'
+  create_time: '2024-05-13T11:34:48'
+  update_time: '2025-05-30T16:47:58'
 - id: 1899
   gid: 72
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/c338784b57414cd7899a2d7341b93d2ajz23485ehw.png\"}],\"id\":114,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/c338784b57414cd7899a2d7341b93d2ajz23485ehw.png"}],"id":114,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2024-05-14 15:52:42'
-  update_time: '2025-05-30 16:22:11'
+  create_time: '2024-05-14T15:52:42'
+  update_time: '2025-05-30T16:22:11'
 - id: 2127
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"行业资讯\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/32f0ce043dab44fc895bf9cd4440c75aca13ihc7o4.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/news/news_list/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":0,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"行业资讯"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/32f0ce043dab44fc895bf9cd4440c75aca13ihc7o4.png"},{"name":"url","title":"url","value":"/pages/news/news_list/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":0,"status":true}'
   sort: 0
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:30:16'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:30:16'
 - id: 2128
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的订单\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/c61ff564771547b19bda77020608aeda96gumgb07m.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/order_list/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"我的订单"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/c61ff564771547b19bda77020608aeda96gumgb07m.png"},{"name":"url","title":"url","value":"/pages/users/order_list/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:34:55'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:34:55'
 - id: 2129
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"分销中心\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/29d8fcf257a84f88aa665d8a816c208bq3ubyz1o7c.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/user_spread_user/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":2,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"分销中心"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/29d8fcf257a84f88aa665d8a816c208bq3ubyz1o7c.png"},{"name":"url","title":"url","value":"/pages/user_spread_user/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":2,"status":true}'
   sort: 2
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:35:55'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:35:55'
 - id: 2130
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"限时秒杀\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/200661fff2d5461a97b8ec72a2e69bc4pixz0lkkds.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/activity/goods_seckill/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":3,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"限时秒杀"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/200661fff2d5461a97b8ec72a2e69bc4pixz0lkkds.png"},{"name":"url","title":"url","value":"/pages/activity/goods_seckill/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":3,"status":true}'
   sort: 3
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:30:57'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:30:57'
 - id: 2131
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"商品分类\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/20b6e042937b4294897dc73a81fb8d5dcvaqofpdza.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/goods_cate/goods_cate\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":4,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"商品分类"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/20b6e042937b4294897dc73a81fb8d5dcvaqofpdza.png"},{"name":"url","title":"url","value":"/pages/goods_cate/goods_cate"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":4,"status":true}'
   sort: 4
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:32:12'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:32:12'
 - id: 2132
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"签到\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/4d53dc37b30a4720a7030d9917bdbbcfvesmr8surj.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_sgin/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":5,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"签到"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/4d53dc37b30a4720a7030d9917bdbbcfvesmr8surj.png"},{"name":"url","title":"url","value":"/pages/users/user_sgin/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":5,"status":true}'
   sort: 5
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:32:19'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:32:19'
 - id: 2133
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"地址管理\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/418dc771e02c428d8d6d15d8e915c242dm4szaunjl.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_address_list/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":6,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"地址管理"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/418dc771e02c428d8d6d15d8e915c242dm4szaunjl.png"},{"name":"url","title":"url","value":"/pages/users/user_address_list/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":6,"status":true}'
   sort: 6
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:29:29'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:29:29'
 - id: 2134
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的收藏\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/0cacaa88b0f34c0491ff86fbce05affcza6ycz8nr6.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_goods_collection/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":7,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"我的收藏"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/0cacaa88b0f34c0491ff86fbce05affcza6ycz8nr6.png"},{"name":"url","title":"url","value":"/pages/users/user_goods_collection/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":7,"status":true}'
   sort: 7
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:37:33'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:37:33'
 - id: 2136
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"砍价列表\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/8d6202e6fe7f4c7c80748307886eb0a6yzwixddzvb.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/activity/goods_bargain/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":9,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"砍价列表"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/8d6202e6fe7f4c7c80748307886eb0a6yzwixddzvb.png"},{"name":"url","title":"url","value":"/pages/activity/goods_bargain/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":9,"status":true}'
   sort: 9
   status: 1
-  create_time: '2024-07-05 09:27:40'
-  update_time: '2025-05-30 16:29:36'
+  create_time: '2024-07-05T09:27:40'
+  update_time: '2025-05-30T16:29:36'
 - id: 2237
   gid: 73
-  value: '{\"fields\":[{\"name\":\"value\",\"title\":\"value\",\"value\":\"crmebimage/public/product/2025/06/05/a6cfc21479784d2782a5d9ef75fe56db6u0zi35m53.jpg\"}],\"id\":136,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"value","title":"value","value":"crmebimage/public/product/2025/06/05/a6cfc21479784d2782a5d9ef75fe56db6u0zi35m53.jpg"}],"id":136,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2024-11-13 10:49:59'
-  update_time: '2025-06-05 10:28:17'
+  create_time: '2024-11-13T10:49:59'
+  update_time: '2025-06-05T10:28:17'
 - id: 2238
   gid: 73
-  value: '{\"fields\":[{\"name\":\"value\",\"title\":\"value\",\"value\":\"crmebimage/public/product/2025/06/05/5ad3122bc6e343119e8598fbcea72fae2t2b90exug.jpg\"}],\"id\":136,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"value","title":"value","value":"crmebimage/public/product/2025/06/05/5ad3122bc6e343119e8598fbcea72fae2t2b90exug.jpg"}],"id":136,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2024-11-13 10:56:18'
-  update_time: '2025-06-05 10:28:27'
+  create_time: '2024-11-13T10:56:18'
+  update_time: '2025-06-05T10:28:27'
 - id: 2334
   gid: 65
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/0da89c099abb4e7f91bbce5b362e723eviq713motz.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/activity/small_page/index?id=217\"}],\"id\":90,\"sort\":0,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/0da89c099abb4e7f91bbce5b362e723eviq713motz.png"},{"name":"url","title":"url","value":"/pages/activity/small_page/index?id=217"}],"id":90,"sort":0,"status":true}'
   sort: 0
   status: 1
-  create_time: '2025-03-25 09:20:55'
-  update_time: '2025-06-05 10:50:01'
+  create_time: '2025-03-25T09:20:55'
+  update_time: '2025-06-05T10:50:01'
 - id: 2387
   gid: 67
-  value: '{\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"拼团列表\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/e70e9148354446e2a2bbb96110a2ec2fm9a5shpg2r.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/activity/goods_combination/index\"},{\"name\":\"show\",\"title\":\"show\",\"value\":\"2\"}],\"id\":96,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"name","title":"name","value":"拼团列表"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/e70e9148354446e2a2bbb96110a2ec2fm9a5shpg2r.png"},{"name":"url","title":"url","value":"/pages/activity/goods_combination/index"},{"name":"show","title":"show","value":"2"}],"id":96,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2025-05-30 16:38:12'
-  update_time: '2025-05-30 16:38:41'
+  create_time: '2025-05-30T16:38:12'
+  update_time: '2025-05-30T16:38:41'
 - id: 2467
   gid: 65
-  value: '{\"fields\":[{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/06/04/3407aac90cfa4673a4725395afa21bcfxixlr36svc.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"https://www.baidu.com\"}],\"id\":90,\"sort\":1,\"status\":true}'
+  value: '{"fields":[{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/06/04/3407aac90cfa4673a4725395afa21bcfxixlr36svc.png"},{"name":"url","title":"url","value":"https://www.baidu.com"}],"id":90,"sort":1,"status":true}'
   sort: 1
   status: 1
-  create_time: '2025-06-04 11:09:52'
-  update_time: '2025-06-04 11:09:52'
+  create_time: '2025-06-04T11:09:52'
+  update_time: '2025-06-04T11:09:52'
 - id: 2481
   gid: 54
-  value: '{\"id\":89,\"sort\":0,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"会员中心\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/c9ef313cc8a342adb7dd5828c4770d52m81slgmikw.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/infos/user_vip/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":0,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"会员中心"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/c9ef313cc8a342adb7dd5828c4770d52m81slgmikw.png"},{"name":"url","title":"url","value":"/pages/infos/user_vip/index"}],"status":true}'
   sort: 0
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2482
   gid: 54
-  value: '{\"id\":89,\"sort\":1,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的余额\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/2dc4ee1fa3f14c23997f3db976c7c872lecq01k4pw.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_money/index\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"\"}],\"status\":true}'
+  value: '{"id":89,"sort":1,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"我的余额"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/2dc4ee1fa3f14c23997f3db976c7c872lecq01k4pw.png"},{"name":"url","title":"url","value":"/pages/users/user_money/index"},{"name":"info","title":"info","value":""}],"status":true}'
   sort: 1
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2483
   gid: 54
-  value: '{\"id\":89,\"sort\":2,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"地址管理\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/a1dad4e59c834175a87496f63ce5abf9x0zfi7kn02.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_address_list/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":2,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"地址管理"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/a1dad4e59c834175a87496f63ce5abf9x0zfi7kn02.png"},{"name":"url","title":"url","value":"/pages/users/user_address_list/index"}],"status":true}'
   sort: 2
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2484
   gid: 54
-  value: '{\"id\":89,\"sort\":3,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的推广\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/160d9830c6b14cf198ff6753be59e078dydlucpj51.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/promoter/user_spread_user/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":3,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"我的推广"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/160d9830c6b14cf198ff6753be59e078dydlucpj51.png"},{"name":"url","title":"url","value":"/pages/promoter/user_spread_user/index"}],"status":true}'
   sort: 3
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2485
   gid: 54
-  value: '{\"id\":89,\"sort\":4,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/activity/bargain/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"砍价记录\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/12757275eda24b2ca2cd6d0da2c73572tnl6wqsx23.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/activity/bargain/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":4,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/activity/bargain/index"},{"name":"name","title":"name","value":"砍价记录"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/12757275eda24b2ca2cd6d0da2c73572tnl6wqsx23.png"},{"name":"url","title":"url","value":"/pages/activity/bargain/index"}],"status":true}'
   sort: 4
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2486
   gid: 54
-  value: '{\"id\":89,\"sort\":5,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的账户\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/2dc4ee1fa3f14c23997f3db976c7c872lecq01k4pw.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_money/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":5,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"我的账户"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/2dc4ee1fa3f14c23997f3db976c7c872lecq01k4pw.png"},{"name":"url","title":"url","value":"/pages/users/user_money/index"}],"status":true}'
   sort: 5
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2487
   gid: 54
-  value: '{\"id\":89,\"sort\":6,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的收藏\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/a580059a26524e659b1e56cb84c7529788uvnhed11.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_goods_collection/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":6,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"我的收藏"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/a580059a26524e659b1e56cb84c7529788uvnhed11.png"},{"name":"url","title":"url","value":"/pages/users/user_goods_collection/index"}],"status":true}'
   sort: 6
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2488
   gid: 54
-  value: '{\"id\":89,\"sort\":7,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的等级\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/9e333e0c38044203aea118078dc99579obno6z6ig5.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/infos/user_vip/index\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"\"}],\"status\":true}'
+  value: '{"id":89,"sort":7,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"我的等级"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/9e333e0c38044203aea118078dc99579obno6z6ig5.png"},{"name":"url","title":"url","value":"/pages/infos/user_vip/index"},{"name":"info","title":"info","value":""}],"status":true}'
   sort: 7
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2489
   gid: 54
-  value: '{\"id\":89,\"sort\":8,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"优惠券\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/content/2025/05/30/a8c4a8e0e0c94c42ae590d9f03cd3746xz1okx5b0m.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_get_coupon/index\"}],\"status\":false}'
+  value: '{"id":89,"sort":8,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"优惠券"},{"name":"pic","title":"pic","value":"crmebimage/public/content/2025/05/30/a8c4a8e0e0c94c42ae590d9f03cd3746xz1okx5b0m.png"},{"name":"url","title":"url","value":"/pages/users/user_get_coupon/index"}],"status":false}'
   sort: 8
   status: 0
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2490
   gid: 54
-  value: '{\"id\":89,\"sort\":9,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"签到中心\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/1fbd9ab9b067488bb516fc539f930b99ml1p8601tk.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_sgin/index\"}],\"status\":true}'
+  value: '{"id":89,"sort":9,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"签到中心"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/1fbd9ab9b067488bb516fc539f930b99ml1p8601tk.png"},{"name":"url","title":"url","value":"/pages/users/user_sgin/index"}],"status":true}'
   sort: 9
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2491
   gid: 54
-  value: '{\"id\":89,\"sort\":10,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"佣金记录\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/content/2025/06/04/41142ba4ecc14ff0ba4e0b50ec5c5ad40odlclvbt6.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/promoter/user_spread_money/index?type=2&commissionCount=0.00\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"\"}],\"status\":true}'
+  value: '{"id":89,"sort":10,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"佣金记录"},{"name":"pic","title":"pic","value":"crmebimage/public/content/2025/06/04/41142ba4ecc14ff0ba4e0b50ec5c5ad40odlclvbt6.png"},{"name":"url","title":"url","value":"/pages/promoter/user_spread_money/index?type=2&commissionCount=0.00"},{"name":"info","title":"info","value":""}],"status":true}'
   sort: 10
   status: 1
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2492
   gid: 54
-  value: '{\"id\":89,\"sort\":11,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"积分详情\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/content/2025/06/04/7e82693d06f049ada15a0a560a084d20iy93ssbrzb.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/users/user_integral/index\"},{\"name\":\"info\",\"title\":\"info\",\"value\":\"\"}],\"status\":false}'
+  value: '{"id":89,"sort":11,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"积分详情"},{"name":"pic","title":"pic","value":"crmebimage/public/content/2025/06/04/7e82693d06f049ada15a0a560a084d20iy93ssbrzb.png"},{"name":"url","title":"url","value":"/pages/users/user_integral/index"},{"name":"info","title":"info","value":""}],"status":false}'
   sort: 11
   status: 0
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2493
   gid: 54
-  value: '{\"id\":89,\"sort\":12,\"fields\":[{\"name\":\"wap_url\",\"title\":\"wap_url\",\"value\":\"/pages/users/user_vip/index\"},{\"name\":\"name\",\"title\":\"name\",\"value\":\"个人资料\"},{\"name\":\"pic\",\"title\":\"pic\",\"value\":\"crmebimage/public/product/2025/05/30/f0cc64227b0c442ebbc3542d1c8cdcdd8tzqx03uev.png\"},{\"name\":\"url\",\"title\":\"url\",\"value\":\"/pages/infos/user_info/index\"}],\"status\":false}'
+  value: '{"id":89,"sort":12,"fields":[{"name":"wap_url","title":"wap_url","value":"/pages/users/user_vip/index"},{"name":"name","title":"name","value":"个人资料"},{"name":"pic","title":"pic","value":"crmebimage/public/product/2025/05/30/f0cc64227b0c442ebbc3542d1c8cdcdd8tzqx03uev.png"},{"name":"url","title":"url","value":"/pages/infos/user_info/index"}],"status":false}'
   sort: 12
   status: 0
-  create_time: '2025-06-17 09:39:50'
-  update_time: '2025-06-17 09:39:50'
+  create_time: '2025-06-17T09:39:50'
+  update_time: '2025-06-17T09:39:50'
 - id: 2494
   gid: 74
-  value: '{\"id\":57,\"sort\":0,\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"首页\"},{\"name\":\"link\",\"title\":\"link\",\"value\":\"/pages/index/index\"},{\"name\":\"unchecked\",\"title\":\"unchecked\",\"value\":\"crmebimage/public/product/2025/05/30/f096c004ebea452ba77abd17299598deqb6ttkwtjs.png\"},{\"name\":\"checked\",\"title\":\"checked\",\"value\":\"crmebimage/public/product/2025/05/30/d35b3ccea1ee4abf8676cf74c0a1e4b8pdzenwfjgm.png\"}],\"status\":true}'
+  value: '{"id":57,"sort":0,"fields":[{"name":"name","title":"name","value":"首页"},{"name":"link","title":"link","value":"/pages/index/index"},{"name":"unchecked","title":"unchecked","value":"crmebimage/public/product/2025/05/30/f096c004ebea452ba77abd17299598deqb6ttkwtjs.png"},{"name":"checked","title":"checked","value":"crmebimage/public/product/2025/05/30/d35b3ccea1ee4abf8676cf74c0a1e4b8pdzenwfjgm.png"}],"status":true}'
   sort: 0
   status: 1
-  create_time: '2025-06-20 17:32:04'
-  update_time: '2025-06-20 17:32:04'
+  create_time: '2025-06-20T17:32:04'
+  update_time: '2025-06-20T17:32:04'
 - id: 2495
   gid: 74
-  value: '{\"id\":57,\"sort\":1,\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"商品分类\"},{\"name\":\"link\",\"title\":\"link\",\"value\":\"/pages/goods_cate/goods_cate\"},{\"name\":\"unchecked\",\"title\":\"unchecked\",\"value\":\"crmebimage/public/product/2025/05/30/631b518572f1473a8609409cc9b737b8llprb31n4t.png\"},{\"name\":\"checked\",\"title\":\"checked\",\"value\":\"crmebimage/public/product/2025/05/30/cc3d1f029ae4468fa6e55395543718950oywo7bqix.png\"}],\"status\":true}'
+  value: '{"id":57,"sort":1,"fields":[{"name":"name","title":"name","value":"商品分类"},{"name":"link","title":"link","value":"/pages/goods_cate/goods_cate"},{"name":"unchecked","title":"unchecked","value":"crmebimage/public/product/2025/05/30/631b518572f1473a8609409cc9b737b8llprb31n4t.png"},{"name":"checked","title":"checked","value":"crmebimage/public/product/2025/05/30/cc3d1f029ae4468fa6e55395543718950oywo7bqix.png"}],"status":true}'
   sort: 1
   status: 1
-  create_time: '2025-06-20 17:32:04'
-  update_time: '2025-06-20 17:32:04'
+  create_time: '2025-06-20T17:32:04'
+  update_time: '2025-06-20T17:32:04'
 - id: 2496
   gid: 74
-  value: '{\"id\":57,\"sort\":2,\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"购物车\"},{\"name\":\"link\",\"title\":\"link\",\"value\":\"/pages/order_addcart/order_addcart\"},{\"name\":\"unchecked\",\"title\":\"unchecked\",\"value\":\"crmebimage/public/product/2025/05/30/1b0505b084e248e3bf93bcc32d921be7y9uadabpzo.png\"},{\"name\":\"checked\",\"title\":\"checked\",\"value\":\"crmebimage/public/product/2025/05/30/697f7fcbba724d5f9e7b77e8421cca70knrfd1v9h0.png\"}],\"status\":true}'
+  value: '{"id":57,"sort":2,"fields":[{"name":"name","title":"name","value":"购物车"},{"name":"link","title":"link","value":"/pages/order_addcart/order_addcart"},{"name":"unchecked","title":"unchecked","value":"crmebimage/public/product/2025/05/30/1b0505b084e248e3bf93bcc32d921be7y9uadabpzo.png"},{"name":"checked","title":"checked","value":"crmebimage/public/product/2025/05/30/697f7fcbba724d5f9e7b77e8421cca70knrfd1v9h0.png"}],"status":true}'
   sort: 2
   status: 1
-  create_time: '2025-06-20 17:32:04'
-  update_time: '2025-06-20 17:32:04'
+  create_time: '2025-06-20T17:32:04'
+  update_time: '2025-06-20T17:32:04'
 - id: 2497
   gid: 74
-  value: '{\"id\":57,\"sort\":3,\"fields\":[{\"name\":\"name\",\"title\":\"name\",\"value\":\"我的\"},{\"name\":\"link\",\"title\":\"link\",\"value\":\"/pages/user/index\"},{\"name\":\"unchecked\",\"title\":\"unchecked\",\"value\":\"crmebimage/public/product/2025/05/30/013f2612bc524c9d9b508b013aa224efiyokfxey4w.png\"},{\"name\":\"checked\",\"title\":\"checked\",\"value\":\"crmebimage/public/product/2025/05/30/b7da59511b1b41f89f3cb5f7e6114b73px0aqkehrp.png\"}],\"status\":true}'
+  value: '{"id":57,"sort":3,"fields":[{"name":"name","title":"name","value":"我的"},{"name":"link","title":"link","value":"/pages/user/index"},{"name":"unchecked","title":"unchecked","value":"crmebimage/public/product/2025/05/30/013f2612bc524c9d9b508b013aa224efiyokfxey4w.png"},{"name":"checked","title":"checked","value":"crmebimage/public/product/2025/05/30/b7da59511b1b41f89f3cb5f7e6114b73px0aqkehrp.png"}],"status":true}'
   sort: 3
   status: 1
-  create_time: '2025-06-20 17:32:04'
-  update_time: '2025-06-20 17:32:04'
+  create_time: '2025-06-20T17:32:04'
+  update_time: '2025-06-20T17:32:04'

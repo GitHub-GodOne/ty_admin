@@ -6,9 +6,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -17,7 +17,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"主要颜色\":\"咖色2\"}'
+  attr_value: '{"尺码":"S","主要颜色":"咖色2"}'
   is_del: 0
   version: 0
 - id: 1060
@@ -27,9 +27,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -38,7 +38,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"主要颜色\":\"N13\t黑色\"}'
+  attr_value: '{"尺码":"S","主要颜色":"N13\t黑色"}'
   is_del: 0
   version: 0
 - id: 1061
@@ -48,9 +48,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -59,7 +59,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"主要颜色\":\"咖色2\"}'
+  attr_value: '{"尺码":"M","主要颜色":"咖色2"}'
   is_del: 0
   version: 0
 - id: 1062
@@ -69,9 +69,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -80,7 +80,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"主要颜色\":\"N13\t黑色\"}'
+  attr_value: '{"尺码":"M","主要颜色":"N13\t黑色"}'
   is_del: 0
   version: 0
 - id: 1063
@@ -90,9 +90,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -101,7 +101,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"主要颜色\":\"咖色2\"}'
+  attr_value: '{"尺码":"L","主要颜色":"咖色2"}'
   is_del: 0
   version: 0
 - id: 1064
@@ -111,9 +111,9 @@
   sales: 0
   price: 181.12
   image: http://img.alicdn.com/imgextra/i2/3532183807/O1CN01UsLHSm1dzelY7Qqgu_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 88.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 249.0
   weight: 0.0
   volume: 0.0
@@ -122,7 +122,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"主要颜色\":\"N13\t黑色\"}'
+  attr_value: '{"尺码":"L","主要颜色":"N13\t黑色"}'
   is_del: 0
   version: 0
 - id: 1065
@@ -132,9 +132,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -143,7 +143,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S（80-100斤）\",\"颜色分类\":\"白蓝\"}'
+  attr_value: '{"尺码":"S（80-100斤）","颜色分类":"白蓝"}'
   is_del: 0
   version: 0
 - id: 1066
@@ -153,9 +153,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -164,7 +164,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S（80-100斤）\",\"颜色分类\":\"白蓝（预售）\"}'
+  attr_value: '{"尺码":"S（80-100斤）","颜色分类":"白蓝（预售）"}'
   is_del: 0
   version: 0
 - id: 1067
@@ -174,9 +174,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -185,7 +185,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M（100-110斤）\",\"颜色分类\":\"白蓝\"}'
+  attr_value: '{"尺码":"M（100-110斤）","颜色分类":"白蓝"}'
   is_del: 0
   version: 0
 - id: 1068
@@ -195,9 +195,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -206,7 +206,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M（100-110斤）\",\"颜色分类\":\"白蓝（预售）\"}'
+  attr_value: '{"尺码":"M（100-110斤）","颜色分类":"白蓝（预售）"}'
   is_del: 0
   version: 0
 - id: 1069
@@ -216,9 +216,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -227,7 +227,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L（110-125斤）\",\"颜色分类\":\"白蓝\"}'
+  attr_value: '{"尺码":"L（110-125斤）","颜色分类":"白蓝"}'
   is_del: 0
   version: 0
 - id: 1070
@@ -237,9 +237,9 @@
   sales: 0
   price: 432.0
   image: http://img.alicdn.com/imgextra/i2/699155227/O1CN01DjqvZK1oU1INgUxAk_!!4611686018427380507-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 509.0
   weight: 0.0
   volume: 0.0
@@ -248,7 +248,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L（110-125斤）\",\"颜色分类\":\"白蓝（预售）\"}'
+  attr_value: '{"尺码":"L（110-125斤）","颜色分类":"白蓝（预售）"}'
   is_del: 0
   version: 0
 - id: 1071
@@ -258,9 +258,9 @@
   sales: 0
   price: 478.0
   image: http://img.alicdn.com/imgextra/i1/859494695/O1CN01dOtMTz1kYMTpgMdSj_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 123.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 563.0
   weight: 0.0
   volume: 0.0
@@ -269,7 +269,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XS\",\"颜色分类\":\"杏色\"}'
+  attr_value: '{"尺码":"XS","颜色分类":"杏色"}'
   is_del: 0
   version: 0
 - id: 1072
@@ -279,9 +279,9 @@
   sales: 0
   price: 478.0
   image: http://img.alicdn.com/imgextra/i1/859494695/O1CN01dOtMTz1kYMTpgMdSj_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 123.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 563.0
   weight: 0.0
   volume: 0.0
@@ -290,7 +290,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色分类\":\"杏色\"}'
+  attr_value: '{"尺码":"S","颜色分类":"杏色"}'
   is_del: 0
   version: 0
 - id: 1073
@@ -300,9 +300,9 @@
   sales: 0
   price: 478.0
   image: http://img.alicdn.com/imgextra/i1/859494695/O1CN01dOtMTz1kYMTpgMdSj_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 123.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 563.0
   weight: 0.0
   volume: 0.0
@@ -311,7 +311,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色分类\":\"杏色\"}'
+  attr_value: '{"尺码":"M","颜色分类":"杏色"}'
   is_del: 0
   version: 0
 - id: 1074
@@ -321,9 +321,9 @@
   sales: 0
   price: 478.0
   image: http://img.alicdn.com/imgextra/i1/859494695/O1CN01dOtMTz1kYMTpgMdSj_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 123.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 563.0
   weight: 0.0
   volume: 0.0
@@ -332,7 +332,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"颜色分类\":\"杏色\"}'
+  attr_value: '{"尺码":"L","颜色分类":"杏色"}'
   is_del: 0
   version: 0
 - id: 1075
@@ -342,9 +342,9 @@
   sales: 0
   price: 478.0
   image: http://img.alicdn.com/imgextra/i1/859494695/O1CN01dOtMTz1kYMTpgMdSj_!!0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 123.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 563.0
   weight: 0.0
   volume: 0.0
@@ -353,7 +353,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XL\",\"颜色分类\":\"杏色\"}'
+  attr_value: '{"尺码":"XL","颜色分类":"杏色"}'
   is_del: 0
   version: 0
 - id: 1076
@@ -363,9 +363,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -374,7 +374,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1077
@@ -384,9 +384,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -395,7 +395,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1078
@@ -405,9 +405,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -416,7 +416,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1079
@@ -426,9 +426,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -437,7 +437,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1080
@@ -447,9 +447,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -458,7 +458,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1081
@@ -468,9 +468,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -479,7 +479,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1082
@@ -489,9 +489,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -500,7 +500,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1083
@@ -510,9 +510,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -521,7 +521,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1084
@@ -531,9 +531,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -542,7 +542,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1085
@@ -552,9 +552,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -563,7 +563,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1086
@@ -573,9 +573,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -584,7 +584,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1087
@@ -594,9 +594,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -605,7 +605,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1088
@@ -615,9 +615,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -626,7 +626,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1089
@@ -636,9 +636,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -647,7 +647,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1090
@@ -657,9 +657,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -668,7 +668,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1091
@@ -678,9 +678,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -689,7 +689,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1092
@@ -699,9 +699,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -710,7 +710,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1093
@@ -720,9 +720,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -731,7 +731,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1094
@@ -741,9 +741,9 @@
   sales: 0
   price: 49.99
   image: http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 20.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 78.99
   weight: 0.0
   volume: 0.0
@@ -752,7 +752,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"凌乱清晨（茉莉花香）限时送香膏一只\",\"香调\":\"东方调\"}'
+  attr_value: '{"香味":"凌乱清晨（茉莉花香）限时送香膏一只","香调":"东方调"}'
   is_del: 0
   version: 0
 - id: 1095
@@ -762,9 +762,9 @@
   sales: 0
   price: 49.99
   image: http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 20.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 78.99
   weight: 0.0
   volume: 0.0
@@ -773,7 +773,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"枕边之欲（玫瑰花香）限时送香膏一只\",\"香调\":\"东方调\"}'
+  attr_value: '{"香味":"枕边之欲（玫瑰花香）限时送香膏一只","香调":"东方调"}'
   is_del: 0
   version: 0
 - id: 1096
@@ -783,9 +783,9 @@
   sales: 0
   price: 49.99
   image: http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 20.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 78.99
   weight: 0.0
   volume: 0.0
@@ -794,7 +794,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"凌乱清晨+枕边之欲（限时送香膏*2只）\",\"香调\":\"东方调\"}'
+  attr_value: '{"香味":"凌乱清晨+枕边之欲（限时送香膏*2只）","香调":"东方调"}'
   is_del: 0
   version: 0
 - id: 1097
@@ -804,9 +804,9 @@
   sales: 0
   price: 49.99
   image: http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 20.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 78.99
   weight: 0.0
   volume: 0.0
@@ -815,7 +815,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"凌乱清晨*2（茉莉花香）（限时送香膏*2只）\",\"香调\":\"东方调\"}'
+  attr_value: '{"香味":"凌乱清晨*2（茉莉花香）（限时送香膏*2只）","香调":"东方调"}'
   is_del: 0
   version: 0
 - id: 1098
@@ -825,9 +825,9 @@
   sales: 0
   price: 49.99
   image: http://img.alicdn.com/imgextra/i3/2215862087051/O1CN01AyDsbI21xPhYE7jrt_!!4611686018427383179-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 20.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 78.99
   weight: 0.0
   volume: 0.0
@@ -836,7 +836,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"枕边之欲*2（玫瑰花香）（限时送香膏*2只）\",\"香调\":\"东方调\"}'
+  attr_value: '{"香味":"枕边之欲*2（玫瑰花香）（限时送香膏*2只）","香调":"东方调"}'
   is_del: 0
   version: 0
 - id: 1099
@@ -846,9 +846,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -857,7 +857,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"【NEW】纵情盛夏 | 穿透感柑橘调\",\"净含量\":\"50ml\"}'
+  attr_value: '{"香味":"【NEW】纵情盛夏 | 穿透感柑橘调","净含量":"50ml"}'
   is_del: 0
   version: 0
 - id: 1100
@@ -867,9 +867,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -878,7 +878,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"【NEW】纵情盛夏 | 穿透感柑橘调\",\"净含量\":\"30ml\"}'
+  attr_value: '{"香味":"【NEW】纵情盛夏 | 穿透感柑橘调","净含量":"30ml"}'
   is_del: 0
   version: 0
 - id: 1101
@@ -888,9 +888,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -899,7 +899,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"【NEW】纵情盛夏 | 穿透感柑橘调\",\"净含量\":\"90ml\"}'
+  attr_value: '{"香味":"【NEW】纵情盛夏 | 穿透感柑橘调","净含量":"90ml"}'
   is_del: 0
   version: 0
 - id: 1102
@@ -909,9 +909,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -920,7 +920,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"经典版 | 侵略感气场花香\",\"净含量\":\"50ml\"}'
+  attr_value: '{"香味":"经典版 | 侵略感气场花香","净含量":"50ml"}'
   is_del: 0
   version: 0
 - id: 1103
@@ -930,9 +930,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -941,7 +941,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"经典版 | 侵略感气场花香\",\"净含量\":\"30ml\"}'
+  attr_value: '{"香味":"经典版 | 侵略感气场花香","净含量":"30ml"}'
   is_del: 0
   version: 0
 - id: 1104
@@ -951,9 +951,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -962,7 +962,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"经典版 | 侵略感气场花香\",\"净含量\":\"90ml\"}'
+  attr_value: '{"香味":"经典版 | 侵略感气场花香","净含量":"90ml"}'
   is_del: 0
   version: 0
 - id: 1105
@@ -972,9 +972,9 @@
   sales: 3
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -983,7 +983,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"沙漠百合 | 馥郁花香\",\"净含量\":\"50ml\"}'
+  attr_value: '{"香味":"沙漠百合 | 馥郁花香","净含量":"50ml"}'
   is_del: 0
   version: 10
 - id: 1106
@@ -993,9 +993,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -1004,7 +1004,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"沙漠百合 | 馥郁花香\",\"净含量\":\"30ml\"}'
+  attr_value: '{"香味":"沙漠百合 | 馥郁花香","净含量":"30ml"}'
   is_del: 0
   version: 0
 - id: 1107
@@ -1014,9 +1014,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -1025,7 +1025,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"沙漠百合 | 馥郁花香\",\"净含量\":\"90ml\"}'
+  attr_value: '{"香味":"沙漠百合 | 馥郁花香","净含量":"90ml"}'
   is_del: 0
   version: 0
 - id: 1108
@@ -1035,9 +1035,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -1046,7 +1046,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"铂金版 | 冷感花香\",\"净含量\":\"50ml\"}'
+  attr_value: '{"香味":"铂金版 | 冷感花香","净含量":"50ml"}'
   is_del: 0
   version: 0
 - id: 1109
@@ -1056,9 +1056,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -1067,7 +1067,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"铂金版 | 冷感花香\",\"净含量\":\"30ml\"}'
+  attr_value: '{"香味":"铂金版 | 冷感花香","净含量":"30ml"}'
   is_del: 0
   version: 0
 - id: 1110
@@ -1077,9 +1077,9 @@
   sales: 0
   price: 800.0
   image: http://img.alicdn.com/imgextra/i2/3626596873/O1CN018gvFB220dtDfqwOJW_!!4611686018427386377-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 230.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 920.0
   weight: 0.0
   volume: 0.0
@@ -1088,7 +1088,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"铂金版 | 冷感花香\",\"净含量\":\"90ml\"}'
+  attr_value: '{"香味":"铂金版 | 冷感花香","净含量":"90ml"}'
   is_del: 0
   version: 0
 - id: 1111
@@ -1098,9 +1098,9 @@
   sales: 0
   price: 221.0
   image: http://img.alicdn.com/imgextra/i1/1818112088/O1CN011szfgV1RIM2lW0E6w_!!4611686018427383896-2-item_pic.png
-  unique: ''
+  unique: ""
   cost: 150.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 260.0
   weight: 0.0
   volume: 0.0
@@ -1109,7 +1109,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"沁心香水30ml\"}'
+  attr_value: '{"香味":"沁心香水30ml"}'
   is_del: 0
   version: 0
 - id: 1112
@@ -1119,9 +1119,9 @@
   sales: 2
   price: 221.0
   image: http://img.alicdn.com/imgextra/i1/1818112088/O1CN011szfgV1RIM2lW0E6w_!!4611686018427383896-2-item_pic.png
-  unique: ''
+  unique: ""
   cost: 150.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 260.0
   weight: 0.0
   volume: 0.0
@@ -1130,7 +1130,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"香味\":\"粉境苍兰香水30ml\"}'
+  attr_value: '{"香味":"粉境苍兰香水30ml"}'
   is_del: 0
   version: 4
 - id: 1113
@@ -1140,9 +1140,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1151,7 +1151,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"超级旗舰款【旗舰飞机轮/曜石黑】超强承重+双刹万向轮+加厚全钢车身\"}'
+  attr_value: '{"颜色分类":"超级旗舰款【旗舰飞机轮/曜石黑】超强承重+双刹万向轮+加厚全钢车身"}'
   is_del: 0
   version: 0
 - id: 1114
@@ -1161,9 +1161,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1172,7 +1172,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"升级静音款【加大静音轮/曜石黑】加大车身+静音万向轮+加厚全钢车身\"}'
+  attr_value: '{"颜色分类":"升级静音款【加大静音轮/曜石黑】加大车身+静音万向轮+加厚全钢车身"}'
   is_del: 0
   version: 0
 - id: 1115
@@ -1182,9 +1182,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1193,7 +1193,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"旗舰款-露营套装【飞机轮/曜石黑】超强全钢车身+双刹万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"旗舰款-露营套装【飞机轮/曜石黑】超强全钢车身+双刹万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 0
 - id: 1116
@@ -1203,9 +1203,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1214,7 +1214,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【普通款静音轮/曜石黑】+加厚全钢车身+静音万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【普通款静音轮/曜石黑】+加厚全钢车身+静音万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 2
 - id: 1117
@@ -1224,9 +1224,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1235,7 +1235,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【加大款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【加大款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 0
 - id: 1118
@@ -1245,9 +1245,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1256,7 +1256,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"超级旗舰露营套装【飞机轮/曜石黑】超强全钢车身+双刹万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"超级旗舰露营套装【飞机轮/曜石黑】超强全钢车身+双刹万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 0
 - id: 1119
@@ -1266,9 +1266,9 @@
   sales: 2
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1277,7 +1277,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【加大款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【加大款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 14
 - id: 1120
@@ -1287,9 +1287,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1298,7 +1298,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【普通款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【普通款静音轮/曜石黑】+加大加厚全钢车身+万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 0
 - id: 1121
@@ -1308,9 +1308,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1319,7 +1319,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【普通款/曜石黑】全钢车架-静音万向轮\"}'
+  attr_value: '{"颜色分类":"【普通款/曜石黑】全钢车架-静音万向轮"}'
   is_del: 0
   version: 0
 - id: 1122
@@ -1329,9 +1329,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1340,7 +1340,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"超级旗舰款【旗舰飞机轮/细沙黄】超强承重+双刹万向轮+加厚全钢车身\"}'
+  attr_value: '{"颜色分类":"超级旗舰款【旗舰飞机轮/细沙黄】超强承重+双刹万向轮+加厚全钢车身"}'
   is_del: 0
   version: 0
 - id: 1123
@@ -1350,9 +1350,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1361,7 +1361,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"升级静音款【加大静音轮/细沙黄】加大车身+静音万向轮+加厚全钢车身\"}'
+  attr_value: '{"颜色分类":"升级静音款【加大静音轮/细沙黄】加大车身+静音万向轮+加厚全钢车身"}'
   is_del: 0
   version: 0
 - id: 1124
@@ -1371,9 +1371,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1382,7 +1382,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"旗舰款-露营套装【飞机轮/细沙黄】超强全钢车身+双刹万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"旗舰款-露营套装【飞机轮/细沙黄】超强全钢车身+双刹万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 0
 - id: 1125
@@ -1392,9 +1392,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1403,7 +1403,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【普通款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【普通款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 0
 - id: 1126
@@ -1413,9 +1413,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1424,7 +1424,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【加大款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【加大款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 0
 - id: 1127
@@ -1434,9 +1434,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1445,7 +1445,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"超级旗舰露营套装【飞机轮/细沙黄】超强全钢车身+双刹万向轮+可折叠卡其色桌板\"}'
+  attr_value: '{"颜色分类":"超级旗舰露营套装【飞机轮/细沙黄】超强全钢车身+双刹万向轮+可折叠卡其色桌板"}'
   is_del: 0
   version: 0
 - id: 1128
@@ -1455,9 +1455,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1466,7 +1466,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【普通款静音轮/细沙黄】+加厚全钢车身+静音万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【普通款静音轮/细沙黄】+加厚全钢车身+静音万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 0
 - id: 1129
@@ -1476,9 +1476,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1487,7 +1487,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"露营套装【加大款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠曜石黑桌板\"}'
+  attr_value: '{"颜色分类":"露营套装【加大款静音轮/细沙黄】+加大加厚全钢车身+万向轮+可折叠曜石黑桌板"}'
   is_del: 0
   version: 0
 - id: 1130
@@ -1497,9 +1497,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1508,7 +1508,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【普通款/细沙黄】全钢车架-静音万向轮\"}'
+  attr_value: '{"颜色分类":"【普通款/细沙黄】全钢车架-静音万向轮"}'
   is_del: 0
   version: 0
 - id: 1131
@@ -1518,9 +1518,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1529,7 +1529,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】升级静音款/曜石黑+曜石黑桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】升级静音款/曜石黑+曜石黑桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1132
@@ -1539,9 +1539,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1550,7 +1550,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】超级旗舰款/曜石黑+曜石黑桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】超级旗舰款/曜石黑+曜石黑桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1133
@@ -1560,9 +1560,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1571,7 +1571,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】升级静音款/曜石黑+卡其色桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】升级静音款/曜石黑+卡其色桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1134
@@ -1581,9 +1581,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1592,7 +1592,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】超级旗舰款/曜石黑+卡其色桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】超级旗舰款/曜石黑+卡其色桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1135
@@ -1602,9 +1602,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1613,7 +1613,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】升级静音款/卡其色+曜石黑桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】升级静音款/卡其色+曜石黑桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1136
@@ -1623,9 +1623,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1634,7 +1634,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】超级旗舰款/卡其色+曜石黑桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】超级旗舰款/卡其色+曜石黑桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 2
 - id: 1137
@@ -1644,9 +1644,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1655,7 +1655,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】升级静音款/卡其色+卡其色桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】升级静音款/卡其色+卡其色桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1138
@@ -1665,9 +1665,9 @@
   sales: 0
   price: 92.9
   image: http://img.alicdn.com/imgextra/i4/2217667885149/O1CN01vgv5g51nuIOjpm2Ec_!!4611686018427385949-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 68.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 109.9
   weight: 0.0
   volume: 0.0
@@ -1676,7 +1676,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【椅子套餐】超级旗舰款/卡其色+卡其色桌板+旗舰款克米特椅*2\"}'
+  attr_value: '{"颜色分类":"【椅子套餐】超级旗舰款/卡其色+卡其色桌板+旗舰款克米特椅*2"}'
   is_del: 0
   version: 0
 - id: 1139
@@ -1686,9 +1686,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1697,7 +1697,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 新升级钛金黑胶】防潮垫+银化绿帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 新升级钛金黑胶】防潮垫+银化绿帐篷"}'
   is_del: 0
   version: 0
 - id: 1140
@@ -1707,9 +1707,9 @@
   sales: 1
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1718,7 +1718,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 新升级钛金黑胶】防潮垫+幻影驼色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 新升级钛金黑胶】防潮垫+幻影驼色帐篷"}'
   is_del: 0
   version: 1
 - id: 1141
@@ -1728,9 +1728,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1739,7 +1739,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】防潮垫+摩卡色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】防潮垫+摩卡色帐篷"}'
   is_del: 0
   version: 0
 - id: 1142
@@ -1749,9 +1749,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1760,7 +1760,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】防潮垫+奶酪色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】防潮垫+奶酪色帐篷"}'
   is_del: 0
   version: 0
 - id: 1143
@@ -1770,9 +1770,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1781,7 +1781,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 高倍黑胶防晒】防潮垫+流沙金帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 高倍黑胶防晒】防潮垫+流沙金帐篷"}'
   is_del: 0
   version: 0
 - id: 1144
@@ -1791,9 +1791,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1802,7 +1802,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 高倍黑胶防晒】防潮垫+蓝色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 高倍黑胶防晒】防潮垫+蓝色帐篷"}'
   is_del: 0
   version: 0
 - id: 1145
@@ -1812,9 +1812,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1823,7 +1823,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 涂银防晒】防潮垫+湛蓝帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 涂银防晒】防潮垫+湛蓝帐篷"}'
   is_del: 0
   version: 0
 - id: 1146
@@ -1833,9 +1833,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1844,7 +1844,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【5件套 涂银防晒】湛蓝帐篷+充气垫+野餐垫+防潮垫+吊床\"}'
+  attr_value: '{"颜色分类":"【5件套 涂银防晒】湛蓝帐篷+充气垫+野餐垫+防潮垫+吊床"}'
   is_del: 0
   version: 0
 - id: 1147
@@ -1854,9 +1854,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1865,7 +1865,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【3件套 黑胶高倍防晒】自动充气垫+摩卡色帐篷+防潮垫\"}'
+  attr_value: '{"颜色分类":"【3件套 黑胶高倍防晒】自动充气垫+摩卡色帐篷+防潮垫"}'
   is_del: 0
   version: 0
 - id: 1148
@@ -1875,9 +1875,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1886,7 +1886,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【3件套 黑胶高倍防晒】自动充气垫+流沙金帐篷+防潮垫\"}'
+  attr_value: '{"颜色分类":"【3件套 黑胶高倍防晒】自动充气垫+流沙金帐篷+防潮垫"}'
   is_del: 0
   version: 0
 - id: 1149
@@ -1896,9 +1896,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1907,7 +1907,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】自动充气垫+摩卡色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】自动充气垫+摩卡色帐篷"}'
   is_del: 0
   version: 0
 - id: 1150
@@ -1917,9 +1917,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1928,7 +1928,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】自动充气垫+蓝色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】自动充气垫+蓝色帐篷"}'
   is_del: 0
   version: 2
 - id: 1151
@@ -1938,9 +1938,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1949,7 +1949,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】自动充气垫+流沙金帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】自动充气垫+流沙金帐篷"}'
   is_del: 0
   version: 0
 - id: 1152
@@ -1959,9 +1959,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1970,7 +1970,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 新升级钛金黑胶】自动充气垫+银化绿帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 新升级钛金黑胶】自动充气垫+银化绿帐篷"}'
   is_del: 0
   version: 0
 - id: 1153
@@ -1980,9 +1980,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -1991,7 +1991,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 新升级钛金黑胶】自动充气垫+幻影驼色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 新升级钛金黑胶】自动充气垫+幻影驼色帐篷"}'
   is_del: 0
   version: 0
 - id: 1154
@@ -2001,9 +2001,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2012,7 +2012,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 新升级钛金黑胶】自动充气垫+幻影太空灰帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 新升级钛金黑胶】自动充气垫+幻影太空灰帐篷"}'
   is_del: 0
   version: 0
 - id: 1155
@@ -2022,9 +2022,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2033,7 +2033,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【3件套 高倍黑胶防晒】蓝色帐篷+防潮垫+蓝色吊床\"}'
+  attr_value: '{"颜色分类":"【3件套 高倍黑胶防晒】蓝色帐篷+防潮垫+蓝色吊床"}'
   is_del: 0
   version: 0
 - id: 1156
@@ -2043,9 +2043,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2054,7 +2054,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【4件套 黑胶防晒】摩卡色帐篷+大号折叠椅+防潮垫\"}'
+  attr_value: '{"颜色分类":"【4件套 黑胶防晒】摩卡色帐篷+大号折叠椅+防潮垫"}'
   is_del: 0
   version: 0
 - id: 1157
@@ -2064,9 +2064,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2075,7 +2075,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 涂银防晒】防潮垫+军绿帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 涂银防晒】防潮垫+军绿帐篷"}'
   is_del: 0
   version: 0
 - id: 1158
@@ -2085,9 +2085,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2096,7 +2096,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 涂银防晒】防潮垫+蓝色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 涂银防晒】防潮垫+蓝色帐篷"}'
   is_del: 0
   version: 0
 - id: 1159
@@ -2106,9 +2106,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2117,7 +2117,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 涂银防晒】防潮垫+摩卡色帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 涂银防晒】防潮垫+摩卡色帐篷"}'
   is_del: 0
   version: 0
 - id: 1160
@@ -2127,9 +2127,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2138,7 +2138,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【3件套 涂银防晒】自动充气床+防潮垫+湛蓝帐篷\"}'
+  attr_value: '{"颜色分类":"【3件套 涂银防晒】自动充气床+防潮垫+湛蓝帐篷"}'
   is_del: 0
   version: 0
 - id: 1161
@@ -2148,9 +2148,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2159,7 +2159,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【3件套 涂银防晒】防潮垫+野餐垫+湛蓝帐篷\"}'
+  attr_value: '{"颜色分类":"【3件套 涂银防晒】防潮垫+野餐垫+湛蓝帐篷"}'
   is_del: 0
   version: 0
 - id: 1162
@@ -2169,9 +2169,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2180,7 +2180,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【 升级款钛金黑胶防晒】幻影银化绿 A111-5\"}'
+  attr_value: '{"颜色分类":"【 升级款钛金黑胶防晒】幻影银化绿 A111-5"}'
   is_del: 0
   version: 0
 - id: 1163
@@ -2190,9 +2190,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2201,7 +2201,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【升级款钛金黑胶防晒】幻影驼色 A111-5\"}'
+  attr_value: '{"颜色分类":"【升级款钛金黑胶防晒】幻影驼色 A111-5"}'
   is_del: 0
   version: 0
 - id: 1164
@@ -2211,9 +2211,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2222,7 +2222,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【升级款钛金黑胶防晒】幻影太空灰 A111-5\"}'
+  attr_value: '{"颜色分类":"【升级款钛金黑胶防晒】幻影太空灰 A111-5"}'
   is_del: 0
   version: 0
 - id: 1165
@@ -2232,9 +2232,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2243,7 +2243,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【黑胶防晒 双层液压】蓝色 A111-3\"}'
+  attr_value: '{"颜色分类":"【黑胶防晒 双层液压】蓝色 A111-3"}'
   is_del: 0
   version: 0
 - id: 1166
@@ -2253,9 +2253,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2264,7 +2264,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【黑胶防晒 双层液压】流沙金 A111-3\"}'
+  attr_value: '{"颜色分类":"【黑胶防晒 双层液压】流沙金 A111-3"}'
   is_del: 0
   version: 0
 - id: 1167
@@ -2274,9 +2274,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2285,7 +2285,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【黑胶防晒 双层液压】摩卡色 A111-3\"}'
+  attr_value: '{"颜色分类":"【黑胶防晒 双层液压】摩卡色 A111-3"}'
   is_del: 0
   version: 0
 - id: 1168
@@ -2295,9 +2295,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2306,7 +2306,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【黑胶防晒 双层液压】奶酪色 A111-3\"}'
+  attr_value: '{"颜色分类":"【黑胶防晒 双层液压】奶酪色 A111-3"}'
   is_del: 0
   version: 0
 - id: 1169
@@ -2316,9 +2316,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2327,7 +2327,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【涂银防晒 】湛蓝帐篷 A111-2\"}'
+  attr_value: '{"颜色分类":"【涂银防晒 】湛蓝帐篷 A111-2"}'
   is_del: 0
   version: 0
 - id: 1170
@@ -2337,9 +2337,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2348,7 +2348,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【涂银防晒 】摩卡色 A111-2\"}'
+  attr_value: '{"颜色分类":"【涂银防晒 】摩卡色 A111-2"}'
   is_del: 0
   version: 0
 - id: 1171
@@ -2358,9 +2358,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2369,7 +2369,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【黑胶防晒 双层液压】湛蓝 A111-3\"}'
+  attr_value: '{"颜色分类":"【黑胶防晒 双层液压】湛蓝 A111-3"}'
   is_del: 0
   version: 0
 - id: 1172
@@ -2379,9 +2379,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2390,7 +2390,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"【2件套 黑胶高倍防晒】自动充气垫+湛蓝帐篷\"}'
+  attr_value: '{"颜色分类":"【2件套 黑胶高倍防晒】自动充气垫+湛蓝帐篷"}'
   is_del: 0
   version: 0
 - id: 1173
@@ -2400,9 +2400,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2411,7 +2411,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"1 拍下随机发货\"}'
+  attr_value: '{"颜色分类":"1 拍下随机发货"}'
   is_del: 0
   version: 0
 - id: 1174
@@ -2421,9 +2421,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2432,7 +2432,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"蓝 拍下随机发货9\"}'
+  attr_value: '{"颜色分类":"蓝 拍下随机发货9"}'
   is_del: 0
   version: 0
 - id: 1175
@@ -2442,9 +2442,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2453,7 +2453,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"蓝 拍下随机发货10\"}'
+  attr_value: '{"颜色分类":"蓝 拍下随机发货10"}'
   is_del: 0
   version: 0
 - id: 1176
@@ -2463,9 +2463,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2474,7 +2474,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"蓝 拍下随机发货11\"}'
+  attr_value: '{"颜色分类":"蓝 拍下随机发货11"}'
   is_del: 0
   version: 0
 - id: 1177
@@ -2484,9 +2484,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -2495,7 +2495,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"蓝 拍下随机发货12\"}'
+  attr_value: '{"颜色分类":"蓝 拍下随机发货12"}'
   is_del: 0
   version: 0
 - id: 1178
@@ -2505,9 +2505,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2516,7 +2516,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-轻巧 【12升 】 2161\"}'
+  attr_value: '{"颜色分类":"米白色-轻巧 【12升 】 2161"}'
   is_del: 0
   version: 0
 - id: 1179
@@ -2526,9 +2526,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2537,7 +2537,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-大容量【22升】  2162\"}'
+  attr_value: '{"颜色分类":"米白色-大容量【22升】  2162"}'
   is_del: 0
   version: 0
 - id: 1180
@@ -2547,9 +2547,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2558,7 +2558,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-大容量 【22升】+ 安抚娃娃  2162\"}'
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1181
@@ -2568,9 +2568,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2579,7 +2579,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"大象灰-大容量 【22升】+ 安抚娃娃  2162\"}'
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1182
@@ -2589,9 +2589,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2600,7 +2600,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-大容量 【22升】+  安抚娃娃  2162\"}'
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+  安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1183
@@ -2610,9 +2610,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2621,7 +2621,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163\"}'
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1184
@@ -2631,9 +2631,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2642,7 +2642,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163\"}'
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1185
@@ -2652,9 +2652,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2663,7 +2663,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\"}'
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1186
@@ -2673,9 +2673,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2684,7 +2684,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\"}'
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1187
@@ -2694,9 +2694,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2705,7 +2705,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"大象灰-大容量 【22升】 2162\"}'
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1188
@@ -2715,9 +2715,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2726,7 +2726,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"灰蓝色-大容量 【22升】 2162\"}'
+  attr_value: '{"颜色分类":"灰蓝色-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1189
@@ -2736,9 +2736,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -2747,7 +2747,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"颜色分类\":\"轻便外出，百搭妈咪包\"}'
+  attr_value: '{"颜色分类":"轻便外出，百搭妈咪包"}'
   is_del: 0
   version: 0
 - id: 1190
@@ -2757,9 +2757,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2768,7 +2768,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 1
   version: 0
 - id: 1191
@@ -2778,9 +2778,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2789,7 +2789,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 1
   version: 0
 - id: 1192
@@ -2799,9 +2799,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2810,7 +2810,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 1
   version: 0
 - id: 1193
@@ -2820,9 +2820,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2831,7 +2831,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 1
   version: 1
 - id: 1194
@@ -2841,9 +2841,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2852,7 +2852,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 1
   version: 1
 - id: 1195
@@ -2862,9 +2862,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2873,7 +2873,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 1
   version: 1
 - id: 1196
@@ -2883,9 +2883,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2894,7 +2894,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 1
   version: 0
 - id: 1197
@@ -2904,9 +2904,9 @@
   sales: 19
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2915,7 +2915,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 1
   version: 14
 - id: 1198
@@ -2925,9 +2925,9 @@
   sales: 3
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2936,7 +2936,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 1
   version: 7
 - id: 1199
@@ -2946,9 +2946,9 @@
   sales: 0
   price: 200.0
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2957,7 +2957,7 @@
   type: 1
   quota: 5
   quota_show: 5
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1200
@@ -2967,9 +2967,9 @@
   sales: 0
   price: 200.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2978,7 +2978,7 @@
   type: 1
   quota: 10
   quota_show: 10
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1201
@@ -2988,9 +2988,9 @@
   sales: 0
   price: 200.0
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -2999,7 +2999,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1202
@@ -3009,9 +3009,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3020,7 +3020,7 @@
   type: 2
   quota: 1
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1203
@@ -3030,9 +3030,9 @@
   sales: 1
   price: 219.0
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3041,7 +3041,7 @@
   type: 1
   quota: 2
   quota_show: 3
-  attr_value: \"{\\"尺码\\":\\"L\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1204
@@ -3051,9 +3051,9 @@
   sales: 0
   price: 219.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3062,7 +3062,7 @@
   type: 1
   quota: 10
   quota_show: 10
-  attr_value: \"{\\"尺码\\":\\"M\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1205
@@ -3072,9 +3072,9 @@
   sales: 0
   price: 219.0
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3083,7 +3083,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"S\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1206
@@ -3093,9 +3093,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3104,7 +3104,7 @@
   type: 2
   quota: 10
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1207
@@ -3114,9 +3114,9 @@
   sales: 0
   price: 180.0
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3125,7 +3125,7 @@
   type: 3
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1208
@@ -3135,9 +3135,9 @@
   sales: 2
   price: 180.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3146,7 +3146,7 @@
   type: 3
   quota: 8
   quota_show: 10
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1209
@@ -3156,9 +3156,9 @@
   sales: 0
   price: 180.0
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3167,7 +3167,7 @@
   type: 3
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1210
@@ -3177,9 +3177,9 @@
   sales: 0
   price: 270.6
   image: http://img.alicdn.com/imgextra/i4/379092709/O1CN01XM2IOk1VslyCK2KRa_!!4611686018427387621-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 133.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 379.6
   weight: 0.0
   volume: 0.0
@@ -3188,7 +3188,7 @@
   type: 3
   quota: 10
   quota_show: 10
-  attr_value: \"{\\"颜色分类\\":\\"【 升级款钛金黑胶防晒】幻影银化绿 A111-5\\"}\"
+  attr_value: '{"颜色分类":"【 升级款钛金黑胶防晒】幻影银化绿 A111-5"}'
   is_del: 0
   version: 0
 - id: 1211
@@ -3198,9 +3198,9 @@
   sales: 1
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3209,7 +3209,7 @@
   type: 3
   quota: 0
   quota_show: 1
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1212
@@ -3219,9 +3219,9 @@
   sales: 1
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3230,7 +3230,7 @@
   type: 3
   quota: 4
   quota_show: 5
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1213
@@ -3240,9 +3240,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3251,7 +3251,7 @@
   type: 3
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1214
@@ -3261,9 +3261,9 @@
   sales: 1
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3272,7 +3272,7 @@
   type: 1
   quota: 4
   quota_show: 5
-  attr_value: \"{\\"尺码\\":\\"L\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1215
@@ -3282,9 +3282,9 @@
   sales: 1
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3293,7 +3293,7 @@
   type: 1
   quota: 0
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"M\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1216
@@ -3303,9 +3303,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -3314,7 +3314,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"S\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1217
@@ -3324,9 +3324,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3335,7 +3335,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量 【22升】 2162\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1218
@@ -3345,9 +3345,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3356,7 +3356,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量 【22升】+ 安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1219
@@ -3366,9 +3366,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3377,7 +3377,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1220
@@ -3387,9 +3387,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3398,7 +3398,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1221
@@ -3408,9 +3408,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3419,7 +3419,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"灰蓝色-大容量 【22升】 2162\\"}\"
+  attr_value: '{"颜色分类":"灰蓝色-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1222
@@ -3429,9 +3429,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3440,7 +3440,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量 【22升】+  安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+  安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1223
@@ -3450,9 +3450,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3461,7 +3461,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量 【22升】+ 安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1224
@@ -3471,9 +3471,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3482,7 +3482,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1225
@@ -3492,9 +3492,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3503,7 +3503,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1226
@@ -3513,9 +3513,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3524,7 +3524,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量【22升】  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量【22升】  2162"}'
   is_del: 0
   version: 0
 - id: 1227
@@ -3534,9 +3534,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3545,7 +3545,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-轻巧 【12升 】 2161\\"}\"
+  attr_value: '{"颜色分类":"米白色-轻巧 【12升 】 2161"}'
   is_del: 0
   version: 0
 - id: 1228
@@ -3555,9 +3555,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3566,7 +3566,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"轻便外出，百搭妈咪包\\"}\"
+  attr_value: '{"颜色分类":"轻便外出，百搭妈咪包"}'
   is_del: 0
   version: 0
 - id: 1229
@@ -3576,9 +3576,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3587,7 +3587,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1230
@@ -3597,9 +3597,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3608,7 +3608,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1231
@@ -3618,9 +3618,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3629,7 +3629,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"2XL /180\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"2XL /180","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1232
@@ -3639,9 +3639,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3650,7 +3650,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1233
@@ -3660,9 +3660,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3671,7 +3671,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1234
@@ -3681,9 +3681,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3692,7 +3692,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"L /170\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"L /170","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1235
@@ -3702,9 +3702,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3713,7 +3713,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1236
@@ -3723,9 +3723,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3734,7 +3734,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1237
@@ -3744,9 +3744,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3755,7 +3755,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"M /165\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"M /165","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1238
@@ -3765,9 +3765,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3776,7 +3776,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1239
@@ -3786,9 +3786,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3797,7 +3797,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1240
@@ -3807,9 +3807,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3818,7 +3818,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"S /160\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"S /160","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1241
@@ -3828,9 +3828,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3839,7 +3839,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1242
@@ -3849,9 +3849,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3860,7 +3860,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1243
@@ -3870,9 +3870,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3881,7 +3881,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XL /175\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"XL /175","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1244
@@ -3891,9 +3891,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3902,7 +3902,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"二度灰-2\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"二度灰-2"}'
   is_del: 0
   version: 0
 - id: 1245
@@ -3912,9 +3912,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3923,7 +3923,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"基础黑-3\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"基础黑-3"}'
   is_del: 0
   version: 0
 - id: 1246
@@ -3933,9 +3933,9 @@
   sales: 0
   price: 159.0
   image: http://img.alicdn.com/imgextra/i4/385132127/O1CN01Pnrq6B1RaDUWyb8fk-385132127.jpg
-  unique: ''
+  unique: ""
   cost: 50.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 219.0
   weight: 0.0
   volume: 0.0
@@ -3944,7 +3944,7 @@
   type: 1
   quota: 100
   quota_show: 100
-  attr_value: '{\"尺码\":\"XS /155\",\"颜色分类\":\"珠光灰-1\"}'
+  attr_value: '{"尺码":"XS /155","颜色分类":"珠光灰-1"}'
   is_del: 0
   version: 0
 - id: 1247
@@ -3954,9 +3954,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3965,7 +3965,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量 【22升】 2162\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1248
@@ -3975,9 +3975,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -3986,7 +3986,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量 【22升】+ 安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1249
@@ -3996,9 +3996,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4007,7 +4007,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1250
@@ -4017,9 +4017,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4028,7 +4028,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\\"}\"
+  attr_value: '{"颜色分类":"大象灰-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1251
@@ -4038,9 +4038,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4049,7 +4049,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"灰蓝色-大容量 【22升】 2162\\"}\"
+  attr_value: '{"颜色分类":"灰蓝色-大容量 【22升】 2162"}'
   is_del: 0
   version: 0
 - id: 1252
@@ -4059,9 +4059,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4070,7 +4070,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量 【22升】+  安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+  安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1253
@@ -4080,9 +4080,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4091,7 +4091,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量 【22升】+ 安抚娃娃  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量 【22升】+ 安抚娃娃  2162"}'
   is_del: 0
   version: 0
 - id: 1254
@@ -4101,9 +4101,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4112,7 +4112,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】 2163"}'
   is_del: 0
   version: 0
 - id: 1255
@@ -4122,9 +4122,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4133,7 +4133,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量Plus 【30L 减负设计 轻便出行】+ 安抚娃娃 2163"}'
   is_del: 0
   version: 0
 - id: 1256
@@ -4143,9 +4143,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4154,7 +4154,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-大容量【22升】  2162\\"}\"
+  attr_value: '{"颜色分类":"米白色-大容量【22升】  2162"}'
   is_del: 0
   version: 0
 - id: 1257
@@ -4164,9 +4164,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4175,7 +4175,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"米白色-轻巧 【12升 】 2161\\"}\"
+  attr_value: '{"颜色分类":"米白色-轻巧 【12升 】 2161"}'
   is_del: 0
   version: 0
 - id: 1258
@@ -4185,9 +4185,9 @@
   sales: 0
   price: 107.0
   image: http://img.alicdn.com/imgextra/i1/669816508/O1CN010EJYOz1xwiejLyp9w_!!4611686018427385532-0-item_pic.jpg
-  unique: ''
+  unique: ""
   cost: 55.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 126.0
   weight: 0.0
   volume: 0.0
@@ -4196,7 +4196,7 @@
   type: 1
   quota: 30
   quota_show: 30
-  attr_value: \"{\\"颜色分类\\":\\"轻便外出，百搭妈咪包\\"}\"
+  attr_value: '{"颜色分类":"轻便外出，百搭妈咪包"}'
   is_del: 0
   version: 0
 - id: 1259
@@ -4206,9 +4206,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4217,7 +4217,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1260
@@ -4227,9 +4227,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4238,7 +4238,7 @@
   type: 1
   quota: 11
   quota_show: 11
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1261
@@ -4248,9 +4248,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4259,7 +4259,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1262
@@ -4269,9 +4269,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4280,7 +4280,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: \"{\\"尺码\\":\\"L\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1263
@@ -4290,9 +4290,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4301,7 +4301,7 @@
   type: 1
   quota: 11
   quota_show: 11
-  attr_value: \"{\\"尺码\\":\\"M\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1264
@@ -4311,9 +4311,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4322,7 +4322,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"S\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1265
@@ -4332,9 +4332,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4343,7 +4343,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1266
@@ -4353,9 +4353,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4364,7 +4364,7 @@
   type: 1
   quota: 11
   quota_show: 11
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1267
@@ -4374,9 +4374,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4385,7 +4385,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1268
@@ -4395,9 +4395,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4406,7 +4406,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: \"\\"{\\\\"尺码\\\\":\\\\"L\\\\",\\\\"颜色\\\\":\\\\"渐变蓝\\\\"}\\"\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1269
@@ -4416,9 +4416,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4427,7 +4427,7 @@
   type: 1
   quota: 11
   quota_show: 11
-  attr_value: \"\\"{\\\\"尺码\\\\":\\\\"M\\\\",\\\\"颜色\\\\":\\\\"渐变蓝\\\\"}\\"\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1270
@@ -4437,9 +4437,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4448,7 +4448,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"\\"{\\\\"尺码\\\\":\\\\"S\\\\",\\\\"颜色\\\\":\\\\"渐变蓝\\\\"}\\"\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1271
@@ -4458,9 +4458,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4469,7 +4469,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1272
@@ -4479,9 +4479,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4490,7 +4490,7 @@
   type: 1
   quota: 11
   quota_show: 11
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1273
@@ -4500,9 +4500,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4511,7 +4511,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1274
@@ -4521,9 +4521,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4532,7 +4532,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1275
@@ -4542,9 +4542,9 @@
   sales: 1
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4553,7 +4553,7 @@
   type: 1
   quota: 10
   quota_show: 11
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1276
@@ -4563,9 +4563,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4574,7 +4574,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1277
@@ -4584,9 +4584,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4595,7 +4595,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1278
@@ -4605,9 +4605,9 @@
   sales: 3
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4616,7 +4616,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 11
 - id: 1279
@@ -4626,9 +4626,9 @@
   sales: 2
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4637,7 +4637,7 @@
   type: 0
   quota: 0
   quota_show: 0
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1280
@@ -4647,9 +4647,9 @@
   sales: 0
   price: 119.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4658,7 +4658,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1281
@@ -4668,9 +4668,9 @@
   sales: 0
   price: 119.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4679,7 +4679,7 @@
   type: 1
   quota: 8
   quota_show: 8
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1282
@@ -4689,9 +4689,9 @@
   sales: 0
   price: 119.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4700,7 +4700,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1283
@@ -4710,9 +4710,9 @@
   sales: 1
   price: 200.0
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4721,7 +4721,7 @@
   type: 1
   quota: 6
   quota_show: 7
-  attr_value: \"{\\"尺码\\":\\"L\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 1
 - id: 1284
@@ -4731,9 +4731,9 @@
   sales: 0
   price: 200.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4742,7 +4742,7 @@
   type: 1
   quota: 9
   quota_show: 9
-  attr_value: \"{\\"尺码\\":\\"M\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1285
@@ -4752,9 +4752,9 @@
   sales: 0
   price: 200.0
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4763,7 +4763,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"S\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1286
@@ -4773,9 +4773,9 @@
   sales: 0
   price: 114.0
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4784,7 +4784,7 @@
   type: 3
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1287
@@ -4794,9 +4794,9 @@
   sales: 0
   price: 114.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4805,7 +4805,7 @@
   type: 3
   quota: 9
   quota_show: 9
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 2
 - id: 1288
@@ -4815,9 +4815,9 @@
   sales: 0
   price: 114.0
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4826,7 +4826,7 @@
   type: 3
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1289
@@ -4836,9 +4836,9 @@
   sales: 0
   price: 120.0
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4847,7 +4847,7 @@
   type: 2
   quota: 9
   quota_show: 0
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1290
@@ -4857,9 +4857,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4868,7 +4868,7 @@
   type: 1
   quota: 5
   quota_show: 5
-  attr_value: \"{\\"尺码\\":\\"L\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1291
@@ -4878,9 +4878,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4889,7 +4889,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: \"{\\"尺码\\":\\"M\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1292
@@ -4899,9 +4899,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4910,7 +4910,7 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: \"{\\"尺码\\":\\"S\\",\\"颜色\\":\\"渐变蓝\\"}\"
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1293
@@ -4920,9 +4920,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4931,7 +4931,7 @@
   type: 1
   quota: 5
   quota_show: 5
-  attr_value: '{\"尺码\":\"L\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"L","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1294
@@ -4941,9 +4941,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4952,7 +4952,7 @@
   type: 1
   quota: 7
   quota_show: 7
-  attr_value: '{\"尺码\":\"M\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"M","颜色":"渐变蓝"}'
   is_del: 0
   version: 0
 - id: 1295
@@ -4962,9 +4962,9 @@
   sales: 0
   price: 229.6
   image: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
-  unique: ''
+  unique: ""
   cost: 130.0
-  bar_code: ''
+  bar_code: ""
   ot_price: 288.0
   weight: 0.0
   volume: 0.0
@@ -4973,6 +4973,6 @@
   type: 1
   quota: 1
   quota_show: 1
-  attr_value: '{\"尺码\":\"S\",\"颜色\":\"渐变蓝\"}'
+  attr_value: '{"尺码":"S","颜色":"渐变蓝"}'
   is_del: 0
   version: 0

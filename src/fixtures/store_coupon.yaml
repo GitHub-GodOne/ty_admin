@@ -8,7 +8,7 @@
   use_type: 1
   primary_key: ''
   min_price: 10.0
-  receive_start_time: '2024-10-31 15:40:52'
+  receive_start_time: '2024-10-31T15:40:52'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -18,8 +18,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-10-31 15:40:52'
-  update_time: '2025-05-30 15:31:41'
+  create_time: '2024-10-31T15:40:52'
+  update_time: '2025-05-30T15:31:41'
 - id: 5
   name: 双十一满减
   money: 50.0
@@ -29,7 +29,7 @@
   use_type: 1
   primary_key: ''
   min_price: 150.0
-  receive_start_time: '2024-10-31 15:48:36'
+  receive_start_time: '2024-10-31T15:48:36'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -39,8 +39,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-10-31 15:48:36'
-  update_time: '2025-05-30 15:32:12'
+  create_time: '2024-10-31T15:48:36'
+  update_time: '2025-05-30T15:32:12'
 - id: 6
   name: 周年庆活动
   money: 11.0
@@ -50,7 +50,7 @@
   use_type: 1
   primary_key: ''
   min_price: 188.0
-  receive_start_time: '2024-10-31 15:49:58'
+  receive_start_time: '2024-10-31T15:49:58'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -60,8 +60,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-10-31 15:49:58'
-  update_time: '2025-05-30 15:32:43'
+  create_time: '2024-10-31T15:49:58'
+  update_time: '2025-05-30T15:32:43'
 - id: 7
   name: 新人福利
   money: 6.0
@@ -71,7 +71,7 @@
   use_type: 1
   primary_key: ''
   min_price: 128.0
-  receive_start_time: '2024-11-13 16:37:28'
+  receive_start_time: '2024-11-13T16:37:28'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -81,8 +81,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-13 16:37:28'
-  update_time: '2025-05-30 15:32:13'
+  create_time: '2024-11-13T16:37:28'
+  update_time: '2025-05-30T15:32:13'
 - id: 8
   name: 双十一优惠券
   money: 99999.99
@@ -92,7 +92,7 @@
   use_type: 1
   primary_key: ''
   min_price: 999999.99
-  receive_start_time: '2024-11-14 15:23:27'
+  receive_start_time: '2024-11-14T15:23:27'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -102,8 +102,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-14 15:23:27'
-  update_time: '2025-05-30 15:32:41'
+  create_time: '2024-11-14T15:23:27'
+  update_time: '2025-05-30T15:32:41'
 - id: 9
   name: 限量优惠券
   money: 2.8
@@ -113,18 +113,18 @@
   use_type: 2
   primary_key: '40'
   min_price: 0.0
-  receive_start_time: '2024-11-14 16:30:00'
-  receive_end_time: '2024-11-14 16:40:00'
+  receive_start_time: '2024-11-14T16:30:00'
+  receive_end_time: '2024-11-14T16:40:00'
   is_fixed_time: 1
-  use_start_time: '2024-11-29 00:00:00'
-  use_end_time: '2024-11-30 00:00:00'
+  use_start_time: '2024-11-29T00:00:00'
+  use_end_time: '2024-11-30T00:00:00'
   day: 0
   type: 1
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-14 16:24:55'
-  update_time: '2025-05-30 15:32:15'
+  create_time: '2024-11-14T16:24:55'
+  update_time: '2025-05-30T15:32:15'
 - id: 10
   name: 双十二优惠券
   money: 1.88
@@ -134,7 +134,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-20 11:12:55'
+  receive_start_time: '2024-11-20T11:12:55'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -144,8 +144,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-20 11:12:55'
-  update_time: '2025-05-30 15:32:16'
+  create_time: '2024-11-20T11:12:55'
+  update_time: '2025-05-30T15:32:16'
 - id: 11
   name: 满减优惠卷
   money: 666.66
@@ -155,7 +155,7 @@
   use_type: 1
   primary_key: ''
   min_price: 10000.6
-  receive_start_time: '2024-11-21 15:52:27'
+  receive_start_time: '2024-11-21T15:52:27'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -165,8 +165,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-21 15:52:27'
-  update_time: '2025-05-30 15:32:18'
+  create_time: '2024-11-21T15:52:27'
+  update_time: '2025-05-30T15:32:18'
 - id: 14
   name: 手动领取优惠券
   money: 3.0
@@ -176,7 +176,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-26 16:37:23'
+  receive_start_time: '2024-11-26T16:37:23'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -186,8 +186,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 16:37:23'
-  update_time: '2025-05-30 15:32:20'
+  create_time: '2024-11-26T16:37:23'
+  update_time: '2025-05-30T15:32:20'
 - id: 15
   name: 赠送用户优惠券
   money: 5.0
@@ -197,7 +197,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-26 16:38:03'
+  receive_start_time: '2024-11-26T16:38:03'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -207,8 +207,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 16:38:03'
-  update_time: '2025-05-30 15:32:37'
+  create_time: '2024-11-26T16:38:03'
+  update_time: '2025-05-30T15:32:37'
 - id: 16
   name: 购买商品赠送商品券
   money: 7.0
@@ -218,18 +218,18 @@
   use_type: 2
   primary_key: 40,39
   min_price: 500.0
-  receive_start_time: '2024-11-26 16:39:37'
+  receive_start_time: '2024-11-26T16:39:37'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-26 17:00:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-26T17:00:00'
   day: 0
   type: 3
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 16:39:37'
-  update_time: '2025-05-30 15:32:22'
+  create_time: '2024-11-26T16:39:37'
+  update_time: '2025-05-30T15:32:22'
 - id: 17
   name: 手动领取品类券
   money: 9.0
@@ -239,18 +239,18 @@
   use_type: 3
   primary_key: '289'
   min_price: 300.0
-  receive_start_time: '2024-11-26 16:41:02'
+  receive_start_time: '2024-11-26T16:41:02'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-27 00:00:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-27T00:00:00'
   day: 0
   type: 1
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 16:41:02'
-  update_time: '2025-05-30 15:32:23'
+  create_time: '2024-11-26T16:41:02'
+  update_time: '2025-05-30T15:32:23'
 - id: 18
   name: 购买商品赠送商品券
   money: 7.0
@@ -260,18 +260,18 @@
   use_type: 2
   primary_key: 39,40
   min_price: 500.0
-  receive_start_time: '2024-11-26 17:57:58'
+  receive_start_time: '2024-11-26T17:57:58'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-26 18:05:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-26T18:05:00'
   day: 0
   type: 3
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 17:57:58'
-  update_time: '2024-11-26 17:57:58'
+  create_time: '2024-11-26T17:57:58'
+  update_time: '2024-11-26T17:57:58'
 - id: 19
   name: 购买商品赠送商品券
   money: 10.0
@@ -281,18 +281,18 @@
   use_type: 2
   primary_key: 39,40
   min_price: 500.0
-  receive_start_time: '2024-11-26 18:20:41'
+  receive_start_time: '2024-11-26T18:20:41'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-26 17:40:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-26T17:40:00'
   day: 0
   type: 3
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 18:20:41'
-  update_time: '2025-05-30 15:32:25'
+  create_time: '2024-11-26T18:20:41'
+  update_time: '2025-05-30T15:32:25'
 - id: 20
   name: 购买商品赠送商品券
   money: 10.0
@@ -302,18 +302,18 @@
   use_type: 2
   primary_key: 39,40
   min_price: 500.0
-  receive_start_time: '2024-11-26 18:26:51'
+  receive_start_time: '2024-11-26T18:26:51'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-26 18:40:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-26T18:40:00'
   day: 0
   type: 3
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 18:26:51'
-  update_time: '2025-05-30 15:32:26'
+  create_time: '2024-11-26T18:26:51'
+  update_time: '2025-05-30T15:32:26'
 - id: 21
   name: 后台赠送用户优惠券
   money: 1.0
@@ -323,18 +323,18 @@
   use_type: 2
   primary_key: '43'
   min_price: 0.0
-  receive_start_time: '2024-11-26 18:47:54'
+  receive_start_time: '2024-11-26T18:47:54'
   receive_end_time: null
   is_fixed_time: 0
-  use_start_time: '2024-11-26 18:48:05'
-  use_end_time: '2024-11-27 18:48:05'
+  use_start_time: '2024-11-26T18:48:05'
+  use_end_time: '2024-11-27T18:48:05'
   day: 1
   type: 1
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 18:47:54'
-  update_time: '2025-05-30 15:32:27'
+  create_time: '2024-11-26T18:47:54'
+  update_time: '2025-05-30T15:32:27'
 - id: 22
   name: 新人券
   money: 1.0
@@ -344,7 +344,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-26 18:56:03'
+  receive_start_time: '2024-11-26T18:56:03'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -354,8 +354,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 18:56:03'
-  update_time: '2025-05-30 15:32:29'
+  create_time: '2024-11-26T18:56:03'
+  update_time: '2025-05-30T15:32:29'
 - id: 23
   name: 限时券
   money: 15.0
@@ -365,18 +365,18 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-26 18:57:44'
+  receive_start_time: '2024-11-26T18:57:44'
   receive_end_time: null
   is_fixed_time: 1
-  use_start_time: '2024-11-26 00:00:00'
-  use_end_time: '2024-11-26 19:00:00'
+  use_start_time: '2024-11-26T00:00:00'
+  use_end_time: '2024-11-26T19:00:00'
   day: 0
   type: 1
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 18:57:44'
-  update_time: '2025-05-30 15:32:31'
+  create_time: '2024-11-26T18:57:44'
+  update_time: '2025-05-30T15:32:31'
 - id: 24
   name: 系统自动取消订单退还优惠券
   money: 20.0
@@ -386,7 +386,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2024-11-26 19:09:19'
+  receive_start_time: '2024-11-26T19:09:19'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -396,8 +396,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2024-11-26 19:09:19'
-  update_time: '2025-05-30 15:32:32'
+  create_time: '2024-11-26T19:09:19'
+  update_time: '2025-05-30T15:32:32'
 - id: 27
   name: 商品券
   money: 4.0
@@ -407,7 +407,7 @@
   use_type: 2
   primary_key: '42'
   min_price: 0.0
-  receive_start_time: '2025-03-07 14:56:24'
+  receive_start_time: '2025-03-07T14:56:24'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -417,8 +417,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2025-03-07 14:56:24'
-  update_time: '2025-05-30 15:32:34'
+  create_time: '2025-03-07T14:56:24'
+  update_time: '2025-05-30T15:32:34'
 - id: 28
   name: 商品赠送券
   money: 3.0
@@ -428,7 +428,7 @@
   use_type: 2
   primary_key: '58'
   min_price: 0.0
-  receive_start_time: '2025-04-08 12:07:30'
+  receive_start_time: '2025-04-08T12:07:30'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -438,8 +438,8 @@
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2025-04-08 12:07:30'
-  update_time: '2025-05-30 15:32:35'
+  create_time: '2025-04-08T12:07:30'
+  update_time: '2025-05-30T15:32:35'
 - id: 29
   name: 五一优惠券
   money: 5.5
@@ -449,18 +449,18 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2025-04-23 12:08:34'
+  receive_start_time: '2025-04-23T12:08:34'
   receive_end_time: null
   is_fixed_time: 0
-  use_start_time: '2025-04-30 10:51:45'
-  use_end_time: '2025-05-10 10:51:45'
+  use_start_time: '2025-04-30T10:51:45'
+  use_end_time: '2025-05-10T10:51:45'
   day: 10
   type: 1
   sort: 0
   status: 1
   is_del: 1
-  create_time: '2025-04-23 12:08:34'
-  update_time: '2025-05-30 15:32:39'
+  create_time: '2025-04-23T12:08:34'
+  update_time: '2025-05-30T15:32:39'
 - id: 30
   name: 周年庆
   money: 3.0
@@ -470,7 +470,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2025-05-30 15:33:28'
+  receive_start_time: '2025-05-30T15:33:28'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -480,8 +480,8 @@
   sort: 0
   status: 1
   is_del: 0
-  create_time: '2025-05-30 15:33:28'
-  update_time: '2025-05-30 15:33:28'
+  create_time: '2025-05-30T15:33:28'
+  update_time: '2025-05-30T15:33:28'
 - id: 31
   name: 购物节
   money: 5.0
@@ -491,7 +491,7 @@
   use_type: 1
   primary_key: ''
   min_price: 0.0
-  receive_start_time: '2025-05-30 16:02:52'
+  receive_start_time: '2025-05-30T16:02:52'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -501,8 +501,8 @@
   sort: 0
   status: 1
   is_del: 0
-  create_time: '2025-05-30 16:02:52'
-  update_time: '2025-06-21 11:08:51'
+  create_time: '2025-05-30T16:02:52'
+  update_time: '2025-06-21T11:08:51'
 - id: 32
   name: 商城优惠券
   money: 10.0
@@ -512,7 +512,7 @@
   use_type: 1
   primary_key: ''
   min_price: 100.0
-  receive_start_time: '2025-05-30 16:03:46'
+  receive_start_time: '2025-05-30T16:03:46'
   receive_end_time: null
   is_fixed_time: 0
   use_start_time: null
@@ -522,5 +522,5 @@
   sort: 0
   status: 1
   is_del: 0
-  create_time: '2025-05-30 16:03:46'
-  update_time: '2025-05-30 16:03:46'
+  create_time: '2025-05-30T16:03:46'
+  update_time: '2025-05-30T16:03:46'
