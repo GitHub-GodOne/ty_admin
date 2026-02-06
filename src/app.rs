@@ -181,8 +181,8 @@ impl Hooks for App {
             .await?;
         db::seed::<store_seckill_manger::ActiveModel>(&ctx.db, &base.join("store_seckill_manger.yaml").display().to_string())
             .await?;
-        // db::seed::<system_admin::ActiveModel>(&ctx.db, &base.join("system_admin.yaml").display().to_string())
-        //     .await?;
+        db::seed::<system_admin::ActiveModel>(&ctx.db, &base.join("system_admin.yaml").display().to_string())
+            .await?;
         db::seed::<system_attachment::ActiveModel>(&ctx.db, &base.join("system_attachment.yaml").display().to_string())
             .await?;
         db::seed::<system_city::ActiveModel>(&ctx.db, &base.join("system_city.yaml").display().to_string())
@@ -205,28 +205,28 @@ impl Hooks for App {
             .await?;
         db::seed::<system_store::ActiveModel>(&ctx.db, &base.join("system_store.yaml").display().to_string())
             .await?;
-        // db::seed::<system_user_level::ActiveModel>(&ctx.db, &base.join("system_user_level.yaml").display().to_string())
-        //     .await?;
+        db::seed::<system_user_level::ActiveModel>(&ctx.db, &base.join("system_user_level.yaml").display().to_string())
+            .await?;
         db::seed::<template_message::ActiveModel>(&ctx.db, &base.join("template_message.yaml").display().to_string())
             .await?;
-        // db::seed::<user::ActiveModel>(&ctx.db, &base.join("user.yaml").display().to_string())
-        //     .await?;
+        db::seed::<user::ActiveModel>(&ctx.db, &base.join("user.yaml").display().to_string())
+            .await?;
         db::seed::<user_address::ActiveModel>(&ctx.db, &base.join("user_address.yaml").display().to_string())
             .await?;
         db::seed::<user_bill::ActiveModel>(&ctx.db, &base.join("user_bill.yaml").display().to_string())
             .await?;
         db::seed::<user_experience_record::ActiveModel>(&ctx.db, &base.join("user_experience_record.yaml").display().to_string())
             .await?;
-        // db::seed::<user_group::ActiveModel>(&ctx.db, &base.join("user_group.yaml").display().to_string())
-        //     .await?;
+        db::seed::<user_group::ActiveModel>(&ctx.db, &base.join("user_group.yaml").display().to_string())
+            .await?;
         db::seed::<user_integral_record::ActiveModel>(&ctx.db, &base.join("user_integral_record.yaml").display().to_string())
             .await?;
         db::seed::<user_level::ActiveModel>(&ctx.db, &base.join("user_level.yaml").display().to_string())
             .await?;
         db::seed::<user_sign::ActiveModel>(&ctx.db, &base.join("user_sign.yaml").display().to_string())
             .await?;
-        // db::seed::<user_tag::ActiveModel>(&ctx.db, &base.join("user_tag.yaml").display().to_string())
-        //     .await?;
+        db::seed::<user_tag::ActiveModel>(&ctx.db, &base.join("user_tag.yaml").display().to_string())
+            .await?;
         db::seed::<wechat_program_public_temp::ActiveModel>(&ctx.db, &base.join("wechat_program_public_temp.yaml").display().to_string())
             .await?;
         db::seed::<wechat_reply::ActiveModel>(&ctx.db, &base.join("wechat_reply.yaml").display().to_string())
