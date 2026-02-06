@@ -1,0 +1,109 @@
+---
+- id: 37
+  name: 移动端_首页中部推荐banner图
+  info: 移动端_首页中部推荐banner图
+  form_id: 95
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:24:35'
+- id: 48
+  name: 移动端_首页banner滚动图
+  info: 移动端_首页banner滚动图
+  form_id: 95
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:24:06'
+- id: 52
+  name: 移动端_首页_精品推荐benner图
+  info: 移动端_首页_精品推荐benner图
+  form_id: 91
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:11:47'
+- id: 53
+  name: 移动端_订单详情状态图
+  info: 移动端_订单详情状态图
+  form_id: 115
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:23:25'
+- id: 54
+  name: 移动端_个人中心功能菜单
+  info: 移动端_个人中心功能菜单
+  form_id: 89
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:22:22'
+- id: 55
+  name: 移动端_我的_签到天数配置
+  info: 移动端_我的_签到天数配置
+  form_id: 87
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:21:38'
+- id: 57
+  name: 移动端_首页_热门榜单推荐图片
+  info: 移动端_首页_热门榜单推荐图片
+  form_id: 94
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:11:34'
+- id: 58
+  name: 移动端_首页_首发新品推荐图片
+  info: 移动端_首页_首发新品推荐图片
+  form_id: 92
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:11:18'
+- id: 59
+  name: 移动端_首页活动_促销单品推荐图片
+  info: 移动端_首页活动_促销单品推荐图片
+  form_id: 93
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:10:29'
+- id: 60
+  name: 移动端_我的推广_分享海报
+  info: 移动端_我的推广_分享海报
+  form_id: 113
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:10:08'
+- id: 62
+  name: 移动端_充值金额设置
+  info: 移动端_设置充值金额额度选择
+  form_id: 103
+  create_time: '2020-05-15 10:38:22'
+  update_time: '2021-02-24 18:08:56'
+- id: 65
+  name: 移动端_个人中心轮播图
+  info: 移动端_个人中心轮播图
+  form_id: 90
+  create_time: '2020-06-02 10:25:03'
+  update_time: '2021-02-24 17:38:12'
+- id: 67
+  name: 移动端_首页导航
+  info: 移动端_首页导航
+  form_id: 96
+  create_time: '2020-06-02 14:54:41'
+  update_time: '2021-02-24 17:37:59'
+- id: 68
+  name: 移动端_首页滚动新闻_二期配置
+  info: 移动端_首页滚动新闻_二期配置
+  form_id: 97
+  create_time: '2020-06-02 18:00:47'
+  update_time: '2021-02-24 18:08:45'
+- id: 70
+  name: 移动端_首页超值爆款区域
+  info: 移动端_首页超值爆款渔区
+  form_id: 99
+  create_time: '2020-06-02 18:01:10'
+  update_time: '2021-02-24 16:43:57'
+- id: 71
+  name: 移动端_热门搜索
+  info: 移动端_热门搜索
+  form_id: 102
+  create_time: '2020-06-03 11:34:42'
+  update_time: '2021-02-24 16:43:36'
+- id: 72
+  name: WEBPC管理端_登录页轮播图
+  info: WEBPC管理端_登录页轮播图
+  form_id: 114
+  create_time: '2020-07-29 18:16:11'
+  update_time: '2021-02-24 16:42:50'
+- id: 73
+  name: 移动端_拼团列表banner
+  info: 移动端_拼团列表banner
+  form_id: 136
+  create_time: '2021-05-08 10:13:24'
+  update_time: '2021-05-08 10:13:24'

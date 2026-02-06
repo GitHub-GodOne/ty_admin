@@ -1,0 +1,17 @@
+---
+- id: 1
+  coupon_id: 31
+  cid: 0
+  uid: 41
+  name: 购物节
+  money: 5.0
+  min_price: 0.0
+  type: receive
+  status: 0
+  create_time: '2025-06-21 11:08:51'
+  update_time: '2025-06-21 17:59:00'
+  start_time: '2025-06-21 11:08:51'
+  end_time: '2025-07-01 11:08:51'
+  use_time: null
+  use_type: 1
+  primary_key: null

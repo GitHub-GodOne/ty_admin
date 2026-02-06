@@ -1,0 +1,61 @@
+---
+- id: 1
+  uid: 41
+  level_id: 3
+  grade: 3
+  status: 1
+  mark: 尊敬的用户 d18a13df172f,在2025-06-06 11:03:41管理员调整会员等级成为白银会员
+  remind: 0
+  is_del: 0
+  discount: 85
+  create_time: '2025-06-06 11:03:41'
+  update_time: '2025-06-06 11:03:41'
+  expired_time: null
+- id: 2
+  uid: 41
+  level_id: 4
+  grade: 4
+  status: 1
+  mark: 尊敬的用户 d18a13df172f, 在2025-06-16 17:03:00您升级为为黄金会员会员
+  remind: 0
+  is_del: 1
+  discount: 80
+  create_time: '2025-06-16 17:03:00'
+  update_time: '2025-06-21 10:49:44'
+  expired_time: null
+- id: 3
+  uid: 41
+  level_id: 2
+  grade: 2
+  status: 1
+  mark: 尊敬的用户 d18a13df172f,在2025-06-21 10:51:55管理员调整会员等级成为青铜会员
+  remind: 0
+  is_del: 0
+  discount: 90
+  create_time: '2025-06-21 10:51:55'
+  update_time: '2025-06-21 10:51:55'
+  expired_time: null
+- id: 4
+  uid: 41
+  level_id: 4
+  grade: 4
+  status: 1
+  mark: 尊敬的用户 夏至已至, 在2025-06-21 11:57:00您升级为为黄金会员会员
+  remind: 0
+  is_del: 0
+  discount: 80
+  create_time: '2025-06-21 11:57:00'
+  update_time: '2025-06-21 11:57:00'
+  expired_time: null
+- id: 5
+  uid: 41
+  level_id: 7
+  grade: 5
+  status: 1
+  mark: 尊敬的用户 夏至已至, 在2025-06-21 16:31:00您升级为为铂金会员会员
+  remind: 0
+  is_del: 0
+  discount: 70
+  create_time: '2025-06-21 16:31:00'
+  update_time: '2025-06-21 16:31:00'
+  expired_time: null

@@ -1,0 +1,57 @@
+---
+- id: 2
+  account: hzw
+  pwd: 9fRjpADNMf4=
+  real_name: 念念猫
+  roles: '1'
+  last_ip: 124.116.164.42
+  update_time: '2025-05-20 15:01:09'
+  create_time: '2024-06-17 10:39:53'
+  login_count: 15
+  level: 1
+  status: 1
+  is_del: 0
+  phone: null
+  is_sms: 0
+- id: 5
+  account: demo
+  pwd: Rb/KmlSjAxI=
+  real_name: 演示账号
+  roles: '5'
+  last_ip: 1.83.211.201
+  update_time: '2025-02-27 12:37:58'
+  create_time: '2021-06-09 11:21:42'
+  login_count: 383
+  level: 1
+  status: 1
+  is_del: 0
+  phone: '18888888888'
+  is_sms: 0
+- id: 6
+  account: admin
+  pwd: L8qdg72wbeQ=
+  real_name: 超级管理员
+  roles: '1'
+  last_ip: 192.168.31.155
+  update_time: '2025-06-24 14:58:27'
+  create_time: '2021-07-16 09:59:12'
+  login_count: 1878
+  level: 1
+  status: 1
+  is_del: 0
+  phone: '18292417675'
+  is_sms: 0
+- id: 7
+  account: test
+  pwd: xOJtHvvfyFo=
+  real_name: 小月
+  roles: '6'
+  last_ip: 192.168.31.144
+  update_time: '2025-06-21 14:59:57'
+  create_time: '2024-11-25 09:27:28'
+  login_count: 4
+  level: 1
+  status: 1
+  is_del: 0
+  phone: '18392028290'
+  is_sms: 0

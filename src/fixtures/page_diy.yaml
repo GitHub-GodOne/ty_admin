@@ -1,0 +1,33 @@
+---
+- id: 217
+  version: ''
+  name: 小程序提审模版
+  title: 首页
+  cover_image: ''
+  template_name: ''
+  value: '{\"1748329511227002\":{\"typeConfig\":{\"tabTitle\":\"显示内容\",\"activeValue\":[0,1,2],\"name\":\"rowsNum\",\"title\":\"展示信息\",\"list\":[{\"val\":\"商品名称\"},{\"val\":\"商品价格\"},{\"val\":\"已售数量\"}]},\"lrConfig\":{\"val\":12,\"min\":0,\"max\":15,\"title\":\"左右边距\"},\"bgStyle\":{\"val\":7,\"tabTitle\":\"圆角设置\",\"min\":0,\"max\":30,\"name\":\"bgStyle\",\"title\":\"背景圆角\"},\"goodsList\":{\"max\":20,\"list\":[{\"specType\":true,\"addTime\":1748595861,\"activity\":\"0,
+    1, 2, 3\",\"otPrice\":\"126.00\",\"merUse\":false,\"isPostage\":false,\"isSub\":false,\"sales\":0,\"isBest\":true,\"content\":\"<p><img
+    src=\\"http://img.alicdn.com/imgextra/i3/669816508/O1CN01qBAmSo1xwiefptu4N_!!669816508.jpg\\"
+    /><img src=\\"http://img.alicdn.com/imgextra/i2/669816508/O1CN01Joz6sd1xwiehNBl73_!!669816508.jpg\\"
+    /><img src=\\"http://img.alicdn.com/imgextra/i3/669816508/O1CN01PuijIN1xwiZD0DdBJ_!!669816508.jpg\\"
+    /><img src=\\"http://img.alicdn.com/imgextra/i2/669816508/O1CN01Z5CDZi1xwiYIgPFze_!!669816508.jpg\\"
+    /><i...'
+  add_time: '2024-12-16 16:29:42'
+  update_time: '2025-06-06 15:02:55'
+  status: 0
+  type: 0
+  is_show: 1
+  is_bg_color: 1
+  is_bg_pic: 0
+  is_diy: 0
+  color_picker: '#f5f5f5'
+  bg_pic: ''
+  bg_tab_val: 0
+  is_del: 0
+  return_address: ''
+  title_bg_color: '#fff'
+  title_color: '#000000'
+  service_status: 1
+  mer_id: 0
+  is_default: 0
+  text_position: 0

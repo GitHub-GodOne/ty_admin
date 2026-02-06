@@ -1,0 +1,37 @@
+---
+- id: 26
+  name: 上午场
+  start_time: 8
+  end_time: 12
+  img: null
+  silder_imgs: '[{\"attId\":1469,\"name\":\"早餐.png\",\"attDir\":\"\",\"sattDir\":\"crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png\",\"attSize\":\"1197825\",\"attType\":\"png\",\"pid\":0,\"imageType\":1,\"createTime\":\"2025-05-30
+    15:28:02\",\"updateTime\":\"2025-05-30 15:28:02\",\"isCk\":false,\"isSelect\":true,\"num\":1}]'
+  sort: null
+  status: '''1'''
+  create_time: '2025-05-30 15:28:27'
+  update_time: null
+  is_del: 0
+- id: 27
+  name: 下午场
+  start_time: 12
+  end_time: 18
+  img: null
+  silder_imgs: '[{\"attId\":1470,\"name\":\"1748590102959.png\",\"attDir\":\"\",\"sattDir\":\"crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png\",\"attSize\":\"643485\",\"attType\":\"png\",\"pid\":0,\"imageType\":1,\"createTime\":\"2025-05-30
+    15:28:22\",\"updateTime\":\"2025-05-30 15:28:22\",\"localImg\":\"\",\"isCk\":false,\"isSelect\":true,\"num\":1}]'
+  sort: null
+  status: '''1'''
+  create_time: '2025-05-30 15:28:46'
+  update_time: null
+  is_del: 0
+- id: 28
+  name: 午夜场
+  start_time: 18
+  end_time: 22
+  img: null
+  silder_imgs: '[{\"attId\":1471,\"name\":\"1748590167423.png\",\"attDir\":\"\",\"sattDir\":\"crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png\",\"attSize\":\"440215\",\"attType\":\"png\",\"pid\":0,\"imageType\":1,\"createTime\":\"2025-05-30
+    15:29:27\",\"updateTime\":\"2025-05-30 15:29:27\",\"localImg\":\"\",\"isCk\":false,\"isSelect\":true,\"num\":1}]'
+  sort: null
+  status: '''1'''
+  create_time: '2025-05-30 15:29:31'
+  update_time: null
+  is_del: 0

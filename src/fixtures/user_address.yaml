@@ -1,0 +1,33 @@
+---
+- id: 1
+  uid: 41
+  real_name: 张
+  phone: '17303461189'
+  province: 北京市
+  city: 北京市
+  city_id: 203
+  district: 西城区
+  detail: 西城大街52号
+  post_code: 0
+  longitude: '0'
+  latitude: '0'
+  is_default: 0
+  is_del: 0
+  create_time: '2025-06-16 15:37:47'
+  update_time: '2025-06-21 11:05:05'
+- id: 2
+  uid: 41
+  real_name: 月月
+  phone: '15829041959'
+  province: 陕西省
+  city: 咸阳市
+  city_id: 652583
+  district: 秦都区
+  detail: 西咸大厦
+  post_code: 0
+  longitude: '0'
+  latitude: '0'
+  is_default: 1
+  is_del: 0
+  create_time: '2025-06-21 11:05:05'
+  update_time: '2025-06-21 11:05:05'

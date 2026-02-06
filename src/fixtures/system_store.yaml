@@ -1,0 +1,31 @@
+---
+- id: 3
+  name: 大粽子杂货店
+  introduction: 大粽子杂货店
+  phone: '18292417675'
+  address: 北京市,北京市,东城区
+  detailed_address: 长安街1号
+  image: crmebimage/public/product/2025/05/30/f6dc9f3df7b947eabcbe1419f3fcc83ecslaa1ghjs.png
+  latitude: '108.705567'
+  longitude: '34.329028'
+  valid_time: ''
+  day_time: 08:00:00,23:00:00
+  is_show: 1
+  is_del: 0
+  create_time: '2024-11-28 16:57:41'
+  update_time: '2025-05-30 16:14:50'
+- id: 4
+  name: 小丸子提货点
+  introduction: 零售提货
+  phone: '15829041959'
+  address: 陕西省,西安市,雁塔区
+  detailed_address: 丈八一路汇鑫IBC
+  image: crmebimage/public/content/2025/05/30/f445c2913ade47c59ec8141fe49e57bcus892ib3ld.png
+  latitude: '108.885791'
+  longitude: '34.197719'
+  valid_time: ''
+  day_time: 08:00:00,14:00:00
+  is_show: 1
+  is_del: 0
+  create_time: '2024-12-03 10:19:14'
+  update_time: '2025-05-30 16:14:39'

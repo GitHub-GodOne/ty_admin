@@ -1,0 +1,15 @@
+---
+- id: 1
+  name: 全国包邮
+  type: 0
+  appoint: 0
+  sort: 99
+  create_time: '2021-03-08 11:06:55'
+  update_time: '2021-12-25 12:16:22'
+- id: 2
+  name: 西安有邮费
+  type: 1
+  appoint: 1
+  sort: 0
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'

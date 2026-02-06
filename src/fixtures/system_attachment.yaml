@@ -1,0 +1,1541 @@
+---
+- att_id: 1411
+  name: 鞋子分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d71da6279f7141f6a39a11a2bdb26d8f01hxx09ow5.jpg
+  att_size: '5843'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:01:43'
+  update_time: '2025-05-30 11:01:43'
+- att_id: 1412
+  name: 分类女装.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/7dc9075cc9554eab915fbd2e6798aec9ckn2fawqdk.jpg
+  att_size: '4338'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:01:43'
+  update_time: '2025-05-30 11:01:43'
+- att_id: 1413
+  name: 分类男装.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/19b9b999408f4782a6b60029a32b054aqij7q3loyd.png
+  att_size: '30301'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:01:43'
+  update_time: '2025-05-30 11:01:43'
+- att_id: 1414
+  name: 分类童鞋.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/0095dabf00964e1d97c2c1d413da85e9750u8b4ihu.png
+  att_size: '33133'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:01:43'
+  update_time: '2025-05-30 11:01:43'
+- att_id: 1415
+  name: 鞋子ABC.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/f6dc9f3df7b947eabcbe1419f3fcc83ecslaa1ghjs.png
+  att_size: '468514'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:01:43'
+  update_time: '2025-05-30 11:01:43'
+- att_id: 1416
+  name: 帽子分类.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/8e666ff35fff4c1380d8da2be7c25b0aeqv44s16z2.png
+  att_size: '14984'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:03:56'
+  update_time: '2025-05-30 11:03:56'
+- att_id: 1417
+  name: 高跟鞋分类.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3a6b27202e394256b00ed63abceb112am0hsu7o3j7.png
+  att_size: '7634'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:03:56'
+  update_time: '2025-05-30 11:03:56'
+- att_id: 1418
+  name: 家居生活分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ea3938796c714557ab2365c33ccac1999m1wmz3x3t.jpg
+  att_size: '11698'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:06:18'
+  update_time: '2025-05-30 11:06:18'
+- att_id: 1419
+  name: 家居生活出行必备分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3275dc1280d94fe1ac698b2ecf365c66sssx1wf14y.jpg
+  att_size: '6041'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:06:18'
+  update_time: '2025-05-30 11:06:18'
+- att_id: 1420
+  name: 家居生活枕头分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/bbc241159cb64e2ba1e4b22c44e0f33bhypodgkt40.jpg
+  att_size: '5568'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:06:18'
+  update_time: '2025-05-30 11:06:18'
+- att_id: 1421
+  name: 家居生活箱包分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a0d690e249684595a13acad443c4adf59aj7336ihr.jpg
+  att_size: '5619'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:06:18'
+  update_time: '2025-05-30 11:06:18'
+- att_id: 1422
+  name: 骑行配件.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/9622ccbe6f13413e96eae535e1b66c1ftvdxxdvgp2.jpg
+  att_size: '6409'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:09:51'
+  update_time: '2025-05-30 11:09:51'
+- att_id: 1423
+  name: 瑜伽.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/0444e2937759427ba014e02805c104d5phxkta5vnp.jpg
+  att_size: '4912'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:09:51'
+  update_time: '2025-05-30 11:09:51'
+- att_id: 1424
+  name: 游泳装备.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a804a1ed550f4fcf9ba17cb57e36b275eypsw3kbj5.jpg
+  att_size: '4713'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:09:51'
+  update_time: '2025-05-30 11:09:51'
+- att_id: 1425
+  name: 1748574635171.png
+  att_dir: ''
+  satt_dir: crmebimage/public/store/2025/05/30/612973ce55a44cf0a3f3c7e8f01b7803w0ufnc514y.png
+  att_size: '10993'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:10:34'
+  update_time: '2025-05-30 11:10:34'
+- att_id: 1426
+  name: 工具.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/306a1638d9f643a3b2a62f8a0d0e5961czy1xb18hf.jpg
+  att_size: '3289'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1427
+  name: 美容仪.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/72e6f24446bf4009b609dbb64a5b111elq0hmw4m50.jpg
+  att_size: '4113'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1428
+  name: 香水.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ff407bcd9f7e45669366bbd3452235a2wqohea7q7x.jpg
+  att_size: '5341'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1429
+  name: 清洁仪.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/81df54e6c04447a7b0e8393de5fbbd8ct7chmjuny9.jpg
+  att_size: '5551'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1430
+  name: 修容.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/edc1b0c819d54f09ac21e6ff26f63a253cg8v0kcul.png
+  att_size: '12419'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1431
+  name: 美妆个护.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/7b5124a73d20479f95281d3de88a49e0t5ffdq8g0y.png
+  att_size: '11443'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:15:03'
+  update_time: '2025-05-30 11:15:03'
+- att_id: 1432
+  name: 音响.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ae4dfe05ea1e42a5a7255e1614d669c78mhdlrhqvk.jpg
+  att_size: '5427'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:52:16'
+  update_time: '2025-05-30 11:52:16'
+- att_id: 1433
+  name: 数码家电.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/4d490049668b42b0ad374e8b868342038el4qo1zmv.png
+  att_size: '16379'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:52:16'
+  update_time: '2025-05-30 11:52:16'
+- att_id: 1434
+  name: 按摩仪.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/baef183c828042a7b4db49fc4253a8d7pht1z0n461.jpg
+  att_size: '3875'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:52:16'
+  update_time: '2025-05-30 11:52:16'
+- att_id: 1435
+  name: 游戏机.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/065644c8a9fb4dd7974eb8a2aab0968chdburiknjk.jpg
+  att_size: '7062'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 11:52:16'
+  update_time: '2025-05-30 11:52:16'
+- att_id: 1436
+  name: 日用文创.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/374b2480791f4abdbd15252f8afc95f2bme3rgr81f.jpg
+  att_size: '1519'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:40:42'
+  update_time: '2025-05-30 14:40:42'
+- att_id: 1437
+  name: 日用杂货.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a10fff4ffa944e15b4d351df9407ce4f6etk3hzw4f.png
+  att_size: '215666'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:40:42'
+  update_time: '2025-05-30 14:40:42'
+- att_id: 1438
+  name: 纸品湿巾.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/e9e93bfe8405409eb5343e440eadd99b9st8jlsh4x.png
+  att_size: '147901'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:40:42'
+  update_time: '2025-05-30 14:40:42'
+- att_id: 1439
+  name: 1748587261871.png
+  att_dir: ''
+  satt_dir: crmebimage/public/store/2025/05/30/a7825c6a9dfb42f291b44352fcb81fc51qud7pbgaz.png
+  att_size: '138405'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:41:01'
+  update_time: '2025-05-30 14:41:01'
+- att_id: 1440
+  name: 厨房电器.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/71b3f33bfbb04b25897f0d1f3faa281emau8s20vn8.png
+  att_size: '26392'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:44:01'
+  update_time: '2025-05-30 14:44:01'
+- att_id: 1441
+  name: 破壁机.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/6943a40560bc4cd2990c418725fddbbdf4d0ewhce9.jpg
+  att_size: '4924'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:44:01'
+  update_time: '2025-05-30 14:44:01'
+- att_id: 1442
+  name: 炸锅.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3489731f23544647aebad17cd242ad60354p63z0av.jpg
+  att_size: '6320'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:44:01'
+  update_time: '2025-05-30 14:44:01'
+- att_id: 1443
+  name: 母婴专区.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/929741df9f1640319bd577c195cfcb03wl574zcffs.png
+  att_size: '33796'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:47:54'
+  update_time: '2025-05-30 14:47:54'
+- att_id: 1444
+  name: 腰凳.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ccd013b6ecb14bb78d4e4a58cad0c5d242dukhbti1.png
+  att_size: '25249'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:48:31'
+  update_time: '2025-05-30 14:48:31'
+- att_id: 1445
+  name: 奶瓶.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/6cabbe15a1294dce984a7215e2a4f35cc1jdd4gy65.png
+  att_size: '19551'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:48:31'
+  update_time: '2025-05-30 14:48:31'
+- att_id: 1446
+  name: 玩具.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/153464ade9a044c197fcf80032ee01a4ixxppzo7nt.png
+  att_size: '30691'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:48:31'
+  update_time: '2025-05-30 14:48:31'
+- att_id: 1447
+  name: 黄金.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a50002a908c245b086755d80371743333glh6cfjzl.png
+  att_size: '36450'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:56:31'
+  update_time: '2025-05-30 14:56:31'
+- att_id: 1448
+  name: 青铜.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/7d0d57f00e54415fa1eab20f6704415frwu3t11i5y.png
+  att_size: '32003'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:56:31'
+  update_time: '2025-05-30 14:56:31'
+- att_id: 1449
+  name: 普通会员.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/5e59dfa3263b4236af27c452ad8d2f73ebymt8fegc.png
+  att_size: '33086'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:56:31'
+  update_time: '2025-05-30 14:56:31'
+- att_id: 1450
+  name: 普通.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/6f23684a773b46dcb6626b012551ff8cm8ygqkrl56.png
+  att_size: '33875'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:56:31'
+  update_time: '2025-05-30 14:56:31'
+- att_id: 1451
+  name: 钻石.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/662dda2b3e754e8c8bb3af90835fe517ocgi9xku84.png
+  att_size: '35611'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:56:31'
+  update_time: '2025-05-30 14:56:31'
+- att_id: 1452
+  name: 1748588279668.png
+  att_dir: ''
+  satt_dir: crmebimage/public/user/2025/05/30/4acd024b82a141649cd440a2b2eaadc44un1zxh7l7.png
+  att_size: '33875'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 14:57:59'
+  update_time: '2025-05-30 14:57:59'
+- att_id: 1453
+  name: 生活1.jpeg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/47c8c25b138e412b81bb9ae37535becbt344udsryc.jpeg
+  att_size: '311017'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:07:12'
+  update_time: '2025-05-30 15:07:12'
+- att_id: 1454
+  name: 生活.jpeg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d567410dd8d648d48b48233cd8927003xoj2sf9g71.jpeg
+  att_size: '237698'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:07:12'
+  update_time: '2025-05-30 15:07:12'
+- att_id: 1455
+  name: 卡通3.jpeg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/bcbf29f6946d4018a3becfe3fae8ee5efwlhmn3ekv.jpeg
+  att_size: '261786'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:07:46'
+  update_time: '2025-05-30 15:07:46'
+- att_id: 1456
+  name: 风景.jpeg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/4264babd4dad418496a4cc034d77bf64mahxhclt3q.jpeg
+  att_size: '145741'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:07:46'
+  update_time: '2025-05-30 15:07:46'
+- att_id: 1457
+  name: 1748588985521.png
+  att_dir: ''
+  satt_dir: crmebimage/public/store/2025/05/30/7b3d97d7821a40f7bb618bd8dd9189ea0lubmy29hs.png
+  att_size: '227375'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:09:45'
+  update_time: '2025-05-30 15:09:45'
+- att_id: 1458
+  name: 345.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/32dce0ca9e2149619683d501392322465setzh6arg.png
+  att_size: '446872'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:11:09'
+  update_time: '2025-05-30 15:11:09'
+- att_id: 1459
+  name: 789.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d198aa04ae7446d58343396e11f08ab9ce0130oepf.png
+  att_size: '316257'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:11:09'
+  update_time: '2025-05-30 15:11:09'
+- att_id: 1460
+  name: 678.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/cc4fc41036074c7197c0a52b28b6ff2c1wspff21tk.png
+  att_size: '232754'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:11:09'
+  update_time: '2025-05-30 15:11:09'
+- att_id: 1461
+  name: 运营3.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/6b2343a45e7141aabb1ae477018eade17avo2gy0g9.png
+  att_size: '188520'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:02'
+  update_time: '2025-05-30 15:16:02'
+- att_id: 1462
+  name: 运营.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/7f7d5ad66d38491ca8c636aa0978b31d01xqrmrd88.png
+  att_size: '598724'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:02'
+  update_time: '2025-05-30 15:16:02'
+- att_id: 1463
+  name: 运营1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d0cbc3eda6ce456b974385d1672b88695niva5d35z.png
+  att_size: '560915'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:03'
+  update_time: '2025-05-30 15:16:03'
+- att_id: 1464
+  name: 运营4.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c2682e7e42374ab6961be9697cd512fdv4xjfnzaoo.png
+  att_size: '487235'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:03'
+  update_time: '2025-05-30 15:16:03'
+- att_id: 1465
+  name: 运营6.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ff23ee4316954967b8c3cfc1c42da81co5bdt90m0p.jpg
+  att_size: '602903'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:03'
+  update_time: '2025-05-30 15:16:03'
+- att_id: 1466
+  name: 运营5.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/9b5571c16a4a47bb95cc1af5b2f09e21xf7nsub0uc.png
+  att_size: '617308'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:16:03'
+  update_time: '2025-05-30 15:16:03'
+- att_id: 1467
+  name: 1748589626119.png
+  att_dir: ''
+  satt_dir: crmebimage/public/content/2025/05/30/31605878bf6e4ebdb7b6598abfd3ffefovpec6v6b1.png
+  att_size: '496228'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:20:25'
+  update_time: '2025-05-30 15:20:25'
+- att_id: 1468
+  name: 1748589792019.png
+  att_dir: ''
+  satt_dir: crmebimage/public/content/2025/05/30/f445c2913ade47c59ec8141fe49e57bcus892ib3ld.png
+  att_size: '447812'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:23:11'
+  update_time: '2025-05-30 15:23:11'
+- att_id: 1469
+  name: 早餐.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/627c4c646e304779b48acb4eb8944187w6v1d3blt3.png
+  att_size: '1197825'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:28:02'
+  update_time: '2025-05-30 15:28:02'
+- att_id: 1470
+  name: 1748590102959.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/67e68e5b72f6441faeae6238ea9a1c077ey7c2czat.png
+  att_size: '643485'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:28:22'
+  update_time: '2025-05-30 15:28:22'
+- att_id: 1471
+  name: 1748590167423.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/73a1fe2b9d5e42b8bd23d3896b4ad26c47fi1n1rvm.png
+  att_size: '440215'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:29:27'
+  update_time: '2025-05-30 15:29:27'
+- att_id: 1472
+  name: 活动边框3.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/056fe71632b04b2dbecb78b8062b0cadjk9cl9hmz7.png
+  att_size: '14907'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1473
+  name: 活动边框6.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/50834cdbadba4f49a004ee6e420dade4jwf1kewf8e.png
+  att_size: '12326'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1474
+  name: 活动边框2.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3331ca1f04294a1c817aee5457d3e11e47552pb3p3.png
+  att_size: '6995'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1475
+  name: 活动边框1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/42b4e7b0acf943f78846af318dad2550oyb1qa0wxo.png
+  att_size: '19579'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1476
+  name: 活动边框5.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/77a302a864464d3687728411a4efe8abz0yywqp433.png
+  att_size: '20387'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1477
+  name: 活动边框4.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/b445ce7b49c0487c82ae70857bd786c3i78etxe0bw.png
+  att_size: '59741'
+  att_type: png
+  pid: 740
+  image_type: 1
+  create_time: '2025-05-30 15:34:48'
+  update_time: '2025-05-30 15:34:48'
+- att_id: 1478
+  name: 氛围图6.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/6462ca1d2d754cbf8aad6a16eb5aa3c0y8qhixmdom.jpg
+  att_size: '11358'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1479
+  name: 氛围图2.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/33b64c41cc5c4c8a97254080ddf3d58ao5yzhyri5e.jpg
+  att_size: '4511'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1480
+  name: 氛围图3.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/05d9fee765af4521b13be1eeb1245741is2e7czvlg.jpg
+  att_size: '4695'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1481
+  name: 氛围图1.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/333b382a3de0476ba657b22ccb6920c0k20kiq33mf.jpg
+  att_size: '4633'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1482
+  name: 氛围图5.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/01e7fda63af84f0ca855215d6f67006784ktdz83ah.jpg
+  att_size: '10535'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1483
+  name: 氛围图4.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d4e061dd95df4eaf892faf182dbcbbd3s4o7y7zc9d.jpg
+  att_size: '6099'
+  att_type: jpeg
+  pid: 742
+  image_type: 1
+  create_time: '2025-05-30 15:35:21'
+  update_time: '2025-05-30 15:35:21'
+- att_id: 1484
+  name: 积分详情.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d99dfeeea2024708b96d2ff496349a34vnn35f7jvd.png
+  att_size: '4610'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1485
+  name: 个人信息.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/f0cc64227b0c442ebbc3542d1c8cdcdd8tzqx03uev.png
+  att_size: '3315'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1486
+  name: 砍价记录.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/12757275eda24b2ca2cd6d0da2c73572tnl6wqsx23.png
+  att_size: '5772'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1487
+  name: 地址管理.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a1dad4e59c834175a87496f63ce5abf9x0zfi7kn02.png
+  att_size: '4790'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1488
+  name: 我的等级.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/9e333e0c38044203aea118078dc99579obno6z6ig5.png
+  att_size: '3859'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1489
+  name: 签到中心.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/1fbd9ab9b067488bb516fc539f930b99ml1p8601tk.png
+  att_size: '3878'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1490
+  name: 我的余额.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/2dc4ee1fa3f14c23997f3db976c7c872lecq01k4pw.png
+  att_size: '4496'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1491
+  name: 我的收藏.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/a580059a26524e659b1e56cb84c7529788uvnhed11.png
+  att_size: '4984'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1492
+  name: 会员中心.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c9ef313cc8a342adb7dd5828c4770d52m81slgmikw.png
+  att_size: '4050'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1493
+  name: 我的推广.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/160d9830c6b14cf198ff6753be59e078dydlucpj51.png
+  att_size: '83388'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:44:14'
+  update_time: '2025-05-30 15:44:14'
+- att_id: 1494
+  name: 1748591186936.png
+  att_dir: ''
+  satt_dir: crmebimage/public/content/2025/05/30/a8c4a8e0e0c94c42ae590d9f03cd3746xz1okx5b0m.png
+  att_size: '4456'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:46:26'
+  update_time: '2025-05-30 15:46:26'
+- att_id: 1495
+  name: 我的未选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/b7da59511b1b41f89f3cb5f7e6114b73px0aqkehrp.png
+  att_size: '1335'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1496
+  name: 首页选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/f096c004ebea452ba77abd17299598deqb6ttkwtjs.png
+  att_size: '1661'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1497
+  name: 5-002.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/e54f534e300c4c99a723179814f8b37bz589fhfmce.png
+  att_size: '3376'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1498
+  name: 运费险图片.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/2062308f0b794a05891a95d275de04e2avzzy07ri8.png
+  att_size: '4485'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1499
+  name: 我的选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/013f2612bc524c9d9b508b013aa224efiyokfxey4w.png
+  att_size: '1328'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1500
+  name: 123.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/8096f89fd4304efe969a0ffb605c2c221uzom8vyij.png
+  att_size: '3861'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1501
+  name: 店铺街选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d4c06d9a7d484f559a7110593816bf409zqlddmrhr.png
+  att_size: '1953'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1502
+  name: 24小时发货.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/9c4d76aaf7404cd9855193b232e78298vc225js9b5.png
+  att_size: '1417'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1503
+  name: 店铺街未选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/042be852fd83427191fc700364d2deb41zrdt5uni4.png
+  att_size: '1600'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1504
+  name: 分类未选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/cc3d1f029ae4468fa6e55395543718950oywo7bqix.png
+  att_size: '1387'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1505
+  name: 分类2.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/441b667825e647418f9a01f53f56ca1a042ct1oaad.png
+  att_size: '13194'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1506
+  name: 分类选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/631b518572f1473a8609409cc9b737b8llprb31n4t.png
+  att_size: '1412'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1507
+  name: 购物车未选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/697f7fcbba724d5f9e7b77e8421cca70knrfd1v9h0.png
+  att_size: '2121'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1508
+  name: 购物车选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/1b0505b084e248e3bf93bcc32d921be7y9uadabpzo.png
+  att_size: '1941'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1509
+  name: 拼团.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/b11302a5cf8b4f9d95fb1a1d18d03a523ts5dugiw4.png
+  att_size: '20383'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1510
+  name: 拼团1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3d4a6b7bab3a425183cec5699812f5c21dko3svuih.png
+  att_size: '2058'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1511
+  name: 七天无理由退货.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/e5d38dbdec434680b308d9affad6f69coato25vngy.png
+  att_size: '1441'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1512
+  name: 品质保障.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/122c522e98764e949834eae22ae611666sprijffy0.png
+  att_size: '1300'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1513
+  name: 首页未选中.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d35b3ccea1ee4abf8676cf74c0a1e4b8pdzenwfjgm.png
+  att_size: '2392'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:50:30'
+  update_time: '2025-05-30 15:50:30'
+- att_id: 1514
+  name: 默认logo.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/4e764fc66e5b4833b496b6bc46762c03mdo3zr6ags.png
+  att_size: '2053'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:55:17'
+  update_time: '2025-05-30 15:55:17'
+- att_id: 1515
+  name: 1748591731455.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/9256921ca8b24a4e98ec81b2e75923b7hykcx4f043.png
+  att_size: '2875'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:55:31'
+  update_time: '2025-05-30 15:55:31'
+- att_id: 1516
+  name: 1748591747323.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/af3f96d931ef4314aa31242ba8910921y7aqtfkiw0.png
+  att_size: '701061'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 15:55:47'
+  update_time: '2025-05-30 15:55:47'
+- att_id: 1517
+  name: 1748592312826.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/65837c8f272c4e9e802650232863afc1trvrs7s0xp.png
+  att_size: '1981'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:05:12'
+  update_time: '2025-05-30 16:05:12'
+- att_id: 1518
+  name: 1748592330068.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/31919ceca46d409f9a3d4af3c0ff0337y2jhe3less.png
+  att_size: '97027'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:05:29'
+  update_time: '2025-05-30 16:05:29'
+- att_id: 1519
+  name: 左上角.jpeg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/80463f2c08f942c7919ffdb1508aaefcadw8s5mfey.jpeg
+  att_size: '3604'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:08:39'
+  update_time: '2025-05-30 16:08:39'
+- att_id: 1520
+  name: 后台登录.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/081a002d92894a74ad498c825c29aa26or4ycyd3cy.png
+  att_size: '4973'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:08:39'
+  update_time: '2025-05-30 16:08:39'
+- att_id: 1521
+  name: 左上角缩回.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/d9668baa15d04179aff2ccddf985e92e83dqxh6y9x.png
+  att_size: '24056'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:08:39'
+  update_time: '2025-05-30 16:08:39'
+- att_id: 1522
+  name: 登录页背景.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/29d46610497542198f20ba8a334ee79aix1xrprgdz.jpg
+  att_size: '71811'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:08:39'
+  update_time: '2025-05-30 16:08:39'
+- att_id: 1523
+  name: h5默认.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/3d1816f22c45457aa4429f6af9c55c65b2jpkr7ycx.png
+  att_size: '3861'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:11:04'
+  update_time: '2025-05-30 16:11:04'
+- att_id: 1524
+  name: 公众号.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/58ab1f922beb4b149f1b6d66cb69803d66drjq47vj.png
+  att_size: '4973'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:11:04'
+  update_time: '2025-05-30 16:11:04'
+- att_id: 1525
+  name: 1748592687366.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/5dcc7a0ce6c146859b2926b0c182a34b28iqzx5i5h.png
+  att_size: '5669'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:11:27'
+  update_time: '2025-05-30 16:11:27'
+- att_id: 1526
+  name: 1748593326744.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c338784b57414cd7899a2d7341b93d2ajz23485ehw.png
+  att_size: '134748'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:22:06'
+  update_time: '2025-05-30 16:22:06'
+- att_id: 1527
+  name: 地址管理111.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/418dc771e02c428d8d6d15d8e915c242dm4szaunjl.png
+  att_size: '169628'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:29:23'
+  update_time: '2025-05-30 16:29:23'
+- att_id: 1528
+  name: 砍价列表111.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/8d6202e6fe7f4c7c80748307886eb0a6yzwixddzvb.png
+  att_size: '102379'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:29:23'
+  update_time: '2025-05-30 16:29:23'
+- att_id: 1529
+  name: 1748593812368.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/32f0ce043dab44fc895bf9cd4440c75aca13ihc7o4.png
+  att_size: '8232'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:30:12'
+  update_time: '2025-05-30 16:30:12'
+- att_id: 1530
+  name: 1748593853069.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/200661fff2d5461a97b8ec72a2e69bc4pixz0lkkds.png
+  att_size: '10325'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:30:52'
+  update_time: '2025-05-30 16:30:52'
+- att_id: 1531
+  name: 商品分类111.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/20b6e042937b4294897dc73a81fb8d5dcvaqofpdza.png
+  att_size: '100878'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:32:06'
+  update_time: '2025-05-30 16:32:06'
+- att_id: 1532
+  name: 签到111.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/4d53dc37b30a4720a7030d9917bdbbcfvesmr8surj.png
+  att_size: '134615'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:32:06'
+  update_time: '2025-05-30 16:32:06'
+- att_id: 1533
+  name: 1748594085573.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c61ff564771547b19bda77020608aeda96gumgb07m.png
+  att_size: '17871'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:34:45'
+  update_time: '2025-05-30 16:34:45'
+- att_id: 1534
+  name: 1748594137165.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/29d8fcf257a84f88aa665d8a816c208bq3ubyz1o7c.png
+  att_size: '20421'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:35:37'
+  update_time: '2025-05-30 16:35:37'
+- att_id: 1535
+  name: 1748594239753.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/0cacaa88b0f34c0491ff86fbce05affcza6ycz8nr6.png
+  att_size: '9547'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:37:19'
+  update_time: '2025-05-30 16:37:19'
+- att_id: 1536
+  name: 1748594270851.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/e70e9148354446e2a2bbb96110a2ec2fm9a5shpg2r.png
+  att_size: '18558'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:37:50'
+  update_time: '2025-05-30 16:37:50'
+- att_id: 1537
+  name: 1748594440618.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/0da89c099abb4e7f91bbce5b362e723eviq713motz.png
+  att_size: '145461'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:40:40'
+  update_time: '2025-05-30 16:40:40'
+- att_id: 1538
+  name: 海报1.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/2e371b4168b44eea9046fb53dcebac73k5bkkw9qj9.jpg
+  att_size: '80741'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:43:09'
+  update_time: '2025-05-30 16:43:09'
+- att_id: 1539
+  name: 海报3.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/e0cb5810492e46eebb40fab3db3b641bhb03rv91h0.jpg
+  att_size: '129708'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:43:09'
+  update_time: '2025-05-30 16:43:09'
+- att_id: 1540
+  name: 海报2.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/7301c05381ce4b6d9d394d4fd9d1ad6az1qfca546r.jpg
+  att_size: '73725'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:43:09'
+  update_time: '2025-05-30 16:43:09'
+- att_id: 1541
+  name: 彩妆3.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/ffab698f137943deb0b6706d1f1554a3e2ow1bkexu.png
+  att_size: '448535'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:47:34'
+  update_time: '2025-05-30 16:47:34'
+- att_id: 1542
+  name: 彩妆2.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/58bde6dca3814cd085fa95e4a02c415dbfvihmv3s0.png
+  att_size: '542514'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:47:34'
+  update_time: '2025-05-30 16:47:34'
+- att_id: 1543
+  name: 彩妆1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/1ff119cd8ba7423ead3c10c502fa7d30m4e9mhmg5i.png
+  att_size: '603571'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:47:34'
+  update_time: '2025-05-30 16:47:34'
+- att_id: 1544
+  name: 2.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/faa414614f6845198a3adfea2256077b1titt2vgsf.png
+  att_size: '683996'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:48:45'
+  update_time: '2025-05-30 16:48:45'
+- att_id: 1545
+  name: 1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/77e30c1e50884d36bd06fc43529e28227y9e4nkq9j.png
+  att_size: '1589936'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:48:45'
+  update_time: '2025-05-30 16:48:45'
+- att_id: 1546
+  name: 3.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c575c57aae8b419eb539afb5d45b92d9sm8xsmdu8a.png
+  att_size: '2801871'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 16:48:46'
+  update_time: '2025-05-30 16:48:46'
+- att_id: 1547
+  name: 透明动图2.gif
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/fa6de4dcf1f04a77bb02703b39a092fdiv0uu0yy7s.gif
+  att_size: '360926'
+  att_type: gif
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 17:03:29'
+  update_time: '2025-05-30 17:03:29'
+- att_id: 1550
+  name: 透明动图3.gif
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/c7cb04bd8eac40af8d3eb89ca25b6d81jxfryyzv6o.gif
+  att_size: '350370'
+  att_type: gif
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 17:05:14'
+  update_time: '2025-05-30 17:05:14'
+- att_id: 1551
+  name: 透明动图1.gif
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/04a605cd01b04cc5861876d1c011feb0omivwpk6r9.gif
+  att_size: '410412'
+  att_type: gif
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 17:05:14'
+  update_time: '2025-05-30 17:05:14'
+- att_id: 1552
+  name: 透明图片4.gif
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/05/30/08e981bb7f9e452f9fcc5bd7c1714963d1nxmsofm5.gif
+  att_size: '340527'
+  att_type: gif
+  pid: 0
+  image_type: 1
+  create_time: '2025-05-30 17:07:55'
+  update_time: '2025-05-30 17:07:55'
+- att_id: 1553
+  name: 1749000841972.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/04/10d1e53b4f6b484e960003571684df5828zwdt5hdj.png
+  att_size: '115591'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-04 09:34:02'
+  update_time: '2025-06-04 09:34:02'
+- att_id: 1554
+  name: 1749006043957.png
+  att_dir: ''
+  satt_dir: crmebimage/public/content/2025/06/04/41142ba4ecc14ff0ba4e0b50ec5c5ad40odlclvbt6.png
+  att_size: '8568'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-04 11:00:44'
+  update_time: '2025-06-04 11:00:44'
+- att_id: 1555
+  name: 1749006139469.png
+  att_dir: ''
+  satt_dir: crmebimage/public/content/2025/06/04/7e82693d06f049ada15a0a560a084d20iy93ssbrzb.png
+  att_size: '1658'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-04 11:02:19'
+  update_time: '2025-06-04 11:02:19'
+- att_id: 1556
+  name: 1749006565708.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/04/3407aac90cfa4673a4725395afa21bcfxixlr36svc.png
+  att_size: '88956'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-04 11:09:25'
+  update_time: '2025-06-04 11:09:25'
+- att_id: 1557
+  name: 拼团列表banner1.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/05/a6cfc21479784d2782a5d9ef75fe56db6u0zi35m53.jpg
+  att_size: '11754'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-05 10:28:09'
+  update_time: '2025-06-05 10:28:09'
+- att_id: 1558
+  name: 拼团列表banner2.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/05/5ad3122bc6e343119e8598fbcea72fae2t2b90exug.jpg
+  att_size: '14654'
+  att_type: jpeg
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-05 10:28:09'
+  update_time: '2025-06-05 10:28:09'
+- att_id: 1559
+  name: 渐变1.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/20/f459152fd4904bc48ea8d8af21dfc3e8nsfghc3zxz.png
+  att_size: '744553'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-20 16:47:53'
+  update_time: '2025-06-20 16:47:53'
+- att_id: 1560
+  name: 渐变2.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/20/cb871f0d763c4725a67f9b5a9e561a0cdjyb0dwyp6.png
+  att_size: '940284'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-20 16:47:53'
+  update_time: '2025-06-20 16:47:53'
+- att_id: 1561
+  name: 渐变蓝裙子.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
+  att_size: '870631'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-20 16:47:54'
+  update_time: '2025-06-20 16:47:54'
+- att_id: 1562
+  name: 渐变3.png
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png
+  att_size: '1009129'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-20 16:47:54'
+  update_time: '2025-06-20 16:47:54'
+- att_id: 1563
+  name: 清新裙子.mp4
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/20/7a8859efb63745b78fe6862e362955d9yg603a8gbs.mp4
+  att_size: '2004998'
+  att_type: video/mp4
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-20 16:48:38'
+  update_time: '2025-06-20 16:48:38'
+- att_id: 1564
+  name: 651和765.png
+  att_dir: ''
+  satt_dir: crmebimage/public/user/2025/06/21/04836fd050dd4476894588752106c4c910ieo2imm1.png
+  att_size: '844355'
+  att_type: png
+  pid: 7
+  image_type: 1
+  create_time: '2025-06-21 11:03:56'
+  update_time: '2025-06-21 11:03:56'
+- att_id: 1565
+  name: 1750476168982.png
+  att_dir: ''
+  satt_dir: crmebimage/public/user/2025/06/21/081ec48562f44fb785bb7a4afb3771a661nsq57tx7.png
+  att_size: '35636'
+  att_type: png
+  pid: 0
+  image_type: 1
+  create_time: '2025-06-21 11:22:48'
+  update_time: '2025-06-21 11:22:48'
+- att_id: 1566
+  name: 家居生活箱包分类.jpg
+  att_dir: ''
+  satt_dir: crmebimage/public/product/2025/06/21/25d07ea1eaa747548c2021fcacaa56ee3ex4xdjo12.jpg
+  att_size: '5619'
+  att_type: jpeg
+  pid: 1
+  image_type: 1
+  create_time: '2025-06-21 17:42:40'
+  update_time: '2025-06-21 17:42:40'

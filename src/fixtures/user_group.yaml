@@ -1,0 +1,7 @@
+---
+- id: 1
+  group_name: 初级会员
+- id: 2
+  group_name: 中级会员
+- id: 3
+  group_name: 高级会员

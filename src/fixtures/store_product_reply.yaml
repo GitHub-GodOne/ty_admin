@@ -1,0 +1,115 @@
+---
+- id: 1
+  uid: 0
+  oid: 0
+  unique: '10334'
+  product_id: 93
+  reply_type: product
+  product_score: 5
+  service_score: 5
+  comment: 很好看
+  pics: crmebimage/public/product/2025/06/20/9218703d9b2c478a95ea69d0e3c6567104bfwd1gkl.png
+  merchant_reply_content: 谢谢好评
+  merchant_reply_time: 1750413578
+  is_del: 0
+  is_reply: 1
+  nickname: 小小
+  avatar: crmebimage/public/content/2025/06/04/7e82693d06f049ada15a0a560a084d20iy93ssbrzb.png
+  create_time: '2025-06-20 17:58:27'
+  update_time: '2025-06-20 17:59:38'
+  sku: L,渐变蓝
+- id: 2
+  uid: 0
+  oid: 0
+  unique: '10374'
+  product_id: 93
+  reply_type: product
+  product_score: 5
+  service_score: 5
+  comment: '1'
+  pics: crmebimage/public/product/2025/06/20/0ba476eca6ac463bab1ca119c47ef1f7p2b6ym4pgx.png
+  merchant_reply_content: null
+  merchant_reply_time: null
+  is_del: 1
+  is_reply: 0
+  nickname: '1'
+  avatar: crmebimage/public/product/2025/06/04/3407aac90cfa4673a4725395afa21bcfxixlr36svc.png
+  create_time: '2025-06-20 17:58:44'
+  update_time: '2025-06-20 17:59:04'
+  sku: L,渐变蓝
+- id: 3
+  uid: 0
+  oid: 0
+  unique: '10777'
+  product_id: 92
+  reply_type: product
+  product_score: 3
+  service_score: 3
+  comment: '2'
+  pics: ''
+  merchant_reply_content: null
+  merchant_reply_time: null
+  is_del: 1
+  is_reply: 0
+  nickname: '2'
+  avatar: crmebimage/public/content/2025/06/04/7e82693d06f049ada15a0a560a084d20iy93ssbrzb.png
+  create_time: '2025-06-20 17:58:56'
+  update_time: '2025-06-20 17:59:01'
+  sku: 大象灰-大容量 【22升】 2162
+- id: 4
+  uid: 0
+  oid: 0
+  unique: '10050'
+  product_id: 92
+  reply_type: product
+  product_score: 1
+  service_score: 1
+  comment: '8'
+  pics: ''
+  merchant_reply_content: null
+  merchant_reply_time: null
+  is_del: 1
+  is_reply: 0
+  nickname: '8'
+  avatar: crmebimage/public/product/2025/06/04/10d1e53b4f6b484e960003571684df5828zwdt5hdj.png
+  create_time: '2025-06-20 17:59:25'
+  update_time: '2025-06-20 17:59:31'
+  sku: 大象灰-大容量 【22升】 2162
+- id: 5
+  uid: 0
+  oid: 36
+  unique: '1112'
+  product_id: 89
+  reply_type: product
+  product_score: 5
+  service_score: 5
+  comment: 还行吧
+  pics: crmebimage/public/product/2025/06/21/25d07ea1eaa747548c2021fcacaa56ee3ex4xdjo12.jpg
+  merchant_reply_content: null
+  merchant_reply_time: null
+  is_del: 0
+  is_reply: 0
+  nickname: 夏至已至
+  avatar: crmebimage/public/user/2025/06/21/04836fd050dd4476894588752106c4c910ieo2imm1.png
+  create_time: '2025-06-21 17:42:41'
+  update_time: '2025-06-21 17:42:41'
+  sku: 粉境苍兰香水30ml
+- id: 6
+  uid: 0
+  oid: 42
+  unique: '1278'
+  product_id: 93
+  reply_type: product
+  product_score: 5
+  service_score: 5
+  comment: 很快
+  pics: ''
+  merchant_reply_content: null
+  merchant_reply_time: null
+  is_del: 0
+  is_reply: 0
+  nickname: 夏至已至
+  avatar: crmebimage/public/user/2025/06/21/04836fd050dd4476894588752106c4c910ieo2imm1.png
+  create_time: '2025-06-23 15:47:59'
+  update_time: '2025-06-23 15:47:59'
+  sku: M,渐变蓝

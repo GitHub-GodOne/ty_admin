@@ -1,0 +1,3059 @@
+---
+- id: 42
+  pid: 0
+  path: /0/
+  name: 商品
+  type: 5
+  url: /store
+  extra: s-goods
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:03:34'
+  update_time: '2020-08-12 12:29:13'
+- id: 43
+  pid: 42
+  path: /0/42/
+  name: 商品管理
+  type: 5
+  url: /store/index
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:04:20'
+  update_time: '2020-08-12 12:29:13'
+- id: 44
+  pid: 42
+  path: /0/42/
+  name: 商品分类
+  type: 5
+  url: /store/sort
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:04:40'
+  update_time: '2020-08-12 12:29:13'
+- id: 45
+  pid: 0
+  path: /0/
+  name: 订单
+  type: 5
+  url: /order
+  extra: s-order
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:04:56'
+  update_time: '2020-08-12 12:29:13'
+- id: 46
+  pid: 45
+  path: /0/45/
+  name: 订单
+  type: 5
+  url: /order/index
+  extra: s-order
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:05:17'
+  update_time: '2021-02-04 10:12:41'
+- id: 47
+  pid: 0
+  path: /0/
+  name: 用户
+  type: 5
+  url: /user
+  extra: user-solid
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:05:53'
+  update_time: '2020-08-12 12:29:13'
+- id: 48
+  pid: 47
+  path: /0/47/
+  name: 用户管理
+  type: 5
+  url: /user/index
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:07:13'
+  update_time: '2020-08-12 12:29:13'
+- id: 49
+  pid: 47
+  path: /0/47/
+  name: 用户标签
+  type: 5
+  url: /user/label
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-04-28 17:42:21'
+  update_time: '2020-08-12 12:29:13'
+- id: 51
+  pid: 0
+  path: /0/
+  name: 设置
+  type: 5
+  url: /operation
+  extra: s-tools
+  status: 1
+  sort: -9
+  create_time: '2020-05-06 09:40:14'
+  update_time: '2020-08-12 12:29:13'
+- id: 52
+  pid: 51
+  path: /0/51/
+  name: 管理权限
+  type: 5
+  url: /operation/roleManager
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-06 09:40:35'
+  update_time: '2020-08-12 12:29:13'
+- id: 53
+  pid: 52
+  path: /0/51/52/
+  name: 身份管理
+  type: 5
+  url: /operation//roleManager/identityManager
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-06 09:40:51'
+  update_time: '2020-08-12 12:29:13'
+- id: 54
+  pid: 52
+  path: /0/51/52/
+  name: 管理员列表
+  type: 5
+  url: /operation//roleManager/adminList
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-06 09:41:11'
+  update_time: '2020-08-12 12:29:13'
+- id: 55
+  pid: 52
+  path: /0/51/52/
+  name: 权限规则
+  type: 5
+  url: /operation//roleManager/promiseRules
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-06 09:41:46'
+  update_time: '2020-08-12 12:29:13'
+- id: 56
+  pid: 0
+  path: /0/
+  name: 内容
+  type: 5
+  url: /content
+  extra: s-management
+  status: 1
+  sort: 1
+  create_time: '2020-05-07 12:00:33'
+  update_time: '2020-08-12 12:29:13'
+- id: 57
+  pid: 56
+  path: /0/56/
+  name: 文章管理
+  type: 5
+  url: /content/articleManager
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-07 12:02:39'
+  update_time: '2020-08-12 12:29:13'
+- id: 58
+  pid: 56
+  path: /0/56/
+  name: 文章分类
+  type: 5
+  url: /content/classifManager
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-07 12:02:46'
+  update_time: '2020-08-12 12:29:13'
+- id: 66
+  pid: 0
+  path: /0/
+  name: 维护
+  type: 5
+  url: /maintain
+  extra: s-open
+  status: 1
+  sort: -10
+  create_time: '2020-05-09 16:02:05'
+  update_time: '2020-08-12 12:29:13'
+- id: 67
+  pid: 66
+  path: /0/66/
+  name: 开发配置
+  type: 5
+  url: /maintain//devconfiguration
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-05-09 16:06:46'
+  update_time: '2020-08-12 12:29:13'
+- id: 68
+  pid: 67
+  path: /0/66/67/
+  name: 配置分类
+  type: 5
+  url: /maintain/devconfiguration/configCategory
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-05-09 16:07:09'
+  update_time: '2020-08-12 12:29:13'
+- id: 69
+  pid: 67
+  path: /0/66/67/
+  name: 组合数据
+  type: 5
+  url: /maintain/devconfiguration/combineddata
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-05-09 16:08:00'
+  update_time: '2020-08-12 12:29:13'
+- id: 80
+  pid: 51
+  path: /0/51/
+  name: 系统设置
+  type: 5
+  url: /operation/setting
+  extra: null
+  status: 1
+  sort: 9
+  create_time: '2020-05-20 09:44:47'
+  update_time: '2020-12-10 11:30:07'
+- id: 81
+  pid: 0
+  path: /0/
+  name: PC管理后台配置
+  type: 6
+  url: pcAdmin config
+  extra: '64'
+  status: 1
+  sort: 1
+  create_time: '2020-05-20 10:02:57'
+  update_time: '2021-08-16 10:05:08'
+- id: 93
+  pid: 81
+  path: /0/81/
+  name: 站点配置
+  type: 6
+  url: 站点配置
+  extra: '64'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 11:04:20'
+  update_time: '2020-08-12 12:29:13'
+- id: 94
+  pid: 100
+  path: /0/100/
+  name: 客服配置
+  type: 6
+  url: 云智服
+  extra: '76'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 11:04:37'
+  update_time: '2020-09-09 17:09:47'
+- id: 95
+  pid: 0
+  path: /0/
+  name: 商城配置
+  type: 6
+  url: 商城配置
+  extra: '145'
+  status: 1
+  sort: 2
+  create_time: '2020-05-21 11:10:20'
+  update_time: '2025-04-23 15:51:09'
+- id: 96
+  pid: 95
+  path: /0/95/
+  name: 商城基础配置
+  type: 6
+  url: 商城基础配置
+  extra: '77'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 11:10:40'
+  update_time: '2020-08-12 12:29:13'
+- id: 99
+  pid: 95
+  path: /0/95/
+  name: 充值配置
+  type: 6
+  url: 充值配置
+  extra: '78'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 11:11:28'
+  update_time: '2020-08-12 12:29:13'
+- id: 100
+  pid: 0
+  path: /0/
+  name: 应用配置
+  type: 6
+  url: 应用配置
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:31:49'
+  update_time: '2020-08-12 12:29:13'
+- id: 101
+  pid: 100
+  path: /0/100/
+  name: 公众号配置
+  type: 6
+  url: 公众号配置
+  extra: '65'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:32:07'
+  update_time: '2020-08-12 12:29:13'
+- id: 102
+  pid: 100
+  path: /0/100/
+  name: 小程序配置
+  type: 6
+  url: 小程序配置
+  extra: '66'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:32:18'
+  update_time: '2020-08-12 12:29:13'
+- id: 103
+  pid: 0
+  path: /0/
+  name: 支付配置
+  type: 6
+  url: 支付配置
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:33:36'
+  update_time: '2020-08-12 12:29:13'
+- id: 104
+  pid: 103
+  path: /0/103/
+  name: 公众号支付配置
+  type: 6
+  url: 公众号支付配置
+  extra: '67'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:33:54'
+  update_time: '2020-08-12 12:29:13'
+- id: 105
+  pid: 103
+  path: /0/103/
+  name: 小程序支付配置
+  type: 6
+  url: 小程序支付配置
+  extra: '68'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:34:36'
+  update_time: '2020-08-12 12:29:13'
+- id: 107
+  pid: 103
+  path: /0/103/
+  name: 余额支付
+  type: 6
+  url: 余额支付
+  extra: '80'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:35:01'
+  update_time: '2020-08-12 12:29:13'
+- id: 108
+  pid: 0
+  path: /0/
+  name: 文件上传配置
+  type: 6
+  url: 文件上传配置
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:35:16'
+  update_time: '2020-08-12 12:29:13'
+- id: 109
+  pid: 108
+  path: /0/108/
+  name: 基础配置
+  type: 6
+  url: 基础配置
+  extra: '108'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:35:28'
+  update_time: '2020-09-14 10:33:54'
+- id: 110
+  pid: 108
+  path: /0/108/
+  name: 阿里云配置
+  type: 6
+  url: 阿里云配置
+  extra: '81'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:36:01'
+  update_time: '2020-08-12 12:29:13'
+- id: 111
+  pid: 108
+  path: /0/108/
+  name: 七牛云配置
+  type: 6
+  url: 七牛云配置
+  extra: '82'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:36:12'
+  update_time: '2020-08-12 12:29:13'
+- id: 112
+  pid: 108
+  path: /0/108/
+  name: 腾讯云配置
+  type: 6
+  url: 腾讯云配置
+  extra: '83'
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 12:36:22'
+  update_time: '2020-08-12 12:29:13'
+- id: 113
+  pid: 0
+  path: /0/
+  name: 应用
+  type: 5
+  url: /appSetting
+  extra: s-promotion
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 16:12:53'
+  update_time: '2020-08-12 12:29:13'
+- id: 114
+  pid: 113
+  path: /0/113/
+  name: 公众号
+  type: 5
+  url: /appSetting/publicAccount
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 16:13:18'
+  update_time: '2020-08-12 12:29:13'
+- id: 115
+  pid: 114
+  path: /0/113/114/
+  name: 微信菜单
+  type: 5
+  url: /appSetting//publicAccount/wxMenus
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-21 16:13:36'
+  update_time: '2020-08-12 12:29:13'
+- id: 118
+  pid: 0
+  path: /0/
+  name: 营销
+  type: 5
+  url: /marketing
+  extra: s-marketing
+  status: 1
+  sort: 1
+  create_time: '2020-05-25 14:39:52'
+  update_time: '2020-08-12 12:29:13'
+- id: 119
+  pid: 118
+  path: /0/118/
+  name: 优惠券
+  type: 5
+  url: /marketing/coupon
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-25 14:40:13'
+  update_time: '2020-08-12 12:29:13'
+- id: 123
+  pid: 118
+  path: /0/118/
+  name: 积分
+  type: 5
+  url: /marketing/integral
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-25 14:41:33'
+  update_time: '2020-08-12 12:29:13'
+- id: 127
+  pid: 42
+  path: /0/42/
+  name: 商品规格
+  type: 5
+  url: /store/attr
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-25 18:12:11'
+  update_time: '2020-08-12 12:29:13'
+- id: 128
+  pid: 42
+  path: /0/42/
+  name: 商品评论
+  type: 5
+  url: /store/comment
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-05-27 10:16:30'
+  update_time: '2020-08-12 12:29:13'
+- id: 139
+  pid: 113
+  path: /0/113/
+  name: 小程序
+  type: 5
+  url: /appSetting/publicRoutine
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-06-05 09:56:17'
+  update_time: '2020-08-12 12:29:13'
+- id: 140
+  pid: 139
+  path: /0/113/139/
+  name: 我的模板
+  type: 5
+  url: /appSetting/publicRoutine/routineTemplate
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2020-06-05 09:56:58'
+  update_time: '2021-03-05 16:07:42'
+- id: 141
+  pid: 114
+  path: /0/113/114/
+  name: 自动回复
+  type: 5
+  url: /appSetting/publicAccount/wxReply
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-06-15 16:15:32'
+  update_time: '2020-08-12 12:29:13'
+- id: 146
+  pid: 0
+  path: /0/
+  name: 分销
+  type: 5
+  url: /distribution
+  extra: s-check
+  status: 1
+  sort: 1
+  create_time: '2020-07-18 16:31:09'
+  update_time: '2020-12-07 09:35:02'
+- id: 147
+  pid: 146
+  path: /0/146/
+  name: 分销员管理
+  type: 5
+  url: /distribution/index
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-18 16:31:49'
+  update_time: '2020-12-18 10:22:25'
+- id: 148
+  pid: 146
+  path: /0/146/
+  name: 分销配置
+  type: 5
+  url: /distribution/distributionconfig
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-18 16:32:06'
+  update_time: '2020-12-18 10:22:19'
+- id: 158
+  pid: 119
+  path: /0/118/119/
+  name: 优惠券
+  type: 5
+  url: /marketing/coupon/list
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:13:10'
+  update_time: '2020-08-29 10:15:34'
+- id: 159
+  pid: 119
+  path: /0/118/119/
+  name: 领取记录
+  type: 5
+  url: /marketing/coupon/record
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:13:37'
+  update_time: '2021-03-12 16:40:29'
+- id: 160
+  pid: 123
+  path: /0/118/123/
+  name: 积分配置
+  type: 5
+  url: /marketing/integral/integralconfig
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:14:48'
+  update_time: '2020-08-12 12:29:13'
+- id: 161
+  pid: 123
+  path: /0/118/123/
+  name: 积分日志
+  type: 5
+  url: /marketing/integral/integrallog
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:15:11'
+  update_time: '2020-08-12 12:29:13'
+- id: 162
+  pid: 47
+  path: /0/47/
+  name: 用户等级
+  type: 5
+  url: /user/grade
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:21:48'
+  update_time: '2020-08-12 12:29:13'
+- id: 164
+  pid: 47
+  path: /0/47/
+  name: 用户分组
+  type: 5
+  url: /user/group
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:22:46'
+  update_time: '2020-08-12 12:29:13'
+- id: 171
+  pid: 141
+  path: /0/113/114/141/
+  name: 微信关注回复
+  type: 5
+  url: /appSetting/publicAccount/wxReply/follow
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:42:52'
+  update_time: '2020-08-12 12:29:13'
+- id: 172
+  pid: 141
+  path: /0/113/114/141/
+  name: 关键字回复
+  type: 5
+  url: /appSetting/publicAccount/wxReply/keyword
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:43:09'
+  update_time: '2020-08-12 12:29:13'
+- id: 173
+  pid: 141
+  path: /0/113/114/141/
+  name: 无效关键词回复
+  type: 5
+  url: /appSetting/publicAccount/wxReply/replyIndex
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:43:23'
+  update_time: '2020-08-12 12:29:13'
+- id: 174
+  pid: 114
+  path: /0/113/114/
+  name: 微信模板
+  type: 5
+  url: /appSetting//publicAccount/template/1
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-07-24 16:43:52'
+  update_time: '2021-03-05 16:17:57'
+- id: 175
+  pid: 43
+  path: /0/42/43/
+  name: 商品添加
+  type: 5
+  url: api/admin/store/product/save
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2020-07-24 16:46:04'
+  update_time: '2021-03-11 09:20:26'
+- id: 176
+  pid: 43
+  path: /0/42/43/
+  name: 商品修改
+  type: 5
+  url: api/admin/store/product/update
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2020-07-24 16:46:19'
+  update_time: '2020-08-31 10:07:24'
+- id: 250
+  pid: 67
+  path: /0/66/67/
+  name: 表单配置
+  type: 5
+  url: /maintain/devconfiguration/formConfig
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-08-12 12:09:56'
+  update_time: '2020-08-12 12:29:13'
+- id: 267
+  pid: 0
+  path: /0/
+  name: 控制台
+  type: 5
+  url: /dashboard
+  extra: menu
+  status: 1
+  sort: 10
+  create_time: '2020-08-13 10:31:07'
+  update_time: '2021-02-04 11:04:27'
+- id: 272
+  pid: 0
+  path: /0/
+  name: 厨房电器
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/71b3f33bfbb04b25897f0d1f3faa281emau8s20vn8.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:03:40'
+  update_time: '2025-05-30 14:45:01'
+- id: 275
+  pid: 272
+  path: /0/272/
+  name: '炸锅 '
+  type: 1
+  url: www
+  extra: crmebimage/public/product/2025/05/30/3489731f23544647aebad17cd242ad60354p63z0av.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:07:57'
+  update_time: '2025-05-30 14:44:30'
+- id: 276
+  pid: 272
+  path: /0/272/
+  name: 锅具
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/71b3f33bfbb04b25897f0d1f3faa281emau8s20vn8.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:11:36'
+  update_time: '2025-05-30 14:44:47'
+- id: 277
+  pid: 272
+  path: /0/272/
+  name: 破壁机
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/6943a40560bc4cd2990c418725fddbbdf4d0ewhce9.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:12:38'
+  update_time: '2025-05-30 14:45:01'
+- id: 280
+  pid: 0
+  path: /0/
+  name: 母婴专区
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/929741df9f1640319bd577c195cfcb03wl574zcffs.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:17:25'
+  update_time: '2025-05-30 14:48:58'
+- id: 281
+  pid: 0
+  path: /0/
+  name: 户外出行
+  type: 1
+  url: ''
+  extra: crmebimage/public/store/2025/05/30/612973ce55a44cf0a3f3c7e8f01b7803w0ufnc514y.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:17:54'
+  update_time: '2025-05-30 11:11:46'
+- id: 282
+  pid: 0
+  path: /0/
+  name: 美妆个护
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/7b5124a73d20479f95281d3de88a49e0t5ffdq8g0y.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:18:04'
+  update_time: '2025-05-30 11:17:44'
+- id: 283
+  pid: 0
+  path: /0/
+  name: ' 数码家电'
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/4d490049668b42b0ad374e8b868342038el4qo1zmv.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:18:14'
+  update_time: '2025-05-30 11:52:46'
+- id: 284
+  pid: 0
+  path: /0/
+  name: 日用文创
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/374b2480791f4abdbd15252f8afc95f2bme3rgr81f.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 12:18:30'
+  update_time: '2025-05-30 14:41:32'
+- id: 285
+  pid: 280
+  path: /0/280/
+  name: 腰凳
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/ccd013b6ecb14bb78d4e4a58cad0c5d242dukhbti1.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:31:48'
+  update_time: '2025-05-30 14:48:35'
+- id: 286
+  pid: 280
+  path: /0/280/
+  name: 奶粉
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/929741df9f1640319bd577c195cfcb03wl574zcffs.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:33:06'
+  update_time: '2025-05-30 14:48:47'
+- id: 287
+  pid: 280
+  path: /0/280/
+  name: 玩具
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/153464ade9a044c197fcf80032ee01a4ixxppzo7nt.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:34:22'
+  update_time: '2025-05-30 14:48:58'
+- id: 288
+  pid: 281
+  path: /0/281/
+  name: 露营装备
+  type: 1
+  url: ''
+  extra: crmebimage/public/store/2025/05/30/612973ce55a44cf0a3f3c7e8f01b7803w0ufnc514y.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:35:37'
+  update_time: '2025-05-30 11:10:55'
+- id: 289
+  pid: 281
+  path: /0/281/
+  name: 骑行配件
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/9622ccbe6f13413e96eae535e1b66c1ftvdxxdvgp2.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:36:34'
+  update_time: '2025-05-30 11:11:10'
+- id: 290
+  pid: 281
+  path: /0/281/
+  name: 游泳设备
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/a804a1ed550f4fcf9ba17cb57e36b275eypsw3kbj5.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:37:23'
+  update_time: '2025-05-30 11:11:38'
+- id: 291
+  pid: 282
+  path: /0/282/
+  name: 清洁仪
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/81df54e6c04447a7b0e8393de5fbbd8ct7chmjuny9.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:38:32'
+  update_time: '2025-05-30 11:15:22'
+- id: 292
+  pid: 282
+  path: /0/282/
+  name: 美容仪
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/72e6f24446bf4009b609dbb64a5b111elq0hmw4m50.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:39:33'
+  update_time: '2025-05-30 11:16:11'
+- id: 293
+  pid: 282
+  path: /0/282/
+  name: 彩妆
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/7b5124a73d20479f95281d3de88a49e0t5ffdq8g0y.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:40:34'
+  update_time: '2025-05-30 11:17:11'
+- id: 294
+  pid: 282
+  path: /0/282/
+  name: 香水
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/ff407bcd9f7e45669366bbd3452235a2wqohea7q7x.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:42:19'
+  update_time: '2025-05-30 11:17:23'
+- id: 295
+  pid: 282
+  path: /0/282/
+  name: ' 修容'
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/edc1b0c819d54f09ac21e6ff26f63a253cg8v0kcul.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:43:21'
+  update_time: '2025-05-30 11:17:33'
+- id: 296
+  pid: 282
+  path: /0/282/
+  name: 其他工具
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/306a1638d9f643a3b2a62f8a0d0e5961czy1xb18hf.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:44:15'
+  update_time: '2025-05-30 11:17:44'
+- id: 297
+  pid: 283
+  path: /0/283/
+  name: 按摩仪
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/baef183c828042a7b4db49fc4253a8d7pht1z0n461.jpg
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:45:52'
+  update_time: '2025-05-30 11:52:33'
+- id: 298
+  pid: 283
+  path: /0/283/
+  name: 耳机
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/4d490049668b42b0ad374e8b868342038el4qo1zmv.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:46:22'
+  update_time: '2025-05-30 11:52:46'
+- id: 300
+  pid: 284
+  path: /0/284/
+  name: 日用杂货
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/a10fff4ffa944e15b4d351df9407ce4f6etk3hzw4f.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:48:30'
+  update_time: '2025-05-30 14:41:17'
+- id: 301
+  pid: 284
+  path: /0/284/
+  name: 纸品湿巾
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/e9e93bfe8405409eb5343e440eadd99b9st8jlsh4x.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:49:30'
+  update_time: '2025-05-30 14:41:33'
+- id: 302
+  pid: 284
+  path: /0/284/
+  name: 办公文具
+  type: 1
+  url: ''
+  extra: crmebimage/public/store/2025/05/30/a7825c6a9dfb42f291b44352fcb81fc51qud7pbgaz.png
+  status: 1
+  sort: 0
+  create_time: '2020-08-13 13:50:39'
+  update_time: '2025-05-30 14:41:32'
+- id: 316
+  pid: 139
+  path: /0/113/139/
+  name: 公共模板
+  type: 5
+  url: /appSetting/publicRoutine/publicRoutineTemplate
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2020-08-27 14:15:41'
+  update_time: '2021-03-05 16:07:41'
+- id: 317
+  pid: 452
+  path: /0/452/
+  name: 订单核销
+  type: 5
+  url: /javaMobile/orderCancellation
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-08-27 14:51:47'
+  update_time: '2020-09-12 15:19:51'
+- id: 318
+  pid: 43
+  path: /0/42/43/
+  name: 商品删除
+  type: 5
+  url: api/admin/store/product/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:12:53'
+  update_time: '2020-08-31 10:07:24'
+- id: 319
+  pid: 43
+  path: /0/42/43/
+  name: 商品上架
+  type: 5
+  url: api/admin/store/product/putOnShell
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:14:14'
+  update_time: '2020-08-31 10:07:22'
+- id: 320
+  pid: 43
+  path: /0/42/43/
+  name: 商品下架
+  type: 5
+  url: api/admin/store/product/offShell
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:14:33'
+  update_time: '2020-08-31 10:07:23'
+- id: 321
+  pid: 43
+  path: /0/42/43/
+  name: 库存变动
+  type: 5
+  url: api/admin/store/product/stock
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:15:07'
+  update_time: '2020-08-31 10:07:21'
+- id: 322
+  pid: 43
+  path: /0/42/43/
+  name: 虚拟销量
+  type: 5
+  url: api/admin/store/product/ficti
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:15:59'
+  update_time: '2020-08-31 10:07:21'
+- id: 323
+  pid: 127
+  path: /0/42/127/
+  name: 规格添加
+  type: 5
+  url: api/admin/store/product/rule/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:25:25'
+  update_time: '2020-08-28 16:26:44'
+- id: 324
+  pid: 127
+  path: /0/42/127/
+  name: 规格修改
+  type: 5
+  url: api/admin/store/product/rule/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:25:40'
+  update_time: '2021-02-04 12:16:35'
+- id: 325
+  pid: 127
+  path: /0/42/127/
+  name: 规格删除
+  type: 5
+  url: api/admin/store/product/rule/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:26:01'
+  update_time: '2021-02-04 15:19:41'
+- id: 328
+  pid: 128
+  path: /0/42/128/
+  name: 商品评论添加
+  type: 5
+  url: api/admin/store/product/reply/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:27:53'
+  update_time: '2020-08-28 16:27:53'
+- id: 329
+  pid: 128
+  path: /0/42/128/
+  name: 商品评论修改
+  type: 5
+  url: api/admin/store/product/reply/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:28:18'
+  update_time: '2020-08-28 16:28:18'
+- id: 331
+  pid: 128
+  path: /0/42/128/
+  name: 商品评论删除
+  type: 5
+  url: api/admin/store/product/reply/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:29:57'
+  update_time: '2020-08-28 16:30:02'
+- id: 333
+  pid: 128
+  path: /0/42/128/
+  name: 商品评论回复
+  type: 5
+  url: api/admin/store/product/reply/comment
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-28 16:30:38'
+  update_time: '2020-08-28 16:30:38'
+- id: 335
+  pid: 46
+  path: /0/45/46/
+  name: 订单删除
+  type: 5
+  url: api/admin/store/order/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:33:49'
+  update_time: '2021-03-11 09:33:59'
+- id: 337
+  pid: 46
+  path: /0/45/46/
+  name: 订单标记
+  type: 5
+  url: api/admin/store/order/mark
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:34:25'
+  update_time: '2020-08-29 09:34:25'
+- id: 338
+  pid: 46
+  path: /0/45/46/
+  name: 订单退款
+  type: 5
+  url: api/admin/store/order/refund
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:34:38'
+  update_time: '2020-08-29 09:34:38'
+- id: 339
+  pid: 46
+  path: /0/45/46/
+  name: 订单拒绝退款
+  type: 5
+  url: api/admin/store/order/refund/refuse
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:35:08'
+  update_time: '2020-08-29 09:35:08'
+- id: 340
+  pid: 46
+  path: /0/45/46/
+  name: 订单发货
+  type: 5
+  url: api/admin/store/order/send
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:35:33'
+  update_time: '2021-03-11 09:34:07'
+- id: 341
+  pid: 46
+  path: /0/45/46/
+  name: 订单更新
+  type: 5
+  url: api/admin/store/order/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:35:44'
+  update_time: '2020-08-29 09:35:44'
+- id: 345
+  pid: 48
+  path: /0/47/48/
+  name: 用户修改
+  type: 5
+  url: api/admin/user/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:39:12'
+  update_time: '2020-08-29 09:39:12'
+- id: 346
+  pid: 48
+  path: /0/47/48/
+  name: 用户详情
+  type: 5
+  url: api/admin/user/infobycondition
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:39:22'
+  update_time: '2020-08-29 09:41:16'
+- id: 347
+  pid: 48
+  path: /0/47/48/
+  name: 用户分组
+  type: 5
+  url: api/admin/user/group
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:39:31'
+  update_time: '2020-08-29 09:39:31'
+- id: 348
+  pid: 48
+  path: /0/47/48/
+  name: 用户删除
+  type: 5
+  url: api/admin/user/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:39:49'
+  update_time: '2020-08-29 09:39:49'
+- id: 349
+  pid: 48
+  path: /0/47/48/
+  name: 用户打标签
+  type: 5
+  url: api/admin/user/tag
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:40:02'
+  update_time: '2020-08-29 09:40:02'
+- id: 350
+  pid: 48
+  path: /0/47/48/
+  name: 修改积分余额
+  type: 5
+  url: api/admin/user/operate/founds
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:41:50'
+  update_time: '2020-08-29 09:41:50'
+- id: 351
+  pid: 162
+  path: /0/47/162/
+  name: 用户等级添加
+  type: 5
+  url: api/admin/system/user/level/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:43:32'
+  update_time: '2020-08-29 09:44:47'
+- id: 352
+  pid: 162
+  path: /0/47/162/
+  name: 用户等级修改
+  type: 5
+  url: api/admin/system/user/level/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:46:00'
+  update_time: '2020-08-29 09:46:00'
+- id: 353
+  pid: 162
+  path: /0/47/162/
+  name: 用户等级删除
+  type: 5
+  url: api/admin/system/user/level/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:46:13'
+  update_time: '2020-08-29 09:46:13'
+- id: 356
+  pid: 162
+  path: /0/47/162/
+  name: 用户等级是否显示
+  type: 5
+  url: api/admin/system/user/level/use
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:47:41'
+  update_time: '2020-08-29 09:47:41'
+- id: 357
+  pid: 49
+  path: /0/47/49/
+  name: 用户标签添加
+  type: 5
+  url: api/admin/user/tag/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:48:13'
+  update_time: '2020-08-29 09:49:20'
+- id: 358
+  pid: 49
+  path: /0/47/49/
+  name: 用户标签修改
+  type: 5
+  url: api/admin/user/tag/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:48:26'
+  update_time: '2020-08-29 09:49:27'
+- id: 363
+  pid: 164
+  path: /0/47/164/
+  name: 用户分组修改
+  type: 5
+  url: api/admin/user/group/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:52:23'
+  update_time: '2020-08-29 09:52:23'
+- id: 364
+  pid: 164
+  path: /0/47/164/
+  name: 用户分组删除
+  type: 5
+  url: api/admin/user/group/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:52:35'
+  update_time: '2020-08-29 09:52:35'
+- id: 366
+  pid: 164
+  path: /0/47/164/
+  name: 用户分组列表
+  type: 5
+  url: api/admin/user/group/list
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:53:09'
+  update_time: '2020-08-29 09:53:09'
+- id: 367
+  pid: 57
+  path: /0/56/57/
+  name: 文章添加
+  type: 5
+  url: api/admin/article/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:54:14'
+  update_time: '2020-08-29 09:54:14'
+- id: 368
+  pid: 57
+  path: /0/56/57/
+  name: 文章删除
+  type: 5
+  url: api/admin/article/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:55:05'
+  update_time: '2020-08-29 09:55:05'
+- id: 369
+  pid: 57
+  path: /0/56/57/
+  name: 文章修改
+  type: 5
+  url: api/admin/article/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:55:15'
+  update_time: '2020-08-29 09:55:15'
+- id: 372
+  pid: 57
+  path: /0/56/57/
+  name: 文章绑定产品
+  type: 5
+  url: api/admin/article/bind/product
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:56:40'
+  update_time: '2020-08-29 09:56:40'
+- id: 373
+  pid: 115
+  path: /0/113/114/115/
+  name: 微信菜单保存
+  type: 5
+  url: api/admin/wechat/menu/public/create
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 09:59:41'
+  update_time: '2020-08-29 09:59:41'
+- id: 374
+  pid: 115
+  path: /0/113/114/115/
+  name: 微信菜单删除
+  type: 5
+  url: api/admin/wechat/menu/public/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:00:02'
+  update_time: '2020-08-29 10:00:02'
+- id: 375
+  pid: 172
+  path: /0/113/114/141/172/
+  name: 关键字添加
+  type: 5
+  url: api/admin/wechat/keywords/reply/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:02:20'
+  update_time: '2020-08-29 10:02:20'
+- id: 376
+  pid: 172
+  path: /0/113/114/141/172/
+  name: 关键字删除
+  type: 5
+  url: api/admin/wechat/keywords/reply/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:02:48'
+  update_time: '2020-08-29 10:02:48'
+- id: 377
+  pid: 172
+  path: /0/113/114/141/172/
+  name: 关键字修改
+  type: 5
+  url: api/admin/wechat/keywords/reply/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:03:00'
+  update_time: '2020-08-29 10:03:00'
+- id: 381
+  pid: 174
+  path: /0/113/114/174/
+  name: 微信模板添加
+  type: 5
+  url: api/admin/wechat/template/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:05:03'
+  update_time: '2020-08-29 10:06:14'
+- id: 382
+  pid: 174
+  path: /0/113/114/174/
+  name: 微信模板修改
+  type: 5
+  url: api/admin/wechat/template/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:05:35'
+  update_time: '2020-08-29 10:06:19'
+- id: 383
+  pid: 174
+  path: /0/113/114/174/
+  name: 微信模板删除
+  type: 5
+  url: api/admin/wechat/template/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:05:44'
+  update_time: '2020-08-29 10:06:24'
+- id: 385
+  pid: 174
+  path: /0/113/114/174/
+  name: 微信模板状态更新
+  type: 5
+  url: api/admin/wechat/template/status
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:06:55'
+  update_time: '2020-08-29 10:06:55'
+- id: 387
+  pid: 174
+  path: /0/113/114/174/
+  name: 微信模板行业信息
+  type: 5
+  url: api/admin/wechat/template/industry
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:07:32'
+  update_time: '2020-08-29 10:07:32'
+- id: 389
+  pid: 140
+  path: /0/113/139/140/
+  name: 我的模板添加
+  type: 5
+  url: api/admin/wechat/program/my/temp/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:08:31'
+  update_time: '2020-08-29 10:08:31'
+- id: 390
+  pid: 140
+  path: /0/113/139/140/
+  name: 我的模板修改
+  type: 5
+  url: api/admin/wechat/program/my/temp/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:08:41'
+  update_time: '2020-08-29 10:08:41'
+- id: 392
+  pid: 140
+  path: /0/113/139/140/
+  name: 我的模板状态更新
+  type: 5
+  url: api/admin/wechat/program/my/temp/status
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:09:44'
+  update_time: '2020-08-29 10:09:44'
+- id: 393
+  pid: 316
+  path: /0/113/139/316/
+  name: 公共模板行业信息
+  type: 5
+  url: api/admin/wechat/program/category
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:10:28'
+  update_time: '2020-08-29 10:10:28'
+- id: 396
+  pid: 140
+  path: /0/113/139/140/
+  name: 根据公共模板获取关键词列表
+  type: 5
+  url: api/admin/wechat/program/getWeChatKeywordsByTid
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:11:56'
+  update_time: '2020-08-29 10:11:56'
+- id: 397
+  pid: 158
+  path: /0/118/119/158/
+  name: 优惠券添加
+  type: 5
+  url: api/admin/marketing/coupon/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:12:37'
+  update_time: '2020-08-29 10:16:13'
+- id: 398
+  pid: 158
+  path: /0/118/119/158/
+  name: 优惠券状态更新
+  type: 5
+  url: api/admin/marketing/coupon/update/status
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:13:10'
+  update_time: '2020-08-29 10:16:20'
+- id: 402
+  pid: 159
+  path: /0/118/119/159/
+  name: 领取优惠券
+  type: 5
+  url: api/admin/marketing/coupon/user/receive
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:18:21'
+  update_time: '2020-08-29 10:18:48'
+- id: 403
+  pid: 54
+  path: /0/51/52/54/
+  name: 管理员添加
+  type: 5
+  url: api/admin/system/admin/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:22:43'
+  update_time: '2020-08-29 10:26:11'
+- id: 404
+  pid: 54
+  path: /0/51/52/54/
+  name: 管理员修改
+  type: 5
+  url: api/admin/system/admin/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:23:00'
+  update_time: '2020-08-29 10:26:09'
+- id: 405
+  pid: 54
+  path: /0/51/52/54/
+  name: 管理员删除
+  type: 5
+  url: api/admin/system/admin/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:23:11'
+  update_time: '2020-08-29 10:26:06'
+- id: 408
+  pid: 53
+  path: /0/51/52/53/
+  name: 身份添加
+  type: 5
+  url: api/admin/system/role/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:26:52'
+  update_time: '2020-08-29 10:26:52'
+- id: 409
+  pid: 53
+  path: /0/51/52/53/
+  name: 身份删除
+  type: 5
+  url: api/admin/system/role/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:27:07'
+  update_time: '2020-08-29 10:27:07'
+- id: 410
+  pid: 53
+  path: /0/51/52/53/
+  name: 身份修改
+  type: 5
+  url: api/admin/system/role/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:27:27'
+  update_time: '2020-08-29 10:27:27'
+- id: 432
+  pid: 69
+  path: /0/66/67/69/
+  name: 数据组添加
+  type: 5
+  url: api/admin/system/group/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:41:33'
+  update_time: '2020-08-29 10:41:33'
+- id: 433
+  pid: 69
+  path: /0/66/67/69/
+  name: 数据组修改
+  type: 5
+  url: api/admin/system/group/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:41:49'
+  update_time: '2020-08-29 10:41:49'
+- id: 434
+  pid: 69
+  path: /0/66/67/69/
+  name: 数据组删除
+  type: 5
+  url: api/admin/system/group/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:41:59'
+  update_time: '2020-08-29 10:41:59'
+- id: 437
+  pid: 69
+  path: /0/66/67/69/
+  name: 组合数据添加
+  type: 5
+  url: api/admin/system/group/data/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:43:00'
+  update_time: '2020-08-29 10:43:00'
+- id: 438
+  pid: 69
+  path: /0/66/67/69/
+  name: 组合数据修改
+  type: 5
+  url: api/admin/system/group/data/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:43:16'
+  update_time: '2020-08-29 10:43:16'
+- id: 439
+  pid: 69
+  path: /0/66/67/69/
+  name: 组合数据删除
+  type: 5
+  url: api/admin/system/group/data/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:43:41'
+  update_time: '2020-08-29 10:43:41'
+- id: 442
+  pid: 250
+  path: /0/66/67/250/
+  name: 表单添加
+  type: 5
+  url: api/admin/system/form/temp/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:45:23'
+  update_time: '2020-08-29 10:45:23'
+- id: 443
+  pid: 250
+  path: /0/66/67/250/
+  name: 表单删除
+  type: 5
+  url: api/admin/system/form/temp/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:45:40'
+  update_time: '2020-08-29 10:45:40'
+- id: 444
+  pid: 250
+  path: /0/66/67/250/
+  name: 表单修改
+  type: 5
+  url: api/admin/system/form/temp/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2020-08-29 10:46:06'
+  update_time: '2020-08-29 10:46:06'
+- id: 450
+  pid: 452
+  path: /0/452/
+  name: 订单统计
+  type: 5
+  url: /javaMobile/orderStatistics
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-03 10:27:31'
+  update_time: '2020-09-12 15:20:13'
+- id: 452
+  pid: 0
+  path: /0/
+  name: 移动端管理
+  type: 5
+  url: /javaMobile
+  extra: mobile-phone
+  status: 1
+  sort: 0
+  create_time: '2020-09-07 11:21:03'
+  update_time: '2020-09-12 15:18:48'
+- id: 454
+  pid: 100
+  path: /0/100/
+  name: 99Api
+  type: 6
+  url: 99Api
+  extra: '122'
+  status: 1
+  sort: 4
+  create_time: '2020-09-08 12:17:36'
+  update_time: '2020-09-08 12:18:44'
+- id: 459
+  pid: 118
+  path: /0/118/
+  name: 秒杀管理
+  type: 5
+  url: /marketing/seckill
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 10:02:39'
+  update_time: '2020-09-17 10:02:39'
+- id: 460
+  pid: 459
+  path: /0/118/459/
+  name: 秒杀配置
+  type: 5
+  url: /marketing/seckill/config
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 10:37:42'
+  update_time: '2020-09-17 10:41:30'
+- id: 461
+  pid: 459
+  path: /0/118/459/
+  name: 秒杀商品
+  type: 5
+  url: /marketing/seckill/list
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 10:38:27'
+  update_time: '2020-09-17 10:41:40'
+- id: 464
+  pid: 0
+  path: /0/
+  name: 财务
+  type: 5
+  url: /financial
+  extra: s-finance
+  status: 1
+  sort: 1
+  create_time: '2020-09-17 14:34:44'
+  update_time: '2020-09-17 14:34:44'
+- id: 465
+  pid: 464
+  path: /0/464/
+  name: 财务操作
+  type: 5
+  url: /financial/commission
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:35:37'
+  update_time: '2020-09-17 14:35:37'
+- id: 466
+  pid: 465
+  path: /0/464/465/
+  name: 申请提现
+  type: 5
+  url: /financial/commission/template
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:36:04'
+  update_time: '2020-09-17 14:36:04'
+- id: 467
+  pid: 464
+  path: /0/464/
+  name: 财务记录
+  type: 5
+  url: /financial/record
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:36:40'
+  update_time: '2020-09-17 14:36:40'
+- id: 468
+  pid: 467
+  path: /0/464/467/
+  name: 充值记录
+  type: 5
+  url: /financial/record/charge
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:36:55'
+  update_time: '2020-09-17 14:37:22'
+- id: 469
+  pid: 467
+  path: /0/464/467/
+  name: 资金监控
+  type: 5
+  url: /financial/record/monitor
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:37:35'
+  update_time: '2020-09-17 14:37:35'
+- id: 470
+  pid: 464
+  path: /0/464/
+  name: 佣金记录
+  type: 5
+  url: /financial/brokerage
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-09-17 14:38:16'
+  update_time: '2020-09-17 14:38:16'
+- id: 477
+  pid: 477
+  path: /0/477/
+  name: '22222'
+  type: 1
+  url: ''
+  extra: crmebimage/content/2020/10/19/6c8ba5e093384f589d212ff77e898d39kpfzjv8h3c.png
+  status: 1
+  sort: 999999999
+  create_time: '2020-10-20 14:44:07'
+  update_time: '2021-01-25 10:02:25'
+- id: 492
+  pid: 118
+  path: /0/118/
+  name: 砍价管理
+  type: 5
+  url: /marketing/bargain
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-16 12:29:25'
+  update_time: '2020-11-16 12:29:25'
+- id: 493
+  pid: 492
+  path: /0/118/492/
+  name: 砍价商品
+  type: 5
+  url: /marketing/bargain/bargainGoods
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-16 14:19:46'
+  update_time: '2020-11-16 14:19:46'
+- id: 494
+  pid: 492
+  path: /0/118/492/
+  name: 砍价列表
+  type: 5
+  url: /marketing/bargain/bargainList
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-16 14:38:57'
+  update_time: '2020-11-16 14:38:57'
+- id: 495
+  pid: 118
+  path: /0/118/
+  name: 拼团管理
+  type: 5
+  url: /marketing/groupBuy
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-19 14:06:51'
+  update_time: '2020-11-19 14:06:51'
+- id: 496
+  pid: 495
+  path: /0/118/495/
+  name: 拼团商品
+  type: 5
+  url: /marketing/groupBuy/groupGoods
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-19 14:07:32'
+  update_time: '2020-11-19 14:07:32'
+- id: 497
+  pid: 495
+  path: /0/118/495/
+  name: 拼团列表
+  type: 5
+  url: /marketing/groupBuy/groupList
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2020-11-19 14:07:57'
+  update_time: '2020-11-19 14:07:57'
+- id: 500
+  pid: 0
+  path: /0/
+  name: 第三方接口设置
+  type: 6
+  url: short_letter_switch
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2020-12-10 10:58:25'
+  update_time: '2020-12-10 10:59:39'
+- id: 501
+  pid: 500
+  path: /0/500/
+  name: 短信配置
+  type: 6
+  url: short_letter_switch
+  extra: '111'
+  status: 1
+  sort: 1
+  create_time: '2020-12-10 10:59:08'
+  update_time: '2020-12-10 12:05:54'
+- id: 502
+  pid: 500
+  path: /0/500/
+  name: 采集商品配置
+  type: 6
+  url: copy_product
+  extra: '127'
+  status: 1
+  sort: 1
+  create_time: '2020-12-10 11:00:32'
+  update_time: '2020-12-10 12:18:38'
+- id: 503
+  pid: 500
+  path: /0/500/
+  name: 物流查询
+  type: 6
+  url: logistics_select
+  extra: '128'
+  status: 1
+  sort: 1
+  create_time: '2020-12-10 11:00:51'
+  update_time: '2020-12-10 12:18:57'
+- id: 504
+  pid: 500
+  path: /0/500/
+  name: 电子面单
+  type: 6
+  url: electronic_sheet
+  extra: '129'
+  status: 1
+  sort: 1
+  create_time: '2020-12-10 11:01:03'
+  update_time: '2020-12-10 12:19:02'
+- id: 505
+  pid: 51
+  path: /0/51/
+  name: 一号通
+  type: 5
+  url: /operation/onePass
+  extra: null
+  status: 1
+  sort: 8
+  create_time: '2020-12-10 11:06:44'
+  update_time: '2020-12-10 11:07:46'
+- id: 528
+  pid: 66
+  path: /0/66/
+  name: 素材管理
+  type: 5
+  url: /maintain/picture
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2021-01-23 11:28:28'
+  update_time: '2021-01-23 11:29:19'
+- id: 540
+  pid: 54
+  path: /0/51/52/54/
+  name: 管理员状态更新
+  type: 5
+  url: api/admin/system/admin/updateStatus
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 10:59:10'
+  update_time: '2021-02-04 10:59:17'
+- id: 541
+  pid: 55
+  path: /0/51/52/55/
+  name: 权限列表
+  type: 5
+  url: api/admin/category/list
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:06:43'
+  update_time: '2021-02-04 11:06:43'
+- id: 542
+  pid: 55
+  path: /0/51/52/55/
+  name: 权限新增
+  type: 5
+  url: api/admin/category/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:08:11'
+  update_time: '2021-02-04 11:08:11'
+- id: 543
+  pid: 55
+  path: /0/51/52/55/
+  name: 权限删除
+  type: 5
+  url: api/admin/category/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:11:16'
+  update_time: '2021-02-04 11:11:16'
+- id: 544
+  pid: 55
+  path: /0/51/52/55/
+  name: 权限更新
+  type: 5
+  url: api/admin/category/update
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:11:49'
+  update_time: '2021-02-04 11:11:49'
+- id: 546
+  pid: 55
+  path: /0/51/52/55/
+  name: 更新权限状态
+  type: 5
+  url: api/admin/category/updateStatus
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:14:19'
+  update_time: '2021-02-04 11:14:19'
+- id: 547
+  pid: 505
+  path: /0/51/505/
+  name: 一号通登录
+  type: 5
+  url: api/admin/pass/login
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:27:13'
+  update_time: '2021-02-04 11:27:13'
+- id: 548
+  pid: 505
+  path: /0/51/505/
+  name: 一号通注销
+  type: 5
+  url: api/admin/pass/logout
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:28:06'
+  update_time: '2021-02-04 11:28:06'
+- id: 549
+  pid: 505
+  path: /0/51/505/
+  name: 一号通修改密码
+  type: 5
+  url: api/admin/pass/update/password
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:28:33'
+  update_time: '2021-02-04 11:28:33'
+- id: 550
+  pid: 505
+  path: /0/51/505/
+  name: 一号通修改手机号码
+  type: 5
+  url: api/admin/pass/update/phone
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:29:02'
+  update_time: '2021-02-04 11:29:02'
+- id: 551
+  pid: 505
+  path: /0/51/505/
+  name: 一号通获取验证码
+  type: 5
+  url: api/admin/pass/sendUserCode
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:30:38'
+  update_time: '2021-02-04 11:30:38'
+- id: 552
+  pid: 80
+  path: /0/51/80/
+  name: 系统设置保存
+  type: 5
+  url: api/admin/system/config/save/form
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:37:51'
+  update_time: '2021-02-04 11:37:51'
+- id: 553
+  pid: 505
+  path: /0/51/505/
+  name: 修改短信签名
+  type: 5
+  url: api/admin/sms/modify/sign
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:43:36'
+  update_time: '2021-02-04 11:43:36'
+- id: 554
+  pid: 505
+  path: /0/51/505/
+  name: 短信模板
+  type: 5
+  url: api/admin/sms/temps
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:47:24'
+  update_time: '2021-02-04 11:47:24'
+- id: 555
+  pid: 505
+  path: /0/51/505/
+  name: 申请短信模板
+  type: 5
+  url: api/admin/sms/temp/apply
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:47:52'
+  update_time: '2021-02-04 11:47:52'
+- id: 556
+  pid: 505
+  path: /0/51/505/
+  name: 模板申请记录
+  type: 5
+  url: api/admin/sms/applys
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 11:48:41'
+  update_time: '2021-02-04 11:48:41'
+- id: 559
+  pid: 49
+  path: /0/47/49/
+  name: 用户标签删除
+  type: 5
+  url: api/admin/user/tag/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 15:37:48'
+  update_time: '2021-02-04 15:37:48'
+- id: 561
+  pid: 164
+  path: /0/47/164/
+  name: 用户分组新增
+  type: 5
+  url: api/admin/user/group/save
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 16:16:35'
+  update_time: '2021-02-04 16:16:35'
+- id: 562
+  pid: 57
+  path: /0/56/57/
+  name: 文章列表
+  type: 5
+  url: api/admin/article/list
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 16:27:49'
+  update_time: '2021-02-04 16:27:49'
+- id: 563
+  pid: 468
+  path: /0/464/467/468/
+  name: 充值记录列表
+  type: 5
+  url: api/admin/user/topUpLog/list
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 17:02:14'
+  update_time: '2021-02-04 17:02:14'
+- id: 564
+  pid: 468
+  path: /0/464/467/468/
+  name: 充值记录删除
+  type: 5
+  url: api/admin/user/topUpLog/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 17:03:39'
+  update_time: '2021-02-04 17:03:39'
+- id: 581
+  pid: 528
+  path: /0/66/528/
+  name: 删除素材
+  type: 5
+  url: api/admin/system/attachment/delete
+  extra: null
+  status: 0
+  sort: 0
+  create_time: '2021-02-04 17:34:29'
+  update_time: '2021-02-04 17:35:23'
+- id: 582
+  pid: 66
+  path: /0/66/
+  name: 申请授权
+  type: 5
+  url: /maintain/authCRMEB
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-02-25 19:04:23'
+  update_time: '2021-02-25 19:11:20'
+- id: 583
+  pid: 139
+  path: /0/113/139/
+  name: 小程序订阅消息
+  type: 5
+  url: /appSetting/publicRoutine/template/0
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-03-05 16:12:51'
+  update_time: '2021-03-05 16:18:08'
+- id: 592
+  pid: 100
+  path: /0/100/
+  name: app配置
+  type: 6
+  url: app配置
+  extra: '134'
+  status: 1
+  sort: 1
+  create_time: '2021-03-24 16:17:15'
+  update_time: '2021-03-24 16:17:30'
+- id: 598
+  pid: 118
+  path: /0/118/
+  name: 视频号管理
+  type: 5
+  url: /marketing/videoChannel
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-05-20 09:27:26'
+  update_time: '2021-05-20 09:27:26'
+- id: 599
+  pid: 598
+  path: /0/118/598/
+  name: 商品列表
+  type: 5
+  url: /marketing/videoChannel/list
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-05-20 09:43:23'
+  update_time: '2021-05-21 14:53:08'
+- id: 600
+  pid: 598
+  path: /0/118/598/
+  name: 草稿列表
+  type: 5
+  url: /marketing/videoChannel/draftList
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-05-21 14:54:28'
+  update_time: '2021-05-21 14:54:28'
+- id: 601
+  pid: 0
+  path: /0/
+  name: 随笔
+  type: 3
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/d567410dd8d648d48b48233cd8927003xoj2sf9g71.jpeg
+  status: 1
+  sort: 1
+  create_time: '2021-06-09 12:31:34'
+  update_time: '2025-05-30 15:07:17'
+- id: 603
+  pid: 51
+  path: /0/51/
+  name: 页面管理
+  type: 5
+  url: /operation/design
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-06-15 11:01:23'
+  update_time: '2021-07-15 13:20:41'
+- id: 604
+  pid: 603
+  path: /0/51/603/
+  name: 页面设计
+  type: 5
+  url: /operation/design/viewDesign
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2021-06-15 11:03:29'
+  update_time: '2021-07-15 13:21:43'
+- id: 621
+  pid: 603
+  path: /0/51/603/
+  name: 一键换色
+  type: 5
+  url: /operation/design/theme
+  extra: ''
+  status: 1
+  sort: 2
+  create_time: '2021-07-15 12:00:07'
+  update_time: '2021-07-20 11:24:25'
+- id: 624
+  pid: 81
+  path: /0/81/
+  name: 物流配置
+  type: 6
+  url: Logistics configuration
+  extra: '74'
+  status: 1
+  sort: 1
+  create_time: '2021-08-13 18:37:38'
+  update_time: '2021-08-14 10:09:03'
+- id: 625
+  pid: 51
+  path: /0/51/
+  name: 发货设置
+  type: 5
+  url: /operation/deliverGoods
+  extra: null
+  status: 1
+  sort: 1
+  create_time: '2021-08-14 09:51:22'
+  update_time: '2021-08-14 09:51:22'
+- id: 626
+  pid: 625
+  path: /0/51/625/
+  name: 提货设置
+  type: 5
+  url: /operation/deliverGoods/takeGoods
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 09:56:59'
+  update_time: '2021-08-14 09:56:59'
+- id: 627
+  pid: 625
+  path: /0/51/625/
+  name: 运费模板
+  type: 5
+  url: /operation/deliverGoods/freightSet
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 10:01:23'
+  update_time: '2021-08-14 10:59:21'
+- id: 628
+  pid: 626
+  path: /0/51/625/626/
+  name: 提货点
+  type: 5
+  url: /operation/deliverGoods/takeGoods/deliveryAddress
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 10:42:16'
+  update_time: '2021-08-14 10:57:45'
+- id: 629
+  pid: 626
+  path: /0/51/625/626/
+  name: 核销订单
+  type: 5
+  url: /operation/deliverGoods/takeGoods/collateOrder
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 10:43:17'
+  update_time: '2021-08-14 10:57:51'
+- id: 630
+  pid: 626
+  path: /0/51/625/626/
+  name: 核销员
+  type: 5
+  url: /operation/deliverGoods/takeGoods/collateUser
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 10:43:48'
+  update_time: '2021-08-14 10:57:59'
+- id: 631
+  pid: 66
+  path: /0/66/
+  name: 物流设置
+  type: 5
+  url: /maintain/logistics
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 11:26:25'
+  update_time: '2021-08-14 11:26:25'
+- id: 632
+  pid: 631
+  path: /0/66/631/
+  name: 城市数据
+  type: 5
+  url: /maintain/logistics/cityList
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 11:27:10'
+  update_time: '2021-08-14 11:30:48'
+- id: 633
+  pid: 631
+  path: /0/66/631/
+  name: 物流公司
+  type: 5
+  url: /maintain/logistics/companyList
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-14 11:27:46'
+  update_time: '2021-08-14 11:30:52'
+- id: 635
+  pid: 95
+  path: /0/95/
+  name: APP升级配置
+  type: 6
+  url: APP upgrade
+  extra: '138'
+  status: 1
+  sort: 1
+  create_time: '2021-08-19 15:16:32'
+  update_time: '2021-08-19 15:22:02'
+- id: 637
+  pid: 0
+  path: /0/
+  name: 统计管理
+  type: 5
+  url: /statistic
+  extra: s-data
+  status: 1
+  sort: 0
+  create_time: '2021-08-27 14:43:10'
+  update_time: '2021-08-27 14:43:57'
+- id: 638
+  pid: 637
+  path: /0/637/
+  name: 商品统计
+  type: 5
+  url: /statistic/product
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-27 14:44:27'
+  update_time: '2021-08-27 14:44:27'
+- id: 639
+  pid: 637
+  path: /0/637/
+  name: 用户统计
+  type: 5
+  url: /statistic/statuser
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-27 14:45:10'
+  update_time: '2021-09-15 12:26:41'
+- id: 640
+  pid: 637
+  path: /0/637/
+  name: 交易统计
+  type: 5
+  url: /statistic/transaction
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-27 14:45:45'
+  update_time: '2021-08-27 14:45:45'
+- id: 641
+  pid: 638
+  path: /0/637/638/
+  name: 统计
+  type: 5
+  url: /statistic/product/visualization
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-28 10:21:46'
+  update_time: '2021-08-28 11:39:49'
+- id: 642
+  pid: 638
+  path: /0/637/638/
+  name: 商品排行
+  type: 5
+  url: /statistic/product/tableData
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-08-28 10:22:40'
+  update_time: '2021-08-28 11:40:00'
+- id: 664
+  pid: 500
+  path: /0/500/
+  name: 统计
+  type: 6
+  url: crmeb_tongji
+  extra: '141'
+  status: 1
+  sort: 1
+  create_time: '2021-09-15 15:10:02'
+  update_time: '2021-09-15 15:10:15'
+- id: 693
+  pid: 500
+  path: /0/500/
+  name: 小票打印(易联云)
+  type: 6
+  url: yilianyun
+  extra: '143'
+  status: 1
+  sort: 1
+  create_time: '2021-11-27 16:10:47'
+  update_time: '2021-11-27 16:11:09'
+- id: 694
+  pid: 0
+  path: /0/
+  name: 站点
+  type: 5
+  url: /sites
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-11-29 16:01:24'
+  update_time: '2021-11-29 16:01:24'
+- id: 695
+  pid: 694
+  path: /0/694/
+  name: 站点列表
+  type: 5
+  url: /sites/index
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-11-29 16:01:47'
+  update_time: '2021-11-29 16:01:47'
+- id: 696
+  pid: 0
+  path: /0/
+  name: ' 推广'
+  type: 5
+  url: /promotion
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-11-29 16:02:27'
+  update_time: '2021-11-29 16:02:27'
+- id: 697
+  pid: 696
+  path: /0/696/
+  name: 推广管理
+  type: 5
+  url: /promotion/manager
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-11-29 16:03:09'
+  update_time: '2021-11-29 16:03:09'
+- id: 698
+  pid: 696
+  path: /0/696/
+  name: 推广记录
+  type: 5
+  url: /promotion/record
+  extra: null
+  status: 1
+  sort: 0
+  create_time: '2021-11-29 16:03:24'
+  update_time: '2021-11-29 16:03:24'
+- id: 718
+  pid: 0
+  path: /0/
+  name: 导航图标素材
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2021-12-25 10:14:18'
+  update_time: '2024-05-13 11:22:32'
+- id: 719
+  pid: 0
+  path: /0/
+  name: LOGO
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 2
+  create_time: '2021-12-25 10:32:28'
+  update_time: '2021-12-25 10:32:28'
+- id: 721
+  pid: 0
+  path: /0/
+  name: 分类素材
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 4
+  create_time: '2021-12-25 10:39:24'
+  update_time: '2021-12-25 10:39:24'
+- id: 723
+  pid: 0
+  path: /0/
+  name: 等级图标single
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 2
+  create_time: '2021-12-25 10:45:56'
+  update_time: '2025-04-02 14:40:32'
+- id: 732
+  pid: 0
+  path: /0/
+  name: Banner素材
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 2
+  create_time: '2021-12-25 11:32:08'
+  update_time: '2021-12-25 11:32:14'
+- id: 737
+  pid: 0
+  path: /0/
+  name: 商品图
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2021-12-25 12:48:03'
+  update_time: '2024-05-13 11:18:04'
+- id: 739
+  pid: 0
+  path: /0/
+  name: 推广海报
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2021-12-25 13:18:13'
+  update_time: '2021-12-25 13:18:13'
+- id: 740
+  pid: 0
+  path: /0/
+  name: 活动边框
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2024-07-11 11:02:35'
+  update_time: '2024-07-11 11:02:35'
+- id: 741
+  pid: 108
+  path: /0/108/
+  name: 京东云配置
+  type: 6
+  url: 京东云配置
+  extra: '145'
+  status: 1
+  sort: 1
+  create_time: '2024-07-16 10:13:32'
+  update_time: '2024-07-16 10:13:54'
+- id: 742
+  pid: 0
+  path: /0/
+  name: 氛围图
+  type: 2
+  url: url
+  extra: null
+  status: 0
+  sort: 1
+  create_time: '2024-07-22 14:23:55'
+  update_time: '2024-07-22 14:23:55'
+- id: 743
+  pid: 0
+  path: /0/
+  name: 鞋靴服饰
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/d71da6279f7141f6a39a11a2bdb26d8f01hxx09ow5.jpg
+  status: 1
+  sort: 0
+  create_time: '2024-07-22 15:57:33'
+  update_time: '2025-05-30 11:04:17'
+- id: 744
+  pid: 743
+  path: /0/743/
+  name: 男装
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/19b9b999408f4782a6b60029a32b054aqij7q3loyd.png
+  status: 1
+  sort: 0
+  create_time: '2024-07-22 15:57:51'
+  update_time: '2025-05-30 11:02:01'
+- id: 745
+  pid: 743
+  path: /0/743/
+  name: 女装
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/7dc9075cc9554eab915fbd2e6798aec9ckn2fawqdk.jpg
+  status: 1
+  sort: 0
+  create_time: '2024-07-22 15:58:19'
+  update_time: '2025-05-30 11:01:56'
+- id: 746
+  pid: 743
+  path: /0/743/
+  name: 童鞋
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/0095dabf00964e1d97c2c1d413da85e9750u8b4ihu.png
+  status: 1
+  sort: 0
+  create_time: '2024-07-22 15:58:26'
+  update_time: '2025-05-30 11:01:49'
+- id: 751
+  pid: 0
+  path: /0/
+  name: 小说
+  type: 3
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/bcbf29f6946d4018a3becfe3fae8ee5efwlhmn3ekv.jpeg
+  status: 1
+  sort: 0
+  create_time: '2024-11-08 10:47:42'
+  update_time: '2025-05-30 15:07:58'
+- id: 756
+  pid: 95
+  path: /0/95/
+  name: 备案设置
+  type: 6
+  url: beianshezhi
+  extra: '146'
+  status: 1
+  sort: 1
+  create_time: '2024-11-23 11:57:07'
+  update_time: '2024-11-23 15:55:53'
+- id: 790
+  pid: 0
+  path: /0/
+  name: 生活
+  type: 3
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/47c8c25b138e412b81bb9ae37535becbt344udsryc.jpeg
+  status: 1
+  sort: 0
+  create_time: '2025-05-12 10:56:04'
+  update_time: '2025-05-30 15:07:31'
+- id: 792
+  pid: 0
+  path: /0/
+  name: 旅游
+  type: 3
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/4264babd4dad418496a4cc034d77bf64mahxhclt3q.jpeg
+  status: 1
+  sort: 0
+  create_time: '2025-05-13 11:36:14'
+  update_time: '2025-05-30 15:07:51'
+- id: 796
+  pid: 743
+  path: /0/743/
+  name: 运动鞋
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/d71da6279f7141f6a39a11a2bdb26d8f01hxx09ow5.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:02:37'
+  update_time: '2025-05-30 11:02:37'
+- id: 797
+  pid: 743
+  path: /0/743/
+  name: 高跟鞋
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/3a6b27202e394256b00ed63abceb112am0hsu7o3j7.png
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:02:54'
+  update_time: '2025-05-30 11:04:17'
+- id: 798
+  pid: 743
+  path: /0/743/
+  name: 帽子
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/8e666ff35fff4c1380d8da2be7c25b0aeqv44s16z2.png
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:04:10'
+  update_time: '2025-05-30 11:04:10'
+- id: 799
+  pid: 0
+  path: /0/
+  name: 家居生活
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/ea3938796c714557ab2365c33ccac1999m1wmz3x3t.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:04:52'
+  update_time: '2025-05-30 11:06:23'
+- id: 800
+  pid: 799
+  path: /0/799/
+  name: 枕头
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/bbc241159cb64e2ba1e4b22c44e0f33bhypodgkt40.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:06:38'
+  update_time: '2025-05-30 11:06:38'
+- id: 801
+  pid: 799
+  path: /0/799/
+  name: 箱包
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/a0d690e249684595a13acad443c4adf59aj7336ihr.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:06:49'
+  update_time: '2025-05-30 11:06:49'
+- id: 802
+  pid: 799
+  path: /0/799/
+  name: 出行必备
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/3275dc1280d94fe1ac698b2ecf365c66sssx1wf14y.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:07:06'
+  update_time: '2025-05-30 11:07:06'
+- id: 803
+  pid: 281
+  path: /0/281/
+  name: 瑜伽
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/0444e2937759427ba014e02805c104d5phxkta5vnp.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:07:52'
+  update_time: '2025-05-30 11:11:46'
+- id: 804
+  pid: 283
+  path: /0/283/
+  name: 游戏机
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/065644c8a9fb4dd7974eb8a2aab0968chdburiknjk.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:52:57'
+  update_time: '2025-05-30 11:52:57'
+- id: 805
+  pid: 283
+  path: /0/283/
+  name: 音响
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/ae4dfe05ea1e42a5a7255e1614d669c78mhdlrhqvk.jpg
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 11:53:08'
+  update_time: '2025-05-30 11:53:08'
+- id: 806
+  pid: 280
+  path: /0/280/
+  name: 奶瓶
+  type: 1
+  url: ''
+  extra: crmebimage/public/product/2025/05/30/6cabbe15a1294dce984a7215e2a4f35cc1jdd4gy65.png
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 14:49:14'
+  update_time: '2025-05-30 14:49:14'
+- id: 807
+  pid: 0
+  path: /0/
+  name: 运营
+  type: 3
+  url: ''
+  extra: crmebimage/public/store/2025/05/30/7b3d97d7821a40f7bb618bd8dd9189ea0lubmy29hs.png
+  status: 1
+  sort: 0
+  create_time: '2025-05-30 15:09:48'
+  update_time: '2025-05-30 15:09:48'

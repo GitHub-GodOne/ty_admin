@@ -1,0 +1,45 @@
+---
+- id: 40
+  name: '618'
+  type: true
+  starttime: '2025-05-30 00:00:00'
+  endtime: '2025-06-30 23:59:59'
+  style: crmebimage/public/product/2025/05/30/d4e061dd95df4eaf892faf182dbcbbd3s4o7y7zc9d.jpg
+  status: true
+  method: 0
+  products: ''
+  createtime: '2025-05-30 15:35:40'
+  updatetime: '2025-05-30 15:37:32'
+- id: 41
+  name: 双11
+  type: true
+  starttime: '2025-11-01 00:00:00'
+  endtime: '2025-11-30 23:59:59'
+  style: crmebimage/public/product/2025/05/30/33b64c41cc5c4c8a97254080ddf3d58ao5yzhyri5e.jpg
+  status: true
+  method: 0
+  products: ''
+  createtime: '2025-05-30 15:36:04'
+  updatetime: '2025-05-30 15:37:18'
+- id: 42
+  name: 年货节
+  type: false
+  starttime: '2026-01-01 00:00:00'
+  endtime: '2026-02-01 23:59:59'
+  style: crmebimage/public/product/2025/05/30/77a302a864464d3687728411a4efe8abz0yywqp433.png
+  status: true
+  method: 0
+  products: ''
+  createtime: '2025-05-30 15:36:55'
+  updatetime: '2025-05-30 15:36:55'
+- id: 43
+  name: 购物节
+  type: false
+  starttime: '2025-05-30 00:00:00'
+  endtime: '2026-07-31 23:59:59'
+  style: crmebimage/public/product/2025/05/30/50834cdbadba4f49a004ee6e420dade4jwf1kewf8e.png
+  status: true
+  method: 0
+  products: ''
+  createtime: '2025-05-30 15:38:06'
+  updatetime: '2025-05-30 15:38:06'

@@ -1,0 +1,19 @@
+---
+- id: 1
+  uid: 41
+  bargain_id: 30
+  bargain_price_min: 0.0
+  bargain_price: 121.0
+  price: 93.65
+  status: 1
+  add_time: 1749179320765
+  is_del: 0
+- id: 2
+  uid: 41
+  bargain_id: 32
+  bargain_price_min: 0.0
+  bargain_price: 229.6
+  price: 128.34
+  status: 1
+  add_time: 1750477444545
+  is_del: 0

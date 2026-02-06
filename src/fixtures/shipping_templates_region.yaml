@@ -1,0 +1,378 @@
+---
+- id: 1
+  temp_id: 2
+  city_id: 646580
+  title: '[646578,646579,646580]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 2
+  temp_id: 2
+  city_id: 646581
+  title: '[646578,646579,646581]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 3
+  temp_id: 2
+  city_id: 646694
+  title: '[646578,646579,646694]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 4
+  temp_id: 2
+  city_id: 646800
+  title: '[646578,646579,646800]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 5
+  temp_id: 2
+  city_id: 646944
+  title: '[646578,646579,646944]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 6
+  temp_id: 2
+  city_id: 647214
+  title: '[646578,646579,647214]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 7
+  temp_id: 2
+  city_id: 647486
+  title: '[646578,646579,647486]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 8
+  temp_id: 2
+  city_id: 647710
+  title: '[646578,646579,647710]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 9
+  temp_id: 2
+  city_id: 647821
+  title: '[646578,646579,647821]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 10
+  temp_id: 2
+  city_id: 648113
+  title: '[646578,646579,648113]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 11
+  temp_id: 2
+  city_id: 648645
+  title: '[646578,646579,648645]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 12
+  temp_id: 2
+  city_id: 648756
+  title: '[646578,646579,648756]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 13
+  temp_id: 2
+  city_id: 649123
+  title: '[646578,646579,649123]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 14
+  temp_id: 2
+  city_id: 649424
+  title: '[646578,646579,649424]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 15
+  temp_id: 2
+  city_id: 652582
+  title: '[646578,652581,652582]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 16
+  temp_id: 2
+  city_id: 652583
+  title: '[646578,652581,652583]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 17
+  temp_id: 2
+  city_id: 652779
+  title: '[646578,652581,652779]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 18
+  temp_id: 2
+  city_id: 652863
+  title: '[646578,652581,652863]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 19
+  temp_id: 2
+  city_id: 653042
+  title: '[646578,652581,653042]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 20
+  temp_id: 2
+  city_id: 653234
+  title: '[646578,652581,653234]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 21
+  temp_id: 2
+  city_id: 653470
+  title: '[646578,652581,653470]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 22
+  temp_id: 2
+  city_id: 653679
+  title: '[646578,652581,653679]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 23
+  temp_id: 2
+  city_id: 653918
+  title: '[646578,652581,653918]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 24
+  temp_id: 2
+  city_id: 654101
+  title: '[646578,652581,654101]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 25
+  temp_id: 2
+  city_id: 654369
+  title: '[646578,652581,654369]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 26
+  temp_id: 2
+  city_id: 654525
+  title: '[646578,652581,654525]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 27
+  temp_id: 2
+  city_id: 654661
+  title: '[646578,652581,654661]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 28
+  temp_id: 2
+  city_id: 654876
+  title: '[646578,652581,654876]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'
+- id: 29
+  temp_id: 2
+  city_id: 655081
+  title: '[646578,652581,655081]'
+  first: 1.0
+  first_price: 10.0
+  renewal: 1.0
+  renewal_price: 5.0
+  type: 1
+  uniqid: cd99d384772004e4715e8990757d7d4e
+  status: 1
+  create_time: '2025-06-23 09:41:58'
+  update_time: '2025-06-23 09:41:58'

@@ -1,0 +1,22 @@
+---
+- id: 1
+  keywords: default
+  type: text
+  data: '{\"content\":\"暂不理解意思\",\"mediaId\":\"\",\"srcUrl\":\"\",\"articleData\":{}}'
+  status: 1
+  create_time: '2020-12-09 12:32:26'
+  update_time: '2025-05-30 15:26:12'
+- id: 2
+  keywords: 你好
+  type: text
+  data: '{\"content\":\"你好\",\"mediaId\":\"\",\"srcUrl\":\"\",\"articleData\":{}}'
+  status: 1
+  create_time: '2025-03-31 16:17:57'
+  update_time: '2025-05-30 15:24:51'
+- id: 3
+  keywords: subscribe
+  type: text
+  data: '{\"content\":\"感谢关注\",\"mediaId\":\"\",\"srcUrl\":\"\",\"articleData\":{}}'
+  status: 1
+  create_time: '2025-04-24 11:35:11'
+  update_time: '2025-05-30 15:24:28'
