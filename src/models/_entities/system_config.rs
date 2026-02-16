@@ -12,7 +12,7 @@ pub struct Model {
     pub title: String,
     pub form_id: Option<i32>,
     pub value: Option<String>,
-    pub status: Option<i32>,
+    pub status: Option<i16>,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

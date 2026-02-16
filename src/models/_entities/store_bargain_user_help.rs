@@ -9,11 +9,11 @@ use rust_decimal::Decimal;
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
-    pub uid: Option<u32>,
-    pub bargain_id: Option<u32>,
-    pub bargain_user_id: Option<u32>,
+    pub uid: Option<i32>,
+    pub bargain_id: Option<i32>,
+    pub bargain_user_id: Option<i32>,
     pub price: Option<Decimal>,
-    pub add_time: Option<u64>,
+    pub add_time: Option<i64>,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

@@ -9,9 +9,9 @@ use rust_decimal::Decimal;
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
-    pub uid: u32,
+    pub uid: i32,
     pub link_id: String,
-    pub pm: u32,
+    pub pm: i16,
     pub title: String,
     pub category: String,
     #[sea_orm(column_name = "type")]
@@ -19,7 +19,7 @@ pub struct Model {
     pub number: Decimal,
     pub balance: Decimal,
     pub mark: String,
-    pub status: i32,
+    pub status: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

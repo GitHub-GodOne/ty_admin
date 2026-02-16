@@ -12,13 +12,13 @@ pub struct Model {
     #[sea_orm(column_name = "type")]
     pub r#type: String,
     pub description: String,
-    pub is_wechat: i32,
+    pub is_wechat: i16,
     pub wechat_id: i32,
-    pub is_routine: i32,
+    pub is_routine: i16,
     pub routine_id: i32,
-    pub is_sms: i32,
+    pub is_sms: i16,
     pub sms_id: i32,
-    pub send_type: i32,
+    pub send_type: i16,
     pub create_time: DateTime,
 }
 

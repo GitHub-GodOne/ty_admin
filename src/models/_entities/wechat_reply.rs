@@ -12,7 +12,7 @@ pub struct Model {
     #[sea_orm(column_name = "type")]
     pub r#type: String,
     pub data: String,
-    pub status: u32,
+    pub status: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

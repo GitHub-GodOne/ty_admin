@@ -14,7 +14,7 @@ pub struct Model {
     pub att_size: String,
     pub att_type: String,
     pub pid: i32,
-    pub image_type: u32,
+    pub image_type: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

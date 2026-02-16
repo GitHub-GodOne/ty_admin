@@ -18,8 +18,8 @@ pub struct Model {
     pub longitude: String,
     pub valid_time: String,
     pub day_time: String,
-    pub is_show: i32,
-    pub is_del: i32,
+    pub is_show: i16,
+    pub is_del: i16,
     pub create_time: DateTime,
     pub update_time: DateTime,
 }

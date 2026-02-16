@@ -7,7 +7,7 @@ use serde::{Deserialize, Serialize};
 #[sea_orm(table_name = "ty_system_admin")]
 pub struct Model {
     #[sea_orm(primary_key)]
-    pub id: i16,
+    pub id: i32,
     pub account: String,
     pub pwd: String,
     pub real_name: String,
@@ -15,12 +15,12 @@ pub struct Model {
     pub last_ip: Option<String>,
     pub update_time: DateTime,
     pub create_time: DateTime,
-    pub login_count: u32,
-    pub level: u32,
-    pub status: u32,
-    pub is_del: u32,
+    pub login_count: i32,
+    pub level: i16,
+    pub status: i16,
+    pub is_del: i16,
     pub phone: Option<String>,
-    pub is_sms: Option<u32>,
+    pub is_sms: Option<i16>,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

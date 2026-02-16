@@ -37,6 +37,16 @@ uuid = { version = "1.6", features = ["v4"] }
 include_dir = { version = "0.7" }
 axum-extra = { version = "0.10", features = ["form"] }
 rust_decimal = { version = "1.40.0", features = ["serde"] }
+des = { version = "0.8" }
+base64 = { version = "0.22" }
+redis = { version = "0.24", features = ["tokio-comp", "connection-manager"] }
+tower-http = { version = "0.6", features = ["cors", "fs"] }
+reqwest = { version = "0.12", features = ["json"] }
+md5 = { version = "0.7" }
+aes = { version = "0.8" }
+cbc = { version = "0.1", features = ["alloc"] }
+rust_xlsxwriter = { version = "0.79" }
+indexmap = "2.13.0"
 
 [[bin]]
 name = "ty_admin-cli"

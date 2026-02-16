@@ -12,7 +12,7 @@ pub struct Model {
     pub bean_name: Option<String>,
     pub method_name: Option<String>,
     pub params: Option<String>,
-    pub status: i32,
+    pub status: i16,
     pub error: Option<String>,
     pub times: i32,
     pub create_time: Option<DateTime>,

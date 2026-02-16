@@ -15,9 +15,9 @@ pub struct Model {
     pub number: Decimal,
     pub price: Decimal,
     #[sea_orm(column_name = "type")]
-    pub r#type: i32,
+    pub r#type: i16,
     pub uniqid: String,
-    pub status: Option<i32>,
+    pub status: Option<i16>,
     pub create_time: DateTime,
     pub update_time: DateTime,
 }

@@ -10,15 +10,15 @@ pub struct Model {
     pub id: i32,
     pub code: String,
     pub name: String,
-    pub partner_id: i32,
-    pub partner_key: i32,
-    pub net: i32,
+    pub partner_id: i16,
+    pub partner_key: i16,
+    pub net: i16,
     pub account: String,
     pub password: String,
     pub net_name: String,
     pub sort: i32,
-    pub is_show: i32,
-    pub status: i32,
+    pub is_show: i16,
+    pub status: i16,
 }
 
 #[derive(Copy, Clone, Debug, EnumIter, DeriveRelation)]

@@ -1,0 +1,98 @@
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.26s
+warning: the following packages contain code that will be rejected by a future version of Rust: redis v0.24.0
+note: to see what the problems were, use the option `--future-incompat-report`, or run `cargo report future-incompatibilities --id 1`
+     Running `target/debug/ty_admin-cli start`
+[2m2026-02-06T15:56:29.198903Z[0m [33m WARN[0m [1mapp[0m: [2mloco_rs::boot[0m[2m:[0m pretty backtraces are enabled (this is great for development but has a runtime cost for production. disable with `logger.pretty_backtrace` in your config yaml) [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.204560Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::db[0m[2m:[0m auto migrating [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.206911Z[0m [32m INFO[0m [1mapp[0m: [2msea_orm_migration::migrator[0m[2m:[0m Applying all pending migrations [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.214635Z[0m [32m INFO[0m [1mapp[0m: [2msea_orm_migration::migrator[0m[2m:[0m No pending migrations [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.215098Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::boot[0m[2m:[0m initializers loaded [3minitializers[0m[2m=[0m"redis" [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.229864Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /_readiness [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.229946Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /_ping [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.229996Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /_health [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230016Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/register [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230046Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/auth/verify/{token} [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230076Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/login [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230096Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/forgot [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230121Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/reset [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230158Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/auth/current [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230178Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/magic-link [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230197Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/auth/magic-link/{token} [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230221Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/auth/resend-verification-mail [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230244Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/system/admin/list [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230265Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/system/admin/save [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230291Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/system/admin/delete [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230347Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/system/admin/update [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230371Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/system/admin/info [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230393Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/system/admin/updateStatus [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230420Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/system/admin/update/isSms [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230442Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/login [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230463Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/logout [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230484Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/getAdminInfoByToken [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230504Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/getLoginPic [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230525Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/getMenus [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230545Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/login/account/detection [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230567Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/login/admin/update [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230590Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [POST] /api/admin/login/update/password [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230612Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/index [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230634Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/user [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230697Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/user/buy [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230722Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/order [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230748Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/order/week [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230776Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/order/month [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230803Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/chart/order/year [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230828Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/home/operating/data [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230857Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/user/channel [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230885Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/statistics/user/overview [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230910Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/store/product/list [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230931Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/store/product/tabs/headers [2m[3menvironment[0m[2m=[0mdevelopment[0m
+[2m2026-02-06T15:56:29.230956Z[0m [32m INFO[0m [1mapp[0m: [2mloco_rs::controller::app_routes[0m[2m:[0m [GET] /api/admin/store/product/listids/:ids [2m[3menvironment[0m[2m=[0mdevelopment[0m
+
+thread 'main' (3883658) panicked at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/controller/app_routes.rs:302:23:
+Path segments must not start with `:`. For capture groups, use `{capture}`. If you meant to literally match a segment starting with a colon, call `without_v07_checks` on the router.
+stack backtrace:
+   0: __rustc::rust_begin_unwind
+             at /rustc/ed61e7d7e242494fb7057f2657300d9e77bb4fcb/library/std/src/panicking.rs:698:5
+   1: core::panicking::panic_fmt
+             at /rustc/ed61e7d7e242494fb7057f2657300d9e77bb4fcb/library/core/src/panicking.rs:75:14
+   2: axum::routing::Router<S>::route
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/axum-0.8.8/src/routing/mod.rs:52:25
+   3: loco_rs::controller::app_routes::AppRoutes::to_router
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/controller/app_routes.rs:302:23
+   4: loco_rs::boot::setup_routes::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/boot.rs:501:38
+   5: loco_rs::boot::run_app::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/boot.rs:455:73
+   6: loco_rs::boot::create_app::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/boot.rs:418:38
+   7: loco_rs::cli::main::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/loco-rs-0.16.4/src/cli.rs:745:82
+   8: ty_admin_cli::main::{{closure}}
+             at ./src/bin/main.rs:7:34
+   9: <core::pin::Pin<P> as core::future::future::Future>::poll
+             at /Users/pikju/.rustup/toolchains/stable-aarch64-apple-darwin/lib/rustlib/src/rust/library/core/src/future/future.rs:133:9
+  10: tokio::runtime::park::CachedParkThread::block_on::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/park.rs:284:71
+  11: tokio::task::coop::with_budget
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/task/coop/mod.rs:167:5
+  12: tokio::task::coop::budget
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/task/coop/mod.rs:133:5
+  13: tokio::runtime::park::CachedParkThread::block_on
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/park.rs:284:31
+  14: tokio::runtime::context::blocking::BlockingRegionGuard::block_on
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/context/blocking.rs:66:14
+  15: tokio::runtime::scheduler::multi_thread::MultiThread::block_on::{{closure}}
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/scheduler/multi_thread/mod.rs:89:22
+  16: tokio::runtime::context::runtime::enter_runtime
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/context/runtime.rs:65:16
+  17: tokio::runtime::scheduler::multi_thread::MultiThread::block_on
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/scheduler/multi_thread/mod.rs:88:9
+  18: tokio::runtime::runtime::Runtime::block_on_inner
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/runtime.rs:370:50
+  19: tokio::runtime::runtime::Runtime::block_on
+             at /Users/pikju/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-1.49.0/src/runtime/runtime.rs:340:18
+  20: ty_admin_cli::main
+             at ./src/bin/main.rs:7:34
+  21: core::ops::function::FnOnce::call_once
+             at /Users/pikju/.rustup/toolchains/stable-aarch64-apple-darwin/lib/rustlib/src/rust/library/core/src/ops/function.rs:250:5
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.

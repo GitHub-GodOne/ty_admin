@@ -8,15 +8,15 @@ use serde::{Deserialize, Serialize};
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
-    pub pid: u32,
+    pub pid: i32,
     pub name: Option<String>,
     pub icon: Option<String>,
     pub perms: Option<String>,
     pub component: Option<String>,
     pub menu_type: Option<String>,
     pub sort: i32,
-    pub is_show: i32,
-    pub is_delte: Option<u32>,
+    pub is_show: i16,
+    pub is_delte: i16,
     pub create_time: DateTime,
     pub update_time: DateTime,
 }

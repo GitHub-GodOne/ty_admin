@@ -9,10 +9,10 @@ use rust_decimal::Decimal;
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
-    pub product_id: u32,
+    pub product_id: i32,
     pub suk: String,
-    pub stock: u32,
-    pub sales: u32,
+    pub stock: i32,
+    pub sales: i32,
     pub price: Decimal,
     pub image: Option<String>,
     pub unique: String,
@@ -24,11 +24,11 @@ pub struct Model {
     pub brokerage: Decimal,
     pub brokerage_two: Decimal,
     #[sea_orm(column_name = "type")]
-    pub r#type: Option<i32>,
+    pub r#type: Option<i16>,
     pub quota: Option<i32>,
     pub quota_show: Option<i32>,
     pub attr_value: Option<String>,
-    pub is_del: i32,
+    pub is_del: i16,
     pub version: i32,
 }
 

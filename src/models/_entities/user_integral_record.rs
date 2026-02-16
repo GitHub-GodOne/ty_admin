@@ -17,7 +17,7 @@ pub struct Model {
     pub integral: i32,
     pub balance: i32,
     pub mark: String,
-    pub status: i32,
+    pub status: i16,
     pub frozen_time: i32,
     pub thaw_time: i64,
     pub create_time: Option<DateTime>,

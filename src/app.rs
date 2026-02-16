@@ -10,6 +10,7 @@ use loco_rs::{
     task::Tasks,
     Result,
 };
+use axum::Router as AxumRouter;
 use migration::Migrator;
 use std::path::Path;
 
@@ -102,13 +103,79 @@ impl Hooks for App {
     }
 
     async fn initializers(_ctx: &AppContext) -> Result<Vec<Box<dyn Initializer>>> {
-        Ok(vec![])
+        Ok(vec![Box::new(crate::initializers::redis::RedisInitializer)])
     }
 
     fn routes(_ctx: &AppContext) -> AppRoutes {
         AppRoutes::with_default_routes() // controller routes below
             .add_route(controllers::auth::routes())
+            .add_route(controllers::system_admin::routes())
+            .add_route(controllers::admin_login::routes())
+            .add_route(controllers::home::routes())
+            .add_route(controllers::user::routes())
+            .add_route(controllers::user_tag::routes())
+            .add_route(controllers::user_level::routes())
+            .add_route(controllers::user_statistics::routes())
+            .add_route(controllers::store_product::routes())
+            .add_route(controllers::system_config::routes())
+            .add_route(controllers::copyright::routes())
+            .add_route(controllers::category::routes())
+            .add_route(controllers::store_product_rule::routes())
+            .add_route(controllers::store_product_reply::routes())
+            .add_route(controllers::system_attachment::routes())
+            .add_route(controllers::upload::routes())
+            .add_route(controllers::store_order::routes())
+            .add_route(controllers::store_order_status::routes())
+            .add_route(controllers::system_form_temp::routes())
+            .add_route(controllers::one_pass::routes())
+            .add_route(controllers::express::routes())
+            .add_route(controllers::user_group::routes())
+            .add_route(controllers::system_city::routes())
+            .add_route(controllers::article::routes())
+            .add_route(controllers::wechat_reply::routes())
+            .add_route(controllers::wechat_menu::routes())
+            .add_route(controllers::store_seckill::routes())
+            .add_route(controllers::store_bargain::routes())
+            .add_route(controllers::store_combination::routes())
+            .add_route(controllers::user_integral::routes())
+            .add_route(controllers::excel::routes())
+            .add_route(controllers::store_coupon::routes())
+            .add_route(controllers::store_coupon_user::routes())
+            .add_route(controllers::activity_style::routes())
+            .add_route(controllers::retail_shop::routes())
+            .add_route(controllers::yly_print::routes())
+            .add_route(controllers::funds_monitor::routes())
+            .add_route(controllers::user_recharge::routes())
+            .add_route(controllers::user_extract::routes())
+            .add_route(controllers::page_diy::routes())
+            .add_route(controllers::page_layout::routes())
+            .add_route(controllers::system_group_data::routes())
+            .add_route(controllers::system_menu::routes())
+            .add_route(controllers::system_role::routes())
+            .add_route(controllers::system_notification::routes())
+            .add_route(controllers::system_store_staff::routes())
+            .add_route(controllers::system_write_off_order::routes())
+            .add_route(controllers::system_store::routes())
+            .add_route(controllers::shipping_templates::routes())
+            .add_route(controllers::shipping_templates_free::routes())
+            .add_route(controllers::shipping_templates_region::routes())
+            .add_route(controllers::schedule_job::routes())
+            .add_route(controllers::system_group::routes())
+            .add_route(controllers::jsconfig::routes())
+            .add_route(controllers::wechat_mini::routes())
     }
+
+    /// 添加上传文件的静态文件服务
+    /// /store/crmebimage/... → ./uploads/crmebimage/...
+    /// /crmebimage/... → ./uploads/crmebimage/...
+    async fn after_routes(router: AxumRouter, _ctx: &AppContext) -> Result<AxumRouter> {
+        use tower_http::services::ServeDir;
+        let router = router
+            .nest_service("/store", ServeDir::new("./uploads"))
+            .nest_service("/crmebimage", ServeDir::new("./uploads/crmebimage"));
+        Ok(router)
+    }
+
     async fn connect_workers(ctx: &AppContext, queue: &Queue) -> Result<()> {
         queue.register(DownloadWorker::build(ctx)).await?;
         Ok(())

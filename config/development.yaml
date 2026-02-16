@@ -18,12 +18,49 @@ logger:
 server:
   # Port on which the server will listen. the server binding is 0.0.0.0:{PORT}
   port: 5150
-  # Binding for the server (which interface to bind to)
-  binding: localhost
+  # Binding for the server (which interface to bind to) - use 0.0.0.0 to accept all connections
+  binding: 0.0.0.0
   # The UI hostname or IP address that mailers will point to.
   host: http://localhost
   # Out of the box middleware configuration. to disable middleware you can changed the `enable` field to `false` of comment the middleware block
   middlewares:
+    # CORS middleware configuration
+    cors:
+      enable: true
+      allow_origins:
+        - "http://localhost:9527"
+        - "http://127.0.0.1:9527"
+      allow_credentials: true
+      allow_methods:
+        - GET
+        - POST
+        - PUT
+        - DELETE
+        - OPTIONS
+        - PATCH
+        - HEAD
+      allow_headers:
+        - Content-Type
+        - Authorization
+        - authori-zation
+        - Authori-zation
+        - X-Requested-With
+        - Accept
+        - Origin
+        - Access-Control-Request-Method
+        - Access-Control-Request-Headers
+      expose_headers:
+        - Content-Length
+        - Content-Type
+        - Authorization
+        - authori-zation
+        - Authori-zation
+        - Set-Cookie
+      max_age: 86400
+    # 请求体大小限制（默认2MB，上传视频需要更大）
+    limit_payload:
+      enable: true
+      body_limit: 104857600  # 100MB
     fallback:
       enable: false
     static:
@@ -99,3 +136,8 @@ auth:
     secret: HCOT1ZyRW43MKR7pZ7U2
     # Token expiration time in seconds
     expiration: 604800 # 7 days
+
+# Redis Configuration
+redis:
+  # Redis connection URI
+  uri: {{ get_env(name="REDIS_URL", default="redis://127.0.0.1:6379") }}

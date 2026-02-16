@@ -10,8 +10,8 @@ pub struct Model {
     pub id: i32,
     pub role_name: String,
     pub rules: String,
-    pub level: u32,
-    pub status: u32,
+    pub level: i16,
+    pub status: i16,
     pub create_time: DateTime,
     pub update_time: DateTime,
 }

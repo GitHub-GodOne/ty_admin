@@ -9,7 +9,7 @@ pub struct Model {
     pub product_id: i32,
     pub description: String,
     #[sea_orm(column_name = "type")]
-    pub r#type: i32,
+    pub r#type: i16,
     #[sea_orm(primary_key)]
     pub id: i32,
 }

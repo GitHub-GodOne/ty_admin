@@ -9,7 +9,7 @@ use rust_decimal::Decimal;
 pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
-    pub uid: Option<u32>,
+    pub uid: Option<i32>,
     pub real_name: Option<String>,
     pub extract_type: Option<String>,
     pub bank_code: Option<String>,

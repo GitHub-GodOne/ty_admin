@@ -12,9 +12,9 @@ pub struct Model {
     pub method_name: Option<String>,
     pub params: Option<String>,
     pub cron_expression: Option<String>,
-    pub status: Option<i32>,
+    pub status: Option<i16>,
     pub remark: Option<String>,
-    pub is_delte: Option<u32>,
+    pub is_delte: Option<i16>,
     pub create_time: DateTime,
 }
 

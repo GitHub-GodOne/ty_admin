@@ -16,7 +16,7 @@ pub struct Model {
     pub merger_name: String,
     pub lng: String,
     pub lat: String,
-    pub is_show: i32,
+    pub is_show: i16,
     pub create_time: DateTime,
     pub update_time: DateTime,
 }

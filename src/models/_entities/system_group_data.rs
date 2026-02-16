@@ -11,7 +11,7 @@ pub struct Model {
     pub gid: i32,
     pub value: String,
     pub sort: i32,
-    pub status: i32,
+    pub status: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

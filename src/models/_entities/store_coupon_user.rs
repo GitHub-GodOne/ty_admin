@@ -10,20 +10,20 @@ pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
     pub coupon_id: i32,
-    pub cid: u32,
-    pub uid: u32,
+    pub cid: i32,
+    pub uid: i32,
     pub name: String,
     pub money: Decimal,
     pub min_price: Decimal,
     #[sea_orm(column_name = "type")]
     pub r#type: String,
-    pub status: i32,
+    pub status: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
     pub start_time: Option<DateTime>,
     pub end_time: Option<DateTime>,
     pub use_time: Option<DateTime>,
-    pub use_type: Option<i32>,
+    pub use_type: Option<i16>,
     pub primary_key: Option<String>,
 }
 
