@@ -163,6 +163,7 @@ impl Hooks for App {
             .add_route(controllers::system_group::routes())
             .add_route(controllers::jsconfig::routes())
             .add_route(controllers::wechat_mini::routes())
+            .add_route(controllers::wechat_template::routes())
     }
 
     /// 添加上传文件的静态文件服务

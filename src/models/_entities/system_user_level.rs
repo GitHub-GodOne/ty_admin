@@ -10,11 +10,11 @@ pub struct Model {
     pub id: i32,
     pub name: String,
     pub experience: i32,
-    pub is_show: i32,
+    pub is_show: i16,
     pub grade: i32,
     pub discount: i32,
     pub icon: String,
-    pub is_del: i32,
+    pub is_del: i16,
     pub create_time: Option<DateTime>,
     pub update_time: Option<DateTime>,
 }

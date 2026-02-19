@@ -881,7 +881,8 @@ impl StoreBargainService {
     fn timestamp_to_date_string(ts: i64) -> String {
         use chrono::{DateTime, FixedOffset};
         let offset = FixedOffset::east_opt(8 * 3600).unwrap(); // UTC+8
-        let dt = DateTime::from_timestamp(ts, 0)
+        let ts_sec = if ts > 9_999_999_999 { ts / 1000 } else { ts };
+        let dt = DateTime::from_timestamp(ts_sec, 0)
             .map(|d| d.with_timezone(&offset));
         match dt {
             Some(d) => d.format("%Y-%m-%d").to_string(),
@@ -893,7 +894,8 @@ impl StoreBargainService {
     fn timestamp_to_datetime_string(ts: i64) -> String {
         use chrono::{DateTime, FixedOffset};
         let offset = FixedOffset::east_opt(8 * 3600).unwrap();
-        let dt = DateTime::from_timestamp(ts, 0)
+        let ts_sec = if ts > 9_999_999_999 { ts / 1000 } else { ts };
+        let dt = DateTime::from_timestamp(ts_sec, 0)
             .map(|d| d.with_timezone(&offset));
         match dt {
             Some(d) => d.format("%Y-%m-%d %H:%M:%S").to_string(),

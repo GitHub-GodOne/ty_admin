@@ -1,47 +1,59 @@
 body {
-  margin: 0;
-  font-family: "Arimo", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.5;
-  background: #212529;
-  color: #dee2e6;
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(29, 45, 53, 0)
+    margin: 0;
+    font-family:
+        "Arimo",
+        -apple-system,
+        blinkmacsystemfont,
+        "Segoe UI",
+        roboto,
+        "Helvetica Neue",
+        arial,
+        "Noto Sans",
+        sans-serif,
+        "Apple Color Emoji",
+        "Segoe UI Emoji",
+        "Segoe UI Symbol",
+        "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background: #212529;
+    color: #dee2e6;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(29, 45, 53, 0);
 }
 
 ul {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  list-style: none;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    list-style: none;
 }
 
 a {
-  color: #dee2e6;
-  text-decoration: none
+    color: #dee2e6;
+    text-decoration: none;
 }
 
 .container {
-  max-width: 1320px;
-  padding-right: var(--bs-gutter-x, 24px);
-  padding-left: var(--bs-gutter-x, 24px);
-  margin-right: auto;
-  margin-left: auto
+    max-width: 1320px;
+    padding-right: var(--bs-gutter-x, 24px);
+    padding-left: var(--bs-gutter-x, 24px);
+    margin-right: auto;
+    margin-left: auto;
 }
 
-
 .navbar {
-  padding-top: .5rem;
-  padding-bottom: .5rem
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .navbar .container {
-  display: flex;
-  justify-content: space-between
+    display: flex;
+    justify-content: space-between;
 }
 
 .navbar-nav {
-  margin-bottom: 0;
+    margin-bottom: 0;
 }
 .navbar-nav li {
     display: inline-flex;
@@ -49,52 +61,307 @@ a {
 }
 
 .fixed-top {
-  position: fixed;
-  top: 0;
-  right: 0;
-  left: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
 }
 
 body {
-  font-size: 1rem;
-  padding-top: 6rem !important
+    font-size: 1rem;
+    /*padding-top: 6rem !important*/
 }
 
 .navbar {
-  border-bottom: 1px solid #2a2f34;
+    border-bottom: 1px solid #2a2f34;
 }
 
-
 .logo {
-  max-width: 1280px;
-  margin: 0 auto;
-  text-align: center;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .logo img {
-  width: 250px;
+    width: 250px;
 }
 footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 footer ul {
-  display: inline-block;
-  padding: 0;
+    display: inline-block;
+    padding: 0;
 }
 
 footer ul li {
-  display: inline-flex;
-  align-items: center;
-  margin: 0 5px;
-  list-style: none;
+    display: inline-flex;
+    align-items: center;
+    margin: 0 5px;
+    list-style: none;
 }
 
 footer ul li:not(:last-child) {
-  border-right: 1px solid #ccc;
-  padding-right: 5px;
-  height: 15px;
+    border-right: 1px solid #ccc;
+    padding-right: 5px;
+    height: 15px;
+}
+
+/* ========== 全局管理后台样式重置 ========== */
+body {
+    background: #f0f2f5;
+    color: #333;
+}
+
+/* ========== 移动端表格自适应 ========== */
+@media screen and (max-width: 992px) {
+    /* 表格容器允许横向滚动 */
+    .ant-table-wrapper {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .ant-table {
+        min-width: 600px;
+    }
+
+    /* 表格字体缩小 */
+    .ant-table-thead > tr > th,
+    .ant-table-tbody > tr > td {
+        padding: 6px 8px !important;
+        font-size: 12px !important;
+        white-space: nowrap;
+    }
+
+    /* 固定列阴影在移动端更明显 */
+    .ant-table-cell-fix-right-first::after,
+    .ant-table-cell-fix-left-last::after {
+        box-shadow: inset -6px 0 8px -6px rgba(0, 0, 0, 0.15) !important;
+    }
+
+    /* 搜索表单在移动端垂直排列 */
+    .ant-form-inline {
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    .ant-form-inline .ant-form-item {
+        margin-right: 0 !important;
+        margin-bottom: 8px !important;
+        flex: 0 0 100%;
+    }
+
+    /* 输入框和选择器全宽 */
+    .ant-form-inline .ant-form-item .ant-input,
+    .ant-form-inline .ant-form-item .ant-select,
+    .ant-form-inline .ant-form-item .ant-picker {
+        width: 100% !important;
+    }
+
+    .ant-form-inline .ant-form-item .ant-select {
+        min-width: unset !important;
+    }
+
+    /* 按钮行横向排列 */
+    .ant-form-inline .ant-form-item:has(.ant-btn) {
+        flex: 0 0 auto;
+    }
+
+    /* Card 内边距缩小 */
+    .ant-card-body {
+        padding: 12px !important;
+    }
+
+    /* 分页器简化 */
+    .ant-pagination {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 4px;
+    }
+
+    .ant-pagination-options {
+        display: none;
+    }
+
+    .ant-pagination-total-text {
+        display: block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 4px;
+    }
+
+    /* Modal 在移动端全宽 */
+    .ant-modal {
+        max-width: calc(100vw - 32px) !important;
+        margin: 16px auto !important;
+    }
+
+    .ant-modal-body {
+        max-height: 60vh;
+        overflow-y: auto;
+    }
+
+    /* 表单 label 在移动端上方显示 */
+    .ant-modal .ant-form-item {
+        flex-direction: column;
+    }
+
+    .ant-modal .ant-form-item .ant-form-item-label {
+        text-align: left !important;
+        padding-bottom: 4px;
+    }
+
+    .ant-modal .ant-form-item .ant-form-item-label > label {
+        height: auto;
+    }
+
+    /* 统计卡片在移动端缩小 */
+    .ant-statistic-title {
+        font-size: 12px !important;
+    }
+
+    .ant-statistic-content {
+        font-size: 20px !important;
+    }
+
+    /* 操作按钮区域 */
+    .ant-space {
+        flex-wrap: wrap;
+    }
+
+    /* Tag 标签缩小 */
+    .ant-tag {
+        font-size: 11px !important;
+        padding: 0 4px !important;
+    }
+
+    /* Image 预览适配 */
+    .ant-image {
+        display: inline-flex;
+    }
+
+    /* Steps 在移动端简化 */
+    .ant-steps {
+        flex-wrap: wrap;
+    }
+
+    /* Tabs 在移动端可滚动 */
+    .ant-tabs-nav {
+        flex-wrap: nowrap;
+    }
+
+    .ant-tabs-nav-list {
+        flex-wrap: nowrap !important;
+    }
+
+    .ant-tabs-nav-wrap {
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .ant-tabs-tab {
+        white-space: nowrap !important;
+        flex-shrink: 0 !important;
+        padding: 8px 12px !important;
+        font-size: 13px !important;
+    }
+
+    .ant-tabs {
+        overflow: visible !important;
+    }
+
+    .ant-tabs > .ant-tabs-nav {
+        margin-bottom: 8px !important;
+    }
+}
+
+/* ========== 小屏手机进一步适配 ========== */
+@media screen and (max-width: 576px) {
+    .ant-table {
+        min-width: 500px;
+    }
+
+    .ant-table-thead > tr > th,
+    .ant-table-tbody > tr > td {
+        padding: 4px 6px !important;
+        font-size: 11px !important;
+    }
+
+    .ant-card-body {
+        padding: 8px !important;
+    }
+
+    .ant-btn {
+        font-size: 12px;
+        padding: 2px 8px;
+    }
+
+    .ant-btn-sm {
+        font-size: 11px;
+    }
+}
+
+/* ========== Markdown 编辑器适配 ========== */
+.w-md-editor {
+    border: 1px solid #d9d9d9 !important;
+    border-radius: 6px !important;
+}
+
+.w-md-editor-toolbar {
+    border-bottom: 1px solid #d9d9d9 !important;
+}
+
+@media screen and (max-width: 992px) {
+    /* 商品创建页面表单移动端适配 */
+    .ant-form .ant-form-item .ant-form-item-label {
+        text-align: left !important;
+        padding-bottom: 4px;
+    }
+
+    .ant-form .ant-form-item .ant-form-item-label > label {
+        height: auto;
+    }
+
+    /* 输入框全宽 */
+    .ant-form .ant-input,
+    .ant-form .ant-select,
+    .ant-form .ant-cascader,
+    .ant-form .ant-input-number {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* Markdown 编辑器移动端高度调整 */
+    .w-md-editor {
+        height: 300px !important;
+    }
+
+    /* 底部按钮区域 */
+    .ant-form + div {
+        flex-wrap: wrap;
+    }
+
+    /* 规格标签换行 */
+    .ant-tag {
+        margin-bottom: 4px;
+    }
+
+    /* 视频预览缩小 */
+    video {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    /* 图片预览缩小 */
+    .ant-image {
+        max-width: 60px;
+    }
+
+    .ant-image img {
+        width: 60px !important;
+        height: 60px !important;
+    }
 }

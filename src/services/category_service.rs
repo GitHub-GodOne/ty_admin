@@ -246,9 +246,11 @@ impl CategoryService {
             query = query.filter(category::Column::Type.eq(t));
         }
 
-        // 按状态筛选
+        // 按状态筛选（-1 表示全部，不过滤）
         if let Some(s) = status {
-            query = query.filter(category::Column::Status.eq(s));
+            if s >= 0 {
+                query = query.filter(category::Column::Status.eq(s));
+            }
         }
 
         // 按名称模糊搜索

@@ -1,12 +1,17 @@
 import { defineConfig } from "@rsbuild/core";
 import { pluginReact } from "@rsbuild/plugin-react";
+import path from "path";
 
-// https://rsbuild.dev/guide/basic/configure-rsbuild
 export default defineConfig({
   plugins: [pluginReact()],
   html: {
     favicon: "src/assets/favicon.ico",
-    title: "Loco SaaS Starter",
+    title: "TyAdmin",
+  },
+  source: {
+    alias: {
+      "@": path.resolve(__dirname, "src"),
+    },
   },
   server: {
     proxy: {

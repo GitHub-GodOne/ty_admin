@@ -159,9 +159,17 @@ pub struct UserResponse {
     #[serde(rename = "groupId")]
     pub group_id: Option<String>,
 
+    /// 用户分组名称
+    #[serde(rename = "groupName")]
+    pub group_name: Option<String>,
+
     /// 用户标签ID
     #[serde(rename = "tagId")]
     pub tag_id: Option<String>,
+
+    /// 用户标签名称
+    #[serde(rename = "tagName")]
+    pub tag_name: Option<String>,
 
     /// 昵称
     pub nickname: Option<String>,
@@ -207,6 +215,10 @@ pub struct UserResponse {
     /// 推广员ID
     #[serde(rename = "spreadUid")]
     pub spread_uid: Option<i32>,
+
+    /// 推广员昵称
+    #[serde(rename = "spreadNickname")]
+    pub spread_nickname: Option<String>,
 
     /// 推广员关联时间
     #[serde(rename = "spreadTime")]
@@ -310,4 +322,201 @@ pub struct UserOverviewResponse {
     /// 本月新增
     #[serde(rename = "monthNew")]
     pub month_new: i64,
+}
+
+/// 用户更新请求
+#[derive(Debug, Deserialize)]
+pub struct UserUpdateRequest {
+    /// 真实姓名
+    #[serde(rename = "realName")]
+    pub real_name: Option<String>,
+
+    /// 手机号
+    pub phone: Option<String>,
+
+    /// 生日
+    pub birthday: Option<String>,
+
+    /// 身份证号
+    #[serde(rename = "cardId")]
+    pub card_id: Option<String>,
+
+    /// 地址
+    pub addres: Option<String>,
+
+    /// 备注
+    pub mark: Option<String>,
+
+    /// 状态 0-禁用 1-正常
+    pub status: Option<i32>,
+}
+
+/// 用户ID查询请求
+#[derive(Debug, Deserialize)]
+pub struct UserIdRequest {
+    /// 用户ID (支持uid和userId两种参数名)
+    pub uid: Option<i32>,
+
+    #[serde(rename = "userId")]
+    pub user_id: Option<i32>,
+}
+
+impl UserIdRequest {
+    pub fn get_uid(&self) -> Option<i32> {
+        self.uid.or(self.user_id)
+    }
+}
+
+/// 根据条件查询用户信息请求
+/// 对应Java: UserController.infoByCondition
+#[derive(Debug, Deserialize)]
+pub struct UserInfoByConditionRequest {
+    /// 用户ID
+    #[serde(rename = "userId")]
+    pub user_id: i32,
+
+    /// 类型 0=消费记录，1=积分明细，2=签到记录，3=持有优惠券，4=余额变动，5=好友关系
+    #[serde(rename = "type")]
+    pub condition_type: i32,
+}
+
+/// 消费记录响应
+#[derive(Debug, Serialize)]
+pub struct OrderRecordResponse {
+    pub id: i32,
+    #[serde(rename = "orderId")]
+    pub order_id: String,
+    #[serde(rename = "realName")]
+    pub real_name: String,
+    #[serde(rename = "userPhone")]
+    pub user_phone: String,
+    #[serde(rename = "payPrice")]
+    pub pay_price: Decimal,
+    #[serde(rename = "payType")]
+    pub pay_type: String,
+    #[serde(rename = "payTime")]
+    pub pay_time: Option<String>,
+    pub status: i16,
+    #[serde(rename = "createTime")]
+    pub create_time: Option<String>,
+}
+
+/// 积分明细响应
+#[derive(Debug, Serialize)]
+pub struct IntegralRecordResponse {
+    pub id: i32,
+    pub uid: i32,
+    #[serde(rename = "linkId")]
+    pub link_id: String,
+    #[serde(rename = "linkType")]
+    pub link_type: String,
+    #[serde(rename = "type")]
+    pub record_type: i32,
+    pub title: String,
+    pub integral: i32,
+    pub balance: i32,
+    pub mark: String,
+    pub status: i16,
+    #[serde(rename = "createTime")]
+    pub create_time: Option<String>,
+}
+
+/// 签到记录响应
+#[derive(Debug, Serialize)]
+pub struct SignRecordResponse {
+    pub id: i32,
+    pub uid: i32,
+    pub title: String,
+    pub number: i32,
+    pub balance: i32,
+    #[serde(rename = "type")]
+    pub sign_type: i16,
+    #[serde(rename = "createDay")]
+    pub create_day: String,
+    #[serde(rename = "createTime")]
+    pub create_time: String,
+}
+
+/// 优惠券响应
+#[derive(Debug, Serialize)]
+pub struct CouponUserResponse {
+    pub id: i32,
+    #[serde(rename = "couponId")]
+    pub coupon_id: i32,
+    pub uid: i32,
+    pub name: String,
+    pub money: Decimal,
+    #[serde(rename = "minPrice")]
+    pub min_price: Decimal,
+    #[serde(rename = "type")]
+    pub coupon_type: String,
+    pub status: i16,
+    #[serde(rename = "startTime")]
+    pub start_time: Option<String>,
+    #[serde(rename = "endTime")]
+    pub end_time: Option<String>,
+    #[serde(rename = "useTime")]
+    pub use_time: Option<String>,
+    #[serde(rename = "createTime")]
+    pub create_time: Option<String>,
+}
+
+/// 余额变动响应
+#[derive(Debug, Serialize)]
+pub struct BillRecordResponse {
+    pub id: i32,
+    pub uid: i32,
+    #[serde(rename = "linkId")]
+    pub link_id: String,
+    pub pm: i16,
+    pub title: String,
+    pub category: String,
+    #[serde(rename = "type")]
+    pub bill_type: String,
+    pub number: Decimal,
+    pub balance: Decimal,
+    pub mark: String,
+    pub status: i16,
+    #[serde(rename = "createTime")]
+    pub create_time: Option<String>,
+}
+
+/// 好友关系响应
+#[derive(Debug, Serialize)]
+pub struct UserRelationResponse {
+    pub uid: i32,
+    pub nickname: Option<String>,
+    pub avatar: Option<String>,
+    pub phone: Option<String>,
+    #[serde(rename = "spreadUid")]
+    pub spread_uid: Option<i32>,
+    #[serde(rename = "spreadTime")]
+    pub spread_time: Option<String>,
+    pub level: i32,
+}
+
+/// 条件查询统一响应
+#[derive(Debug, Serialize)]
+pub struct UserConditionResponse {
+    pub list: serde_json::Value,
+    pub total: i64,
+    #[serde(rename = "pageNumber")]
+    pub page_number: i32,
+    #[serde(rename = "pageSize")]
+    pub page_size: i32,
+}
+
+/// 更新用户等级请求
+#[derive(Debug, Deserialize)]
+pub struct UpdateUserLevelRequest {
+    /// 用户ID
+    pub uid: i32,
+
+    /// 会员等级ID
+    #[serde(rename = "levelId")]
+    pub level_id: i32,
+
+    /// 是否扣减经验值
+    #[serde(rename = "isSub")]
+    pub is_sub: Option<bool>,
 }

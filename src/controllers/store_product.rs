@@ -234,7 +234,11 @@ async fn quick_add_stock(
 ) -> Result<Response> {
     tracing::info!("快捷添加库存: id={}, stock={}", request.id, request.stock);
 
-    StoreProductService::quick_add_stock(&ctx.db, request.id, request.stock).await?;
+    let attr_stocks = request.attr_stock.map(|items| {
+        items.into_iter().map(|item| (item.attr_value_id, item.stock)).collect()
+    });
+
+    StoreProductService::quick_add_stock(&ctx.db, request.id, request.stock, attr_stocks).await?;
     format::json(ApiResponse::<()>::success_empty())
 }
 
@@ -268,7 +272,21 @@ struct CopyProductRequest {
 struct ProductAddStockRequest {
     /// 商品ID
     id: i32,
-    /// 添加的库存数量
+    /// 添加的库存数量（无SKU时使用）
+    #[serde(default)]
+    stock: i32,
+    /// 按SKU添加库存
+    #[serde(rename = "attrStock")]
+    attr_stock: Option<Vec<AttrStockItem>>,
+}
+
+/// SKU库存项
+#[derive(Debug, Deserialize, Serialize)]
+struct AttrStockItem {
+    /// attrValue记录ID
+    #[serde(rename = "attrValueId")]
+    attr_value_id: i32,
+    /// 增加的库存数量
     stock: i32,
 }
 

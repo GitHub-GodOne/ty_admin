@@ -53,3 +53,4 @@ pub mod schedule_job;
 pub mod system_group;
 pub mod jsconfig;
 pub mod wechat_mini;
+pub mod wechat_template;

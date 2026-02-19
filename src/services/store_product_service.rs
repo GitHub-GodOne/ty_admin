@@ -6,6 +6,9 @@ use sea_orm::*;
 use serde::{Deserialize, Serialize};
 
 use crate::models::_entities::store_product;
+use crate::models::_entities::store_product_attr;
+use crate::models::_entities::store_product_attr_value;
+use crate::models::_entities::store_product_description;
 use crate::dtos::product::{
     StoreProductResponse, StoreProductSearchRequest, StoreProductTabsHeader,
     StoreProductAddRequest,
@@ -184,13 +187,57 @@ impl StoreProductService {
             .await?
             .ok_or_else(|| Error::string("商品不存在"))?;
 
-        // TODO: 查询商品描述、属性等关联信息
+        // 查询商品规格属性
+        let attrs = store_product_attr::Entity::find()
+            .filter(store_product_attr::Column::ProductId.eq(id))
+            .filter(store_product_attr::Column::IsDel.eq(0))
+            .all(db)
+            .await?;
+
+        let attr_json: Vec<serde_json::Value> = attrs.iter().map(|a| {
+            serde_json::json!({
+                "attrName": a.attr_name,
+                "attrValue": a.attr_values.split(',').collect::<Vec<&str>>(),
+            })
+        }).collect();
+
+        // 查询商品规格值（SKU）
+        let attr_values = store_product_attr_value::Entity::find()
+            .filter(store_product_attr_value::Column::ProductId.eq(id))
+            .filter(store_product_attr_value::Column::IsDel.eq(0))
+            .all(db)
+            .await?;
+
+        let attr_value_json: Vec<serde_json::Value> = attr_values.iter().map(|v| {
+            serde_json::json!({
+                "id": v.id,
+                "suk": v.suk,
+                "stock": v.stock,
+                "sales": v.sales,
+                "price": v.price,
+                "image": v.image,
+                "cost": v.cost,
+                "barCode": v.bar_code,
+                "otPrice": v.ot_price,
+                "weight": v.weight,
+                "volume": v.volume,
+                "brokerage": v.brokerage,
+                "brokerageTwo": v.brokerage_two,
+            })
+        }).collect();
+
+        // 查询商品描述
+        let content = store_product_description::Entity::find()
+            .filter(store_product_description::Column::ProductId.eq(id))
+            .one(db)
+            .await?
+            .map(|d| d.description);
 
         Ok(StoreProductInfoResponse {
             product: Self::model_to_response(product),
-            content: None,
-            attr: None,
-            attr_value: None,
+            content,
+            attr: Some(serde_json::json!(attr_json)),
+            attr_value: Some(serde_json::json!(attr_value_json)),
         })
     }
 
@@ -337,21 +384,53 @@ impl StoreProductService {
     }
 
     /// 快捷添加库存
+    ///
+    /// Java参考: StoreProductServiceImpl.stockAdd()
+    /// 支持按SKU单独更新库存，同时更新主商品总库存
     pub async fn quick_add_stock(
         db: &DatabaseConnection,
         id: i32,
         stock: i32,
+        attr_stocks: Option<Vec<(i32, i32)>>,
     ) -> Result<bool> {
         let product = store_product::Entity::find_by_id(id)
             .one(db)
             .await?
             .ok_or_else(|| Error::string("商品不存在"))?;
 
-        let mut product: store_product::ActiveModel = product.into();
-        let current_stock = *product.stock.as_ref();
-        let new_stock = current_stock + stock;
-        product.stock = Set(if new_stock < 0 { 0 } else { new_stock });
-        product.update(db).await?;
+        if let Some(items) = attr_stocks {
+            // 按SKU逐个更新库存
+            for (attr_value_id, add_stock) in &items {
+                if let Some(av) = store_product_attr_value::Entity::find_by_id(*attr_value_id)
+                    .one(db)
+                    .await?
+                {
+                    let new_stock = av.stock + add_stock;
+                    let mut av_model: store_product_attr_value::ActiveModel = av.into();
+                    av_model.stock = Set(if new_stock < 0 { 0 } else { new_stock });
+                    av_model.update(db).await?;
+                }
+            }
+
+            // 重新计算主商品总库存 = 所有SKU库存之和
+            let all_attr_values = store_product_attr_value::Entity::find()
+                .filter(store_product_attr_value::Column::ProductId.eq(id))
+                .filter(store_product_attr_value::Column::IsDel.eq(0))
+                .all(db)
+                .await?;
+
+            let total_stock: i32 = all_attr_values.iter().map(|v| v.stock).sum();
+            let mut product_model: store_product::ActiveModel = product.into();
+            product_model.stock = Set(total_stock);
+            product_model.update(db).await?;
+        } else {
+            // 无SKU数据，直接加到主商品库存
+            let mut product_model: store_product::ActiveModel = product.into();
+            let current_stock = *product_model.stock.as_ref();
+            let new_stock = current_stock + stock;
+            product_model.stock = Set(if new_stock < 0 { 0 } else { new_stock });
+            product_model.update(db).await?;
+        }
 
         Ok(true)
     }

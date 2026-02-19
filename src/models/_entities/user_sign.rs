@@ -13,7 +13,7 @@ pub struct Model {
     pub number: i32,
     pub balance: i32,
     #[sea_orm(column_name = "type")]
-    pub r#type: i32,
+    pub r#type: i16,
     pub create_day: Date,
     pub create_time: DateTime,
 }

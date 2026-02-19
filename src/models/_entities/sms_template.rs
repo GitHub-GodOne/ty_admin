@@ -9,12 +9,12 @@ pub struct Model {
     #[sea_orm(primary_key)]
     pub id: i32,
     pub temp_id: String,
-    pub temp_type: i32,
+    pub temp_type: i16,
     pub title: String,
     #[sea_orm(column_name = "type")]
     pub r#type: String,
     pub temp_key: String,
-    pub status: i32,
+    pub status: i16,
     pub content: String,
     pub create_time: DateTime,
 }
