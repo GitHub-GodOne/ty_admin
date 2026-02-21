@@ -1,3 +1,4 @@
+use rust_decimal::Decimal;
 /// 分销管理 DTO
 ///
 /// Java参考:
@@ -5,23 +6,22 @@
 /// - RetailShopStairUserRequest (推广等级查询)
 /// - SpreadUserResponse (分销员列表响应)
 /// - SpreadOrderResponse (推广订单响应)
-use serde::{Deserialize, Deserializer, Serialize};
-use rust_decimal::Decimal;
+use serde::{Deserialize, Serialize};
 
 /// 空字符串反序列化为 None
-fn deserialize_empty_string_as_none<'de, D, T>(deserializer: D) -> Result<Option<T>, D::Error>
-where
-    D: Deserializer<'de>,
-    T: std::str::FromStr,
-    T::Err: std::fmt::Display,
-{
-    let opt = Option::<String>::deserialize(deserializer)?;
-    match opt {
-        None => Ok(None),
-        Some(s) if s.trim().is_empty() => Ok(None),
-        Some(s) => s.trim().parse::<T>().map(Some).map_err(serde::de::Error::custom),
-    }
-}
+// fn deserialize_empty_string_as_none<'de, D, T>(deserializer: D) -> Result<Option<T>, D::Error>
+// where
+//     D: Deserializer<'de>,
+//     T: std::str::FromStr,
+//     T::Err: std::fmt::Display,
+// {
+//     let opt = Option::<String>::deserialize(deserializer)?;
+//     match opt {
+//         None => Ok(None),
+//         Some(s) if s.trim().is_empty() => Ok(None),
+//         Some(s) => s.trim().parse::<T>().map(Some).map_err(serde::de::Error::custom),
+//     }
+// }
 
 // ==================== 分销员列表搜索 ====================
 

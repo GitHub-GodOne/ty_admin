@@ -197,8 +197,8 @@ impl UploadService {
             .await
             .map_err(|e| Error::string(&format!("保存文件失败: {}", e)))?;
 
-        // 构建返回结果
-        let url = format!("{}{}", web_path, new_file_name);
+        // 构建返回结果（带前导 / 确保浏览器按绝对路径解析）
+        let url = format!("/{}{}", web_path, new_file_name);
 
         // 处理type字段（与Java一致）
         let result_type = if file_type == UPLOAD_FILE_KEYWORD {

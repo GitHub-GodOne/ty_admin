@@ -14,7 +14,7 @@ use crate::models::_entities::{user, user_extract, user_brokerage_record};
 const BROKERAGE_RECORD_TYPE_ADD: i32 = 1;
 const BROKERAGE_RECORD_TYPE_SUB: i32 = 2;
 const BROKERAGE_RECORD_STATUS_COMPLETE: i32 = 3;
-const BROKERAGE_RECORD_STATUS_WITHDRAW: i32 = 5;
+// const BROKERAGE_RECORD_STATUS_WITHDRAW: i32 = 5;
 const BROKERAGE_RECORD_LINK_TYPE_ORDER: &str = "order";
 const BROKERAGE_RECORD_LINK_TYPE_WITHDRAW: &str = "withdraw";
 

@@ -1,10 +1,12 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Card, Tabs, Tree, Button, Upload, Space, message, Popconfirm, Empty, Spin, Typography, Modal, Form, Input, InputNumber, Dropdown, Pagination } from 'antd';
-import { PlusOutlined, DeleteOutlined, ReloadOutlined, FolderOutlined, MoreOutlined, PlayCircleOutlined } from '@ant-design/icons';
+import { Card, Tabs, Tree, Button, Upload, Space, message, Popconfirm, Empty, Spin, Typography, Modal, Form, Input, InputNumber, Dropdown, Pagination, Grid, Drawer } from 'antd';
+import { PlusOutlined, DeleteOutlined, ReloadOutlined, FolderOutlined, MoreOutlined, PlayCircleOutlined, MenuOutlined } from '@ant-design/icons';
 import type { DataNode } from 'antd/es/tree';
 import { fileListApi, fileDeleteApi, fileImageApi } from '@/api/systemSetting';
 import { treeCategroy, addCategroy, updateCategroy, deleteCategroy } from '@/api/categoryApi';
 import { getToken } from '@/utils/auth';
+
+const { useBreakpoint } = Grid;
 
 const IMAGE_TYPES = 'jpg,jpeg,gif,png,bmp,PNG,JPG';
 const VIDEO_TYPES = 'video/mp4';
@@ -12,6 +14,8 @@ const VIDEO_TYPES = 'video/mp4';
 const CATEGORY_TYPE = 1;
 
 const MaintainMaterial: React.FC = () => {
+  const screens = useBreakpoint();
+  const isMobile = !screens.md;
   const [activeTab, setActiveTab] = useState<'pic' | 'video'>('pic');
   const [fileList, setFileList] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
@@ -22,6 +26,8 @@ const MaintainMaterial: React.FC = () => {
   const [catEditId, setCatEditId] = useState<number | null>(null);
   const [catForm] = Form.useForm();
   const [previewVideo, setPreviewVideo] = useState('');
+  const [previewImage, setPreviewImage] = useState('');
+  const [drawerVisible, setDrawerVisible] = useState(false);
 
   const attType = activeTab === 'pic' ? IMAGE_TYPES : VIDEO_TYPES;
 
@@ -155,8 +161,8 @@ const MaintainMaterial: React.FC = () => {
               <PlayCircleOutlined style={{ position: 'absolute', fontSize: 32, color: 'rgba(255,255,255,0.8)' }} />
             </div>
           ) : (
-            <img src={url} alt={name} style={{ height: 120, objectFit: 'cover', width: '100%' }}
-              onClick={() => window.open(url, '_blank')} />
+            <img src={url} alt={name} style={{ height: 120, objectFit: 'cover', width: '100%', cursor: 'pointer' }}
+              onClick={() => setPreviewImage(url)} />
           )
         }
         actions={[
@@ -170,49 +176,71 @@ const MaintainMaterial: React.FC = () => {
     );
   };
 
+  const categoryContent = (
+    <>
+      <Button type="primary" size="small" block icon={<PlusOutlined />} style={{ marginBottom: 8 }}
+        onClick={() => openCatModal(0)}>添加分类</Button>
+      <Tree treeData={categoryTree} defaultExpandAll selectedKeys={[selectedPid]}
+        onSelect={(keys) => {
+          setSelectedPid(keys.length ? Number(keys[0]) : 0);
+          if (isMobile) setDrawerVisible(false);
+        }}
+        style={{ fontSize: 13 }} />
+    </>
+  );
+
   return (
-    <div style={{ display: 'flex', gap: 16 }}>
-      {/* Left: Category sidebar */}
-      <Card style={{ width: 220, flexShrink: 0 }} bodyStyle={{ padding: 8 }}>
-        <Button type="primary" size="small" block icon={<PlusOutlined />} style={{ marginBottom: 8 }}
-          onClick={() => openCatModal(0)}>添加分类</Button>
-        <Tree treeData={categoryTree} defaultExpandAll selectedKeys={[selectedPid]}
-          onSelect={(keys) => setSelectedPid(keys.length ? Number(keys[0]) : 0)}
-          style={{ fontSize: 13 }} />
-      </Card>
+    <div style={{ display: 'flex', gap: isMobile ? 0 : 16, flexDirection: isMobile ? 'column' : 'row' }}>
+      {/* Desktop: Category sidebar */}
+      {!isMobile && (
+        <Card style={{ width: 220, flexShrink: 0 }} bodyStyle={{ padding: 8 }}>
+          {categoryContent}
+        </Card>
+      )}
+
+      {/* Mobile: Category drawer */}
+      {isMobile && (
+        <Drawer title="素材分类" placement="left" open={drawerVisible}
+          onClose={() => setDrawerVisible(false)} width={260} bodyStyle={{ padding: 8 }}>
+          {categoryContent}
+        </Drawer>
+      )}
 
       {/* Right: Content area */}
-      <Card style={{ flex: 1 }} bodyStyle={{ padding: '12px 16px' }}>
+      <Card style={{ flex: 1 }} bodyStyle={{ padding: isMobile ? '8px 10px' : '12px 16px' }}>
         <Tabs activeKey={activeTab} onChange={handleTabChange}
           items={[{ key: 'pic', label: '图片' }, { key: 'video', label: '视频' }]} />
 
-        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 12 }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 12, flexWrap: 'wrap', gap: 8 }}>
           <Space>
+            {isMobile && (
+              <Button icon={<MenuOutlined />} onClick={() => setDrawerVisible(true)}>分类</Button>
+            )}
             {activeTab === 'pic' ? (
               <Upload {...uploadProps} accept="image/*">
-                <Button type="primary" icon={<PlusOutlined />}>上传图片</Button>
+                <Button type="primary" icon={<PlusOutlined />}>{isMobile ? '上传' : '上传图片'}</Button>
               </Upload>
             ) : (
               <Upload customRequest={handleVideoUpload} showUploadList={false} accept="video/mp4">
-                <Button type="primary" icon={<PlusOutlined />}>上传视频</Button>
+                <Button type="primary" icon={<PlusOutlined />}>{isMobile ? '上传' : '上传视频'}</Button>
               </Upload>
             )}
           </Space>
-          <Button icon={<ReloadOutlined />} onClick={() => fetchFiles(pagination.current)}>刷新</Button>
+          <Button icon={<ReloadOutlined />} onClick={() => fetchFiles(pagination.current)}>{isMobile ? '' : '刷新'}</Button>
         </div>
 
         <Spin spinning={loading}>
           {fileList.length === 0 ? (
             <Empty description="素材为空" style={{ marginTop: 60 }} />
           ) : (
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: 12 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: isMobile ? 'repeat(auto-fill, minmax(100px, 1fr))' : 'repeat(auto-fill, minmax(140px, 1fr))', gap: isMobile ? 8 : 12 }}>
               {fileList.map(renderFileItem)}
             </div>
           )}
           {pagination.total > pagination.pageSize && (
             <div style={{ textAlign: 'center', marginTop: 16 }}>
               <Pagination current={pagination.current} pageSize={pagination.pageSize} total={pagination.total}
-                showSizeChanger={false} onChange={(p) => fetchFiles(p)} />
+                showSizeChanger={false} simple={isMobile} onChange={(p) => fetchFiles(p)} />
             </div>
           )}
         </Spin>
@@ -220,7 +248,7 @@ const MaintainMaterial: React.FC = () => {
 
       {/* Category add/edit modal */}
       <Modal title={catEditId ? '编辑分类' : '添加分类'} open={catModalVisible}
-        onOk={handleCatOk} onCancel={() => setCatModalVisible(false)} destroyOnClose width={400}>
+        onOk={handleCatOk} onCancel={() => setCatModalVisible(false)} destroyOnClose width={isMobile ? '90%' : 400}>
         <Form form={catForm} labelCol={{ span: 5 }} wrapperCol={{ span: 17 }}>
           <Form.Item label="分类名称" name="name" rules={[{ required: true, message: '请输入分类名称' }]}>
             <Input placeholder="请输入分类名称" />
@@ -232,8 +260,14 @@ const MaintainMaterial: React.FC = () => {
 
       {/* Video preview modal */}
       <Modal title="视频预览" open={!!previewVideo} onCancel={() => setPreviewVideo('')} footer={null}
-        destroyOnClose width={640}>
+        destroyOnClose width={isMobile ? '95%' : 640}>
         <video src={previewVideo} controls autoPlay style={{ width: '100%' }} />
+      </Modal>
+
+      {/* Image preview modal */}
+      <Modal open={!!previewImage} onCancel={() => setPreviewImage('')} footer={null}
+        destroyOnClose width={isMobile ? '95%' : 640} centered>
+        <img src={previewImage} alt="预览" style={{ width: '100%' }} />
       </Modal>
     </div>
   );

@@ -1,108 +1,98 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Card, Table, Form, Input, Button, Space, Switch, Modal, message } from 'antd';
-import { SearchOutlined, ReloadOutlined } from '@ant-design/icons';
+import { Card, Table, Button, Modal, Form, Input, message } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
-import { cityList, cityUpdate, cityInfo, updateStatus } from '@/api/logistics';
+import { cityList, cityUpdate, cityInfo } from '@/api/logistics';
 
 const CityList: React.FC = () => {
   const [list, setList] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
-  const [keywords, setKeywords] = useState('');
-  const [pagination, setPagination] = useState({ current: 1, pageSize: 20, total: 0 });
+  const [parentId, setParentId] = useState(0);
+  const [parentName, setParentName] = useState('中国');
   const [modalOpen, setModalOpen] = useState(false);
-  const [editData, setEditData] = useState<any>(null);
+  const [editId, setEditId] = useState<number | null>(null);
+  const [confirmLoading, setConfirmLoading] = useState(false);
   const [form] = Form.useForm();
 
-  const fetchList = useCallback(async (page = 1) => {
+  const fetchList = useCallback(async (pid: number) => {
     setLoading(true);
     try {
-      const res = await cityList({ page, limit: pagination.pageSize, keywords: keywords || undefined });
-      setList(res?.list || []);
-      setPagination((p) => ({ ...p, current: page, total: res?.total || 0 }));
+      const res = await cityList({ parentId: pid });
+      setList(Array.isArray(res) ? res : res?.list || []);
     } catch {
       message.error('获取城市列表失败');
     } finally {
       setLoading(false);
     }
-  }, [keywords, pagination.pageSize]);
+  }, []);
 
-  useEffect(() => { fetchList(1); }, []);
+  useEffect(() => { fetchList(parentId); }, [parentId]);
 
-  const handleReset = () => { setKeywords(''); };
-
-  const handleStatusChange = async (record: any, checked: boolean) => {
-    try {
-      await updateStatus({ id: record.cityId, status: checked ? 1 : 0 });
-      message.success('修改成功');
-      fetchList(pagination.current);
-    } catch { /* noop */ }
+  const handleDrillDown = (record: any) => {
+    setParentId(record.cityId);
+    setParentName(record.name);
   };
 
-  const handleEdit = async (id: number) => {
+  const handleBack = () => {
+    setParentId(0);
+    setParentName('中国');
+  };
+
+  const handleEdit = async (record: any) => {
+    setEditId(record.id);
     try {
-      const res = await cityInfo({ cityId: id });
-      setEditData(res);
-      form.setFieldsValue(res);
+      const res = await cityInfo({ id: record.id });
+      form.setFieldsValue({ name: res?.name || record.name });
       setModalOpen(true);
-    } catch { /* noop */ }
+    } catch {
+      // fallback: use table data
+      form.setFieldsValue({ name: record.name });
+      setModalOpen(true);
+    }
   };
-
   const handleSave = async () => {
     try {
       const values = await form.validateFields();
-      await cityUpdate({ ...values, cityId: editData?.cityId });
+      setConfirmLoading(true);
+      await cityUpdate(editId!, { parentId, name: values.name });
       message.success('修改成功');
       setModalOpen(false);
-      fetchList(pagination.current);
-    } catch { /* noop */ }
+      fetchList(parentId);
+    } catch { /* validation */ }
+    finally { setConfirmLoading(false); }
   };
 
   const columns: ColumnsType<any> = [
-    { title: '城市ID', dataIndex: 'cityId', width: 80 },
-    { title: '城市名称', dataIndex: 'name', width: 150 },
-    { title: '上级城市', dataIndex: 'parentName', width: 150 },
-    { title: '级别', dataIndex: 'level', width: 80 },
+    { title: '编号', dataIndex: 'cityId', width: 100 },
+    { title: '上级名称', width: 100, render: () => parentName },
     {
-      title: '状态', width: 100,
+      title: '地区名称', width: 250,
       render: (_: any, record: any) => (
-        <Switch size="small" checked={!!record.isShow}
-          onChange={(checked) => handleStatusChange(record, checked)} />
+        <a onClick={() => handleDrillDown(record)}>{record.name}</a>
       ),
     },
     {
-      title: '操作', width: 100, fixed: 'right',
+      title: '操作', width: 80, fixed: 'right',
       render: (_: any, record: any) => (
-        <a onClick={() => handleEdit(record.cityId)}>编辑</a>
+        <a onClick={() => handleEdit(record)}>编辑</a>
       ),
     },
   ];
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
-      <Card bodyStyle={{ paddingBottom: 0 }}>
-        <Form layout="inline" style={{ marginBottom: 16 }}>
-          <Form.Item>
-            <Input placeholder="城市名称" value={keywords} onChange={(e) => setKeywords(e.target.value)}
-              onPressEnter={() => fetchList(1)} allowClear prefix={<SearchOutlined />} style={{ width: 240 }} />
-          </Form.Item>
-          <Form.Item>
-            <Button type="primary" onClick={() => fetchList(1)}>搜索</Button>
-          </Form.Item>
-          <Form.Item>
-            <Button icon={<ReloadOutlined />} onClick={handleReset}>重置</Button>
-          </Form.Item>
-        </Form>
-      </Card>
       <Card>
-        <Table rowKey="cityId" columns={columns} dataSource={list} loading={loading} size="small"
-          scroll={{ x: 700 }}
-          pagination={{ ...pagination, showSizeChanger: true, pageSizeOptions: ['10', '20', '30', '40'],
-            showTotal: (t: number) => `共 ${t} 条`,
-            onChange: (p: number, ps: number) => { setPagination((prev) => ({ ...prev, pageSize: ps })); fetchList(p); } }} />
+        {parentId > 0 && (
+          <div style={{ marginBottom: 16 }}>
+            <Button type="primary" onClick={handleBack}>返回</Button>
+          </div>
+        )}
+        <Table rowKey="cityId" columns={columns} dataSource={list} loading={loading}
+          size="small" scroll={{ x: 600 }} pagination={false} />
       </Card>
 
       <Modal title="编辑城市" open={modalOpen} onOk={handleSave}
-        onCancel={() => setModalOpen(false)} width={500} destroyOnClose>
+        onCancel={() => setModalOpen(false)} confirmLoading={confirmLoading}
+        width={500} destroyOnClose>
         <Form form={form} labelCol={{ span: 6 }} wrapperCol={{ span: 16 }} preserve={false}>
           <Form.Item label="城市名称" name="name" rules={[{ required: true, message: '请输入城市名称' }]}>
             <Input placeholder="请输入城市名称" />

@@ -60,7 +60,7 @@ server:
     # 请求体大小限制（默认2MB，上传视频需要更大）
     limit_payload:
       enable: true
-      body_limit: 104857600  # 100MB
+      body_limit: 104857600 # 100MB
     fallback:
       enable: false
     static:
@@ -79,8 +79,6 @@ workers:
   #   - ForegroundBlocking - Workers operate in the foreground and block until tasks are completed.
   #   - BackgroundAsync - Workers operate asynchronously in the background, processing tasks with async capabilities.
   mode: BackgroundAsync
-
-  
 
 # Mailer Configuration.
 mailer:
@@ -137,7 +135,7 @@ auth:
     # Token expiration time in seconds
     expiration: 604800 # 7 days
 
-# Redis Configuration
-redis:
-  # Redis connection URI
-  uri: {{ get_env(name="REDIS_URL", default="redis://127.0.0.1:6379") }}
+# Redis Configuration (放在 settings 下，供 initializer 读取)
+settings:
+  redis:
+    uri: {{ get_env(name="REDIS_URL", default="redis://default:Vue8484229%40@132.145.53.28:6379") }}

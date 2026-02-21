@@ -2,7 +2,6 @@
 ///
 /// Java参考: WechatNewServiceImpl, QrCodeServiceImpl
 use loco_rs::prelude::*;
-use sea_orm::*;
 use chrono::Local;
 
 use crate::common::constants;

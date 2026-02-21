@@ -27,11 +27,12 @@ export function updateStatus(data: any) {
 }
 
 // 城市修改
-export function cityUpdate(data: any) {
+export function cityUpdate(id: number, data: any) {
   return request({
     url: '/admin/system/city/update',
     method: 'post',
-    params: { ...data },
+    params: { id },
+    data,
   });
 }
 

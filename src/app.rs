@@ -166,14 +166,17 @@ impl Hooks for App {
             .add_route(controllers::wechat_template::routes())
     }
 
-    /// 添加上传文件的静态文件服务
+    /// 添加上传文件的静态文件服务 + 嵌入前端静态文件
     /// /store/crmebimage/... → ./uploads/crmebimage/...
     /// /crmebimage/... → ./uploads/crmebimage/...
+    /// 其余未匹配路由 → 嵌入的 frontend/dist (SPA fallback)
     async fn after_routes(router: AxumRouter, _ctx: &AppContext) -> Result<AxumRouter> {
         use tower_http::services::ServeDir;
+        use crate::utils::embedded_static::serve_embedded;
         let router = router
             .nest_service("/store", ServeDir::new("./uploads"))
-            .nest_service("/crmebimage", ServeDir::new("./uploads/crmebimage"));
+            .nest_service("/crmebimage", ServeDir::new("./uploads/crmebimage"))
+            .fallback(serve_embedded);
         Ok(router)
     }
 

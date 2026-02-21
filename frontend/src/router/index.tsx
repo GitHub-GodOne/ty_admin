@@ -89,6 +89,11 @@ const StatProduct = lazy(() => import('@/pages/statistic/product'));
 const StatUser = lazy(() => import('@/pages/statistic/user'));
 const StatTrade = lazy(() => import('@/pages/statistic/trade'));
 
+// AppSetting - WeChat
+const WxMenus = lazy(() => import('@/pages/appSetting/wxMenus'));
+const WxReplyKeyword = lazy(() => import('@/pages/appSetting/wxReply/keyword'));
+const WxReplyFollow = lazy(() => import('@/pages/appSetting/wxReply/follow'));
+
 // Design
 const DesignList = lazy(() => import('@/pages/design/index'));
 const PageBuilder = lazy(() => import('@/pages/design/builder/index'));
@@ -192,6 +197,11 @@ export const router = createBrowserRouter([
       // Design
       { path: 'design/index', element: lazy_(<DesignList />) },
       { path: 'design/builder', element: lazy_(<PageBuilder />) },
+      // AppSetting - WeChat
+      { path: 'appSetting/publicAccount/wxMenus', element: lazy_(<WxMenus />) },
+      { path: 'appSetting/publicAccount/wxReply/keyword', element: lazy_(<WxReplyKeyword />) },
+      { path: 'appSetting/publicAccount/wxReply/follow', element: lazy_(<WxReplyFollow />) },
+      { path: 'appSetting/publicAccount/wxReply/replyIndex', element: lazy_(<WxReplyFollow />) },
     ],
   },
   { path: '*', element: <Navigate to="/404" replace /> },

@@ -5,7 +5,7 @@ import {
   MenuFoldOutlined, MenuUnfoldOutlined, DashboardOutlined, ShopOutlined,
   OrderedListOutlined, UserOutlined, GiftOutlined, MoneyCollectOutlined,
   FileTextOutlined, ShareAltOutlined, SettingOutlined, ToolOutlined,
-  BarChartOutlined, LogoutOutlined, CarOutlined,
+  BarChartOutlined, LogoutOutlined, WechatOutlined,
   AppstoreOutlined, SkinOutlined,
 } from '@ant-design/icons';
 import type { MenuProps } from 'antd';
@@ -95,9 +95,15 @@ const staticMenuItems: MenuProps['items'] = [
       ]},
     ]},
   ]},
-  { key: '/systemSetting', icon: <CarOutlined />, label: '物流', children: [
-    { key: '/systemSetting/logistics/express', label: '物流公司' }, { key: '/systemSetting/logistics/city', label: '城市列表' },
-    { key: '/systemSetting/deliverGoods/freight', label: '运费模板' },
+  { key: '/appSetting', icon: <WechatOutlined />, label: '应用', children: [
+    { key: '/appSetting/publicAccount', label: '公众号', children: [
+      { key: '/appSetting/publicAccount/wxMenus', label: '微信菜单' },
+      { key: '/appSetting/publicAccount/wxReply', label: '自动回复', children: [
+        { key: '/appSetting/publicAccount/wxReply/follow', label: '微信关注回复' },
+        { key: '/appSetting/publicAccount/wxReply/keyword', label: '关键字回复' },
+        { key: '/appSetting/publicAccount/wxReply/replyIndex', label: '无效关键词回复' },
+      ]},
+    ]},
   ]},
   { key: '/maintain', icon: <ToolOutlined />, label: '维护', children: [
     { key: '/maintain/material', label: '素材管理' }, { key: '/maintain/formConfig', label: '表单配置' },
@@ -110,6 +116,10 @@ const staticMenuItems: MenuProps['items'] = [
       { key: '/maintain/devconfig/configCategory', label: '配置分类' },
       { key: '/maintain/devconfig/combinedData', label: '组合数据' },
       { key: '/maintain/devconfig/formConfig', label: '表单配置' },
+    ]},
+    { key: '/maintain/logistics', label: '物流设置', children: [
+      { key: '/maintain/logistics/companyList', label: '物流公司' },
+      { key: '/maintain/logistics/cityList', label: '城市数据' },
     ]},
   ]},
   { key: '/statistic', icon: <BarChartOutlined />, label: '统计', children: [

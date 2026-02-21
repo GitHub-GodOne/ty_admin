@@ -273,11 +273,25 @@ impl SystemAttachmentService {
         let update_time = model.update_time
             .map(|dt| dt.format("%Y-%m-%d %H:%M:%S").to_string());
 
+        // 确保路径以 / 开头，避免浏览器按相对路径解析
+        let satt_dir = model.satt_dir.map(|s| {
+            if !s.is_empty() && !s.starts_with('/') && !s.starts_with("http") {
+                format!("/{}", s)
+            } else {
+                s
+            }
+        });
+        let att_dir = if !model.att_dir.is_empty() && !model.att_dir.starts_with('/') && !model.att_dir.starts_with("http") {
+            format!("/{}", model.att_dir)
+        } else {
+            model.att_dir
+        };
+
         SystemAttachmentResponse {
             att_id: model.att_id,
             name: model.name,
-            att_dir: model.att_dir,
-            satt_dir: model.satt_dir,
+            att_dir,
+            satt_dir,
             att_size: model.att_size,
             att_type: model.att_type,
             pid: model.pid,
